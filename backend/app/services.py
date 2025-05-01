@@ -75,22 +75,24 @@ def save_issues_to_db(db: Session, issues, repo_name):
             repo = Repository(
                 name=repo_name,
                 stars=int(repo_info.get("stargazers_count", 0)),
-                language=repo_info.get("language") if repo_info.get("language") else "Unknown",
+                language=repo_info.get("language", "Unknown"),
                 issue_count=len(issues)
             )
             db.add(repo)
         else:
-            # Update metadata if repository already exists
+            # ✅ Update metadata if repository already exists
             repo.stars = int(repo_info.get("stargazers_count", 0))
-            repo.language = repo_info.get("language") if repo_info.get("language") else "Unknown"
+            repo.language = repo_info.get("language", "Unknown")
             repo.issue_count = len(issues)
-        db.commit()
-        db.refresh(repo)  # Refresh object to see latest committed values
-        logging.info(f"✅ Repository {repo_name} now has {repo.stars} stars and language: {repo.language}")
 
-        # ✅ Insert issues into PostgreSQL with LLM Analysis
+        db.commit()
+        db.refresh(repo)
+        logging.info(f"✅ Repository {repo_name} updated with {repo.stars} stars and language: {repo.language}")
+
+        # ✅ Insert issues into PostgreSQL with AI Analysis
         for issue_data in issues:
             issue_body = issue_data.get("body", "")
+            status_value = "closed" if issue_data.get("closed_at") else "open"  # ✅ Ensure correct status
             llm_analysis = analyze_issue_with_llm(issue_body) if issue_body else "No description available"
 
             issue = Issue(
@@ -99,9 +101,10 @@ def save_issues_to_db(db: Session, issues, repo_name):
                 description=issue_body,
                 created_at=issue_data.get("created_at"),
                 closed_at=issue_data.get("closed_at"),
-                status="open" if issue_data.get("state") == "open" else "closed",
+                status=status_value,
                 llm_analysis=llm_analysis
             )
+
             db.add(issue)
             logging.info(f"📌 Added Issue: {issue.title} | Status: {issue.status} | Created: {issue.created_at}")
 
@@ -111,6 +114,7 @@ def save_issues_to_db(db: Session, issues, repo_name):
 
     except Exception as e:
         logging.error(f"❌ Error saving issues with LLM analysis: {e}")
+
 
 def analyze_issue_with_llm(issue_description):
     """Uses Hugging Face API to assess issue clarity."""
