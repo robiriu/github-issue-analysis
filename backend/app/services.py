@@ -6,7 +6,11 @@ from app.models import Repository, Issue
 from app.db.database import get_db
 
 # Initialize logging
-logging.basicConfig(filename="app.log", level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
+logging.basicConfig(
+    filename="app.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s"
+)
 
 def fetch_github_issues():
     """Fetches issues from GitHub and stores them in PostgreSQL."""
@@ -21,7 +25,7 @@ def fetch_github_issues():
             response.raise_for_status()
             issues = response.json()
 
-            if not issues:
+            if not issues:  # no more data; exit pagination loop
                 break
 
             all_issues.extend(issues)
@@ -30,7 +34,7 @@ def fetch_github_issues():
 
         except requests.exceptions.RequestException as e:
             logging.error(f"❌ Error fetching issues: {e}")
-            return []
+            return []  # Return an empty list instead of stopping execution
 
     logging.info(f"✅ Total issues fetched: {len(all_issues)}")
 
@@ -44,15 +48,15 @@ def fetch_repository_metadata(repo_name):
     """Fetches repository metadata from GitHub."""
     headers = {"Authorization": f"Bearer {GITHUB_TOKEN}"}
     response = requests.get(f"https://api.github.com/repos/{repo_name}", headers=headers)
-    
-    if response.status_code != 200:
-        logging.error(f"❌ Failed to fetch repository metadata for {repo_name}: {response.status_code}")
+    try:
+        response.raise_for_status()
+        return response.json()
+    except requests.exceptions.RequestException as e:
+        logging.error(f"❌ Error fetching repository metadata for {repo_name}: {e}")
         return None
 
-    return response.json()
-
 def save_issues_to_db(db: Session, issues, repo_name):
-    """Stores GitHub issues and repository metadata into PostgreSQL."""
+    """Stores GitHub issues and repository metadata into PostgreSQL with LLM-based analysis."""
     try:
         if not issues:
             logging.warning(f"⚠️ No issues found for {repo_name}. Skipping save.")
@@ -60,12 +64,12 @@ def save_issues_to_db(db: Session, issues, repo_name):
 
         logging.info(f"✅ Preparing to save {len(issues)} issues for {repo_name}")
 
-        # ✅ Fetch repository metadata
+        # ✅ Fetch repository metadata from GitHub
         repo_info = fetch_repository_metadata(repo_name)
         if not repo_info:
             return
 
-        # ✅ Ensure repository entry exists in PostgreSQL
+        # ✅ Ensure repository entry exists in PostgreSQL and update metadata regardless
         repo = db.query(Repository).filter(Repository.name == repo_name).first()
         if not repo:
             repo = Repository(
@@ -75,34 +79,38 @@ def save_issues_to_db(db: Session, issues, repo_name):
                 issue_count=len(issues)
             )
             db.add(repo)
-            db.commit()
-            logging.info(f"✅ Repository {repo_name} saved with {repo.stars} stars and language: {repo.language}")
+        else:
+            # Update metadata if repository already exists
+            repo.stars = int(repo_info.get("stargazers_count", 0))
+            repo.language = repo_info.get("language") if repo_info.get("language") else "Unknown"
+            repo.issue_count = len(issues)
+        db.commit()
+        db.refresh(repo)  # Refresh object to see latest committed values
+        logging.info(f"✅ Repository {repo_name} now has {repo.stars} stars and language: {repo.language}")
 
-        # ✅ Insert issues into PostgreSQL
+        # ✅ Insert issues into PostgreSQL with LLM Analysis
         for issue_data in issues:
             issue_body = issue_data.get("body", "")
             llm_analysis = analyze_issue_with_llm(issue_body) if issue_body else "No description available"
 
             issue = Issue(
                 repo_id=repo.id,
-                title=issue_data["title"],
+                title=issue_data.get("title"),
                 description=issue_body,
-                created_at=issue_data["created_at"],
+                created_at=issue_data.get("created_at"),
                 closed_at=issue_data.get("closed_at"),
-                status="open" if issue_data["state"] == "open" else "closed",
+                status="open" if issue_data.get("state") == "open" else "closed",
                 llm_analysis=llm_analysis
             )
             db.add(issue)
+            logging.info(f"📌 Added Issue: {issue.title} | Status: {issue.status} | Created: {issue.created_at}")
 
-        # ✅ Commit data and verify count
         db.commit()
         stored_count = db.query(Issue).filter(Issue.repo_id == repo.id).count()
-        logging.info(f"🛠 DB Check: {stored_count}/{len(issues)} issues stored for {repo_name}")
+        logging.info(f"✅ Committed {stored_count} issues for repository {repo_name}")
 
-    except requests.exceptions.RequestException as req_err:
-        logging.error(f"❌ Error fetching repository metadata: {req_err}")
     except Exception as e:
-        logging.error(f"❌ Error saving issues: {e}")
+        logging.error(f"❌ Error saving issues with LLM analysis: {e}")
 
 def analyze_issue_with_llm(issue_description):
     """Uses Hugging Face API to assess issue clarity."""
@@ -117,15 +125,14 @@ def analyze_issue_with_llm(issue_description):
         )
         response.raise_for_status()
         response_data = response.json()
+
+        logging.info(f"LLM Full Response: {response_data}")  # log entire response for debugging
         
-        logging.info(f"LLM Full Response: {response_data}")
-        
-        if "summary_text" not in response_data[0]:
+        if isinstance(response_data, list) and "summary_text" in response_data[0]:
+            return response_data[0].get("summary_text", "No analysis available")
+        else:
             logging.error(f"Unexpected LLM response structure: {response_data}")
             return "Analysis failed"
-
-        return response_data[0].get("summary_text", "No analysis available")
-
     except requests.exceptions.RequestException as e:
         logging.error(f"Error analyzing issue with LLM: {e}")
         return "Analysis failed"
@@ -137,20 +144,19 @@ def rank_repositories(db: Session):
 
     for repo in repositories:
         issues = db.query(Issue).filter(Issue.repo_id == repo.id).all()
-
         total_issues = len(issues)
         resolved_issues = sum(1 for issue in issues if issue.status == "closed")
-        avg_resolution_time = sum((issue.closed_at - issue.created_at).days for issue in issues if issue.closed_at) / max(1, resolved_issues)
-
-        if total_issues > 0:
-            score = (resolved_issues / max(1, total_issues)) * 0.5 + (1 / max(1, avg_resolution_time)) * 0.5
-        else:
-            score = 0    
+        # Calculate average resolution time in days; avoid division by zero
+        avg_resolution_time = (
+            sum((issue.closed_at - issue.created_at).days for issue in issues if issue.closed_at) /
+            max(1, resolved_issues)
+        )
+        # Example weighted scoring formula
+        score = (resolved_issues / max(1, total_issues)) * 0.5 + (1 / max(1, avg_resolution_time)) * 0.5 if total_issues > 0 else 0
         repo_scores[repo.name] = round(score, 3)
 
     ranked_repos = sorted(repo_scores.items(), key=lambda x: x[1], reverse=True)
-    logging.info(f"Repository rankings generated: {ranked_repos}")
-    
+    logging.info(f"✅ Repository rankings generated: {ranked_repos}")
     return ranked_repos
 
 def generate_repository_report(db: Session):
@@ -175,5 +181,5 @@ def generate_repository_report(db: Session):
     with open("repository_report.txt", "w") as file:
         file.write(report_text)
 
-    logging.info("Repository ranking report generated successfully.")
+    logging.info("✅ Repository ranking report generated successfully.")
     return report_text

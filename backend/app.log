@@ -1219,3 +1219,410 @@
 2025-05-01 20:11:39,963 - INFO - Repository ranking report generated successfully.
 2025-05-01 20:12:19,346 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
 2025-05-01 20:12:19,354 - INFO - Repository ranking report generated successfully.
+2025-05-01 20:23:05,420 - INFO - ✅ Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:23:05,448 - INFO - ✅ Repository ranking report generated successfully.
+2025-05-01 20:31:13,267 - INFO - ✅ Fetched 100 issues from page 1 of elastic/kibana
+2025-05-01 20:31:14,481 - INFO - ✅ Fetched 100 issues from page 2 of elastic/kibana
+2025-05-01 20:31:15,648 - INFO - ✅ Fetched 100 issues from page 3 of elastic/kibana
+2025-05-01 20:31:16,690 - INFO - ✅ Fetched 100 issues from page 4 of elastic/kibana
+2025-05-01 20:31:17,749 - INFO - ✅ Fetched 100 issues from page 5 of elastic/kibana
+2025-05-01 20:31:18,870 - INFO - ✅ Fetched 100 issues from page 6 of elastic/kibana
+2025-05-01 20:31:19,901 - INFO - ✅ Fetched 100 issues from page 7 of elastic/kibana
+2025-05-01 20:31:21,712 - INFO - ✅ Fetched 100 issues from page 8 of elastic/kibana
+2025-05-01 20:31:22,964 - INFO - ✅ Fetched 100 issues from page 9 of elastic/kibana
+2025-05-01 20:31:24,079 - INFO - ✅ Fetched 100 issues from page 10 of elastic/kibana
+2025-05-01 20:31:25,340 - INFO - ✅ Fetched 100 issues from page 11 of elastic/kibana
+2025-05-01 20:31:26,573 - INFO - ✅ Fetched 100 issues from page 12 of elastic/kibana
+2025-05-01 20:31:27,819 - INFO - ✅ Fetched 100 issues from page 13 of elastic/kibana
+2025-05-01 20:31:29,178 - INFO - ✅ Fetched 100 issues from page 14 of elastic/kibana
+2025-05-01 20:31:30,479 - INFO - ✅ Fetched 100 issues from page 15 of elastic/kibana
+2025-05-01 20:31:31,932 - INFO - ✅ Fetched 100 issues from page 16 of elastic/kibana
+2025-05-01 20:31:33,777 - INFO - ✅ Fetched 100 issues from page 17 of elastic/kibana
+2025-05-01 20:31:35,037 - INFO - ✅ Fetched 100 issues from page 18 of elastic/kibana
+2025-05-01 20:31:36,235 - INFO - ✅ Fetched 100 issues from page 19 of elastic/kibana
+2025-05-01 20:31:37,483 - INFO - ✅ Fetched 100 issues from page 20 of elastic/kibana
+2025-05-01 20:31:38,764 - INFO - ✅ Fetched 100 issues from page 21 of elastic/kibana
+2025-05-01 20:31:40,245 - INFO - ✅ Fetched 100 issues from page 22 of elastic/kibana
+2025-05-01 20:31:41,650 - INFO - ✅ Fetched 100 issues from page 23 of elastic/kibana
+2025-05-01 20:31:42,896 - INFO - ✅ Fetched 100 issues from page 24 of elastic/kibana
+2025-05-01 20:31:44,223 - INFO - ✅ Fetched 100 issues from page 25 of elastic/kibana
+2025-05-01 20:31:46,084 - INFO - ✅ Fetched 100 issues from page 26 of elastic/kibana
+2025-05-01 20:31:47,463 - INFO - ✅ Fetched 100 issues from page 27 of elastic/kibana
+2025-05-01 20:31:48,861 - INFO - ✅ Fetched 100 issues from page 28 of elastic/kibana
+2025-05-01 20:31:50,221 - INFO - ✅ Fetched 100 issues from page 29 of elastic/kibana
+2025-05-01 20:31:51,488 - INFO - ✅ Fetched 100 issues from page 30 of elastic/kibana
+2025-05-01 20:31:52,934 - INFO - ✅ Fetched 100 issues from page 31 of elastic/kibana
+2025-05-01 20:31:54,300 - INFO - ✅ Fetched 100 issues from page 32 of elastic/kibana
+2025-05-01 20:31:55,663 - INFO - ✅ Fetched 100 issues from page 33 of elastic/kibana
+2025-05-01 20:31:57,539 - INFO - ✅ Fetched 100 issues from page 34 of elastic/kibana
+2025-05-01 20:31:58,983 - INFO - ✅ Fetched 100 issues from page 35 of elastic/kibana
+2025-05-01 20:32:03,214 - INFO - ✅ Fetched 100 issues from page 36 of elastic/kibana
+2025-05-01 20:32:04,656 - INFO - ✅ Fetched 100 issues from page 37 of elastic/kibana
+2025-05-01 20:32:06,457 - INFO - ✅ Fetched 100 issues from page 38 of elastic/kibana
+2025-05-01 20:32:07,936 - INFO - ✅ Fetched 100 issues from page 39 of elastic/kibana
+2025-05-01 20:32:09,569 - INFO - ✅ Fetched 100 issues from page 40 of elastic/kibana
+2025-05-01 20:32:11,654 - INFO - ✅ Fetched 100 issues from page 41 of elastic/kibana
+2025-05-01 20:32:12,854 - INFO - ✅ Fetched 100 issues from page 42 of elastic/kibana
+2025-05-01 20:32:14,019 - INFO - ✅ Fetched 100 issues from page 43 of elastic/kibana
+2025-05-01 20:32:15,845 - INFO - ✅ Fetched 100 issues from page 44 of elastic/kibana
+2025-05-01 20:32:17,602 - INFO - ✅ Fetched 100 issues from page 45 of elastic/kibana
+2025-05-01 20:32:22,595 - INFO - ✅ Fetched 100 issues from page 46 of elastic/kibana
+2025-05-01 20:32:24,376 - INFO - ✅ Fetched 100 issues from page 47 of elastic/kibana
+2025-05-01 20:32:29,980 - INFO - ✅ Fetched 100 issues from page 48 of elastic/kibana
+2025-05-01 20:32:31,721 - INFO - ✅ Fetched 100 issues from page 49 of elastic/kibana
+2025-05-01 20:32:33,289 - INFO - ✅ Fetched 100 issues from page 50 of elastic/kibana
+2025-05-01 20:32:34,840 - INFO - ✅ Fetched 100 issues from page 51 of elastic/kibana
+2025-05-01 20:32:36,482 - INFO - ✅ Fetched 100 issues from page 52 of elastic/kibana
+2025-05-01 20:32:37,792 - INFO - ✅ Fetched 100 issues from page 53 of elastic/kibana
+2025-05-01 20:32:39,231 - INFO - ✅ Fetched 100 issues from page 54 of elastic/kibana
+2025-05-01 20:32:40,740 - INFO - ✅ Fetched 100 issues from page 55 of elastic/kibana
+2025-05-01 20:32:42,620 - INFO - ✅ Fetched 100 issues from page 56 of elastic/kibana
+2025-05-01 20:32:44,428 - INFO - ✅ Fetched 100 issues from page 57 of elastic/kibana
+2025-05-01 20:32:45,272 - INFO - ✅ Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:32:45,283 - INFO - ✅ Repository ranking report generated successfully.
+2025-05-01 20:32:45,886 - INFO - ✅ Fetched 100 issues from page 58 of elastic/kibana
+2025-05-01 20:32:48,150 - INFO - ✅ Fetched 100 issues from page 59 of elastic/kibana
+2025-05-01 20:32:49,497 - INFO - ✅ Fetched 100 issues from page 60 of elastic/kibana
+2025-05-01 20:32:51,309 - INFO - ✅ Fetched 100 issues from page 61 of elastic/kibana
+2025-05-01 20:32:53,473 - INFO - ✅ Fetched 100 issues from page 62 of elastic/kibana
+2025-05-01 20:32:55,535 - INFO - ✅ Fetched 100 issues from page 63 of elastic/kibana
+2025-05-01 20:32:57,281 - INFO - ✅ Fetched 100 issues from page 64 of elastic/kibana
+2025-05-01 20:32:59,979 - INFO - ✅ Fetched 100 issues from page 65 of elastic/kibana
+2025-05-01 20:33:02,105 - INFO - ✅ Fetched 100 issues from page 66 of elastic/kibana
+2025-05-01 20:33:04,523 - INFO - ✅ Fetched 100 issues from page 67 of elastic/kibana
+2025-05-01 20:33:06,398 - INFO - ✅ Fetched 100 issues from page 68 of elastic/kibana
+2025-05-01 20:33:08,182 - INFO - ✅ Fetched 100 issues from page 69 of elastic/kibana
+2025-05-01 20:33:10,558 - INFO - ✅ Fetched 100 issues from page 70 of elastic/kibana
+2025-05-01 20:33:12,374 - INFO - ✅ Fetched 100 issues from page 71 of elastic/kibana
+2025-05-01 20:33:14,316 - INFO - ✅ Fetched 100 issues from page 72 of elastic/kibana
+2025-05-01 20:33:16,214 - INFO - ✅ Fetched 100 issues from page 73 of elastic/kibana
+2025-05-01 20:33:17,944 - INFO - ✅ Fetched 100 issues from page 74 of elastic/kibana
+2025-05-01 20:33:19,605 - INFO - ✅ Fetched 100 issues from page 75 of elastic/kibana
+2025-05-01 20:33:21,093 - INFO - ✅ Fetched 100 issues from page 76 of elastic/kibana
+2025-05-01 20:33:22,748 - INFO - ✅ Fetched 100 issues from page 77 of elastic/kibana
+2025-05-01 20:33:24,216 - INFO - ✅ Fetched 100 issues from page 78 of elastic/kibana
+2025-05-01 20:33:25,547 - INFO - ✅ Fetched 100 issues from page 79 of elastic/kibana
+2025-05-01 20:33:27,413 - INFO - ✅ Fetched 100 issues from page 80 of elastic/kibana
+2025-05-01 20:33:28,906 - INFO - ✅ Fetched 100 issues from page 81 of elastic/kibana
+2025-05-01 20:33:30,389 - INFO - ✅ Fetched 100 issues from page 82 of elastic/kibana
+2025-05-01 20:33:31,637 - INFO - ✅ Fetched 100 issues from page 83 of elastic/kibana
+2025-05-01 20:33:32,789 - INFO - ✅ Fetched 100 issues from page 84 of elastic/kibana
+2025-05-01 20:33:34,124 - INFO - ✅ Fetched 100 issues from page 85 of elastic/kibana
+2025-05-01 20:33:35,454 - INFO - ✅ Fetched 100 issues from page 86 of elastic/kibana
+2025-05-01 20:33:36,816 - INFO - ✅ Fetched 100 issues from page 87 of elastic/kibana
+2025-05-01 20:33:38,067 - INFO - ✅ Fetched 100 issues from page 88 of elastic/kibana
+2025-05-01 20:33:39,539 - INFO - ✅ Fetched 100 issues from page 89 of elastic/kibana
+2025-05-01 20:33:40,888 - INFO - ✅ Fetched 100 issues from page 90 of elastic/kibana
+2025-05-01 20:33:42,364 - INFO - ✅ Fetched 100 issues from page 91 of elastic/kibana
+2025-05-01 20:33:43,577 - INFO - ✅ Fetched 100 issues from page 92 of elastic/kibana
+2025-05-01 20:33:44,767 - INFO - ✅ Fetched 100 issues from page 93 of elastic/kibana
+2025-05-01 20:33:46,162 - INFO - ✅ Fetched 100 issues from page 94 of elastic/kibana
+2025-05-01 20:33:47,998 - INFO - ✅ Fetched 100 issues from page 95 of elastic/kibana
+2025-05-01 20:33:49,323 - INFO - ✅ Fetched 100 issues from page 96 of elastic/kibana
+2025-05-01 20:33:50,787 - INFO - ✅ Fetched 100 issues from page 97 of elastic/kibana
+2025-05-01 20:33:52,068 - INFO - ✅ Fetched 100 issues from page 98 of elastic/kibana
+2025-05-01 20:33:53,398 - INFO - ✅ Fetched 100 issues from page 99 of elastic/kibana
+2025-05-01 20:33:53,399 - INFO - ✅ Total issues fetched: 9900
+2025-05-01 20:33:53,400 - INFO - ✅ Preparing to save 9900 issues for elastic/kibana
+2025-05-01 20:33:54,113 - INFO - ✅ Repository elastic/kibana now has 20438 stars and language: TypeScript
+2025-05-01 20:34:00,360 - INFO - LLM Full Response: [{'summary_text': 'IP Addresses render truncated to the first 2 octets when used in mustache TSVB markdown panel. Kibana version:** 9.0.0, Elasticsearch version:\xa0 9.1.1, Ubuntu 22.04.5 (64-bit) Browser OS:** Firefox 137.2 ( 64-bit), Windows 11 (11)'}]
+2025-05-01 20:34:00,363 - INFO - 📌 Added Issue: IP addresses rendering improperly in mustache TSVB markdown | Status: open | Created: 2025-05-01T13:29:08Z
+2025-05-01 20:34:05,147 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.18`: - [[Fleet] Fix dataset validation to show errors on upgrade (#219741)] - Backport version: 9.6.6 - Questions? Please refer to the [Backport tool documentation]'}]
+2025-05-01 20:34:05,149 - INFO - 📌 Added Issue: [8.18] [Fleet] Fix dataset validation to show errors on upgrade (#219741) | Status: open | Created: 2025-05-01T13:05:18Z
+2025-05-01 20:34:09,985 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: - [[Fleet] Fix dataset validation to show errors on upgrade (#219741)] - Backport version: 9.6.6 - Questions? Please refer to the [Backport tool documentation]'}]
+2025-05-01 20:34:09,986 - INFO - 📌 Added Issue: [8.19] [Fleet] Fix dataset validation to show errors on upgrade (#219741) | Status: open | Created: 2025-05-01T13:04:02Z
+2025-05-01 20:34:15,286 - INFO - LLM Full Response: [{'summary_text': "This will backport the following commits from `main` to `9.0.0' - [[Fleet] Fix dataset validation to show errors on upgrade (#219741)] Backport version: 9.6.6 - Backport tool documentation is available at: http://elastic.com/sorenlouv/backport."}]
+2025-05-01 20:34:15,290 - INFO - 📌 Added Issue: [9.0] [Fleet] Fix dataset validation to show errors on upgrade (#219741) | Status: open | Created: 2025-05-01T13:01:43Z
+2025-05-01 20:34:18,767 - INFO - LLM Full Response: [{'summary_text': 'Kibana is a cloud-based storage system. Kibana was developed in the late 1990s. It was the first cloud storage system in the world. It is now being used to store data in the cloud. It can also store data on the cloud, and other systems.'}]
+2025-05-01 20:34:18,768 - INFO - 📌 Added Issue: [8.18] Sync bundled packages with Package Storage | Status: open | Created: 2025-05-01T12:50:41Z
+2025-05-01 20:34:19,214 - INFO - LLM Full Response: [{'summary_text': 'Kibana is a cloud-based storage system. Kibana was developed in the late 1990s. It was the first cloud storage system in the world. It is now being used to store data in the cloud. It can also store data on the cloud, and other systems.'}]
+2025-05-01 20:34:19,215 - INFO - 📌 Added Issue: [9.0] Sync bundled packages with Package Storage | Status: open | Created: 2025-05-01T12:49:53Z
+2025-05-01 20:34:19,709 - INFO - LLM Full Response: [{'summary_text': 'Kibana is a cloud-based storage system. Kibana was developed in the late 1990s. It was the first cloud storage system in the world. It is now being used to store data in the cloud. It can also store data on the cloud, and other systems.'}]
+2025-05-01 20:34:19,710 - INFO - 📌 Added Issue: [main] Sync bundled packages with Package Storage | Status: open | Created: 2025-05-01T12:49:48Z
+2025-05-01 20:34:20,363 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:34:20,364 - INFO - 📌 Added Issue: [8.19] [Security Solution] [AI assistant] Bug / remove citations system prompt when citations are disabled (#219069) | Status: open | Created: 2025-05-01T12:49:07Z
+2025-05-01 20:34:23,656 - INFO - LLM Full Response: [{'summary_text': 'We want to allow the purge rolled-up data and stale instances to be run in tasks. The tasks should be enabled/disabled from the management page. They can be configured when scheduling them, e.g. configure stale time or purge rolled up policy (age only)'}]
+2025-05-01 20:34:23,657 - INFO - 📌 Added Issue: [SLO] [Management] Investigate tasks setup/configuration | Status: open | Created: 2025-05-01T12:12:44Z
+2025-05-01 20:34:28,004 - INFO - LLM Full Response: [{'summary_text': "A user created a template from a timeline where user had already added a note to an event/ alert. Now, when the user opens that template, a red dot displayed on notes icon and a message 'Notes cannot be added here while editing a template Timeline' displayed in the tooltip."}]
+2025-05-01 20:34:28,005 - INFO - 📌 Added Issue: [Security Solution][Serverless][Bug] A red dot is displayed on the Notes icon in the Timelines table when a template is created from a timeline that has user-added notes for event/alert. | Status: open | Created: 2025-05-01T12:08:12Z
+2025-05-01 20:34:32,296 - INFO - LLM Full Response: [{'summary_text': 'The action to purge an SLO rolled up data should be available on an individual SLO and on the bulk selection toggle. When we click on the action, we should open a confirmation modal that will also ask to configure the purge policy. No polling is necessary, on confirm we show a toast telling the user the task will run in the background.'}]
+2025-05-01 20:34:32,297 - INFO - 📌 Added Issue: [SLO] [Management] Add Purge rolled-up action and bulk action UI | Status: open | Created: 2025-05-01T12:01:29Z
+2025-05-01 20:34:39,800 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:34:39,801 - INFO - 📌 Added Issue: [SecuritySolution] Privileged user monitoring page + Risk levels panel | Status: open | Created: 2025-05-01T11:42:18Z
+2025-05-01 20:34:44,092 - INFO - LLM Full Response: [{'summary_text': 'Blank space is acceptable by AI Assistant. Kibana/Elasticsearch Stack version: 9.1.0 SERVERLESS. BUILD: 85923COMMIT: 97f979ddcb5623939a3562939277f21768ea3f6c.'}]
+2025-05-01 20:34:44,094 - INFO - 📌 Added Issue: [Security Solution] [Bug] Blank space is acceptable by AI Assistant | Status: open | Created: 2025-05-01T11:40:23Z
+2025-05-01 20:34:47,841 - INFO - LLM Full Response: [{'summary_text': 'Removes the wildcard validation to fix wrong validation like that. Tests were updated or added to match the most common scenarios. Checklist: [Unit or functional tests](https://www.elastic.co/guide/en/kibana/master/development-tests.html)'}]
+2025-05-01 20:34:47,843 - INFO - 📌 Added Issue: [ES|QL] Fixes rename wrong validation for asterisc in name | Status: open | Created: 2025-05-01T11:34:04Z
+2025-05-01 20:34:51,819 - INFO - LLM Full Response: [{'summary_text': 'TBD will be the next president of the United States. President Barack Obama will step down at the end of the year. President George W. Bush will step aside at the beginning of 2015. The White House will then be replaced by the White House. The new president will be inaugurated in January 2015.'}]
+2025-05-01 20:34:51,821 - INFO - 📌 Added Issue: [Security Solution] Refactor prebuilt rules integration tests | Status: open | Created: 2025-05-01T11:32:55Z
+2025-05-01 20:34:55,017 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:34:55,021 - INFO - 📌 Added Issue: [8.19] [Streams] Refactor schemas (#218308) | Status: open | Created: 2025-05-01T10:17:32Z
+2025-05-01 20:34:58,171 - INFO - ✅ Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:34:58,182 - INFO - ✅ Repository ranking report generated successfully.
+2025-05-01 20:34:58,882 - INFO - LLM Full Response: [{'summary_text': "Passing down `SLACK_CHANNEL` env variable. Passes down 'SLACK' to the next channel. Passing down the channel to the current channel. Passing down 'SACK' down to the previous channel. passing down a channel to a new channel. pass down the next. channel."}]
+2025-05-01 20:34:58,884 - INFO - 📌 Added Issue: [CodeQL] Passing SLACK_CHANNEL env var | Status: open | Created: 2025-05-01T09:50:42Z
+2025-05-01 20:34:59,405 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:34:59,410 - INFO - 📌 Added Issue: [9.0] [Security Solution] Add rule upgrade preview FE integration tests (Rule Upgrade Flyout) (#210377) | Status: closed | Created: 2025-05-01T09:45:57Z
+2025-05-01 20:35:07,715 - INFO - LLM Full Response: [{'summary_text': 'Per title: "The World\'s Most Beautiful People" The World\'s most Beautiful People: "People of the World" The world\'s most beautiful people: "people of the world" The best people in the world: "the world\'s greatest people" "The world\'s best people": "people from around the world," "the best people on the planet"'}]
+2025-05-01 20:35:07,725 - INFO - 📌 Added Issue: [UA] Remove Kibana core from test ownership | Status: open | Created: 2025-05-01T09:40:56Z
+2025-05-01 20:35:12,380 - INFO - LLM Full Response: [{'summary_text': 'In this PR, we are saving dynamically mapped group by information for the custom threshold rule. This consists of two parts: Adding a dynamic field and a dynamic template. Relaetd to https://github.com/elastic/kibana/issues/183248.'}]
+2025-05-01 20:35:12,382 - INFO - 📌 Added Issue: Save group by information with dynamic mapping | Status: open | Created: 2025-05-01T09:23:20Z
+2025-05-01 20:35:16,554 - INFO - ✅ Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:35:16,565 - INFO - ✅ Repository ranking report generated successfully.
+2025-05-01 20:35:18,278 - INFO - LLM Full Response: [{'summary_text': 'This is all configurable via kibana settings and the Entity Store API, so customers can update it. The PR description includes the appropriate Release Notes section, and the correct `release_note:*` label is applied per the [guidelines](https://www.elastic.co/guide/en/kibana/master/contributing.html#Kibana-release-notes-process)'}]
+2025-05-01 20:35:18,289 - INFO - 📌 Added Issue: [Entity Store] Performance Improvements | Status: open | Created: 2025-05-01T08:30:37Z
+2025-05-01 20:35:23,669 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [Discover ] Increase test jest timeout (#219695) Backport version: 9.6.0. # Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 20:35:23,670 - INFO - 📌 Added Issue: [8.19] [Discover ] Increase test jest timeout (#219695) | Status: closed | Created: 2025-05-01T05:43:28Z
+2025-05-01 20:35:27,582 - INFO - LLM Full Response: [{'summary_text': 'The Kibana API is an open source, free to download, open source software. It was developed by the Open Source Software Foundation (OSF) in the 1990s. OSF is a non-profit organization based in the U.S. and has been open source since 1998.'}]
+2025-05-01 20:35:27,583 - INFO - 📌 Added Issue: [api-docs] 2025-05-01 Daily api_docs build | Status: closed | Created: 2025-05-01T04:31:48Z
+2025-05-01 20:35:32,451 - INFO - LLM Full Response: [{'summary_text': 'This PR addresses the issue where if user tried to renavigate to Findings page (with filter on) from Vulnerability Contextual Flyout by clicking on the popup icon. If some of the fields value contains special character such as "+" the filter won\'t form properly. This malformed filter is caused because in the URL "+" gets encoded into "%20" which is space instead of "#"'}]
+2025-05-01 20:35:32,480 - INFO - 📌 Added Issue: [Cloud Security] Fix for Redirect Issue from Vuln contextual flyout | Status: open | Created: 2025-05-01T00:54:56Z
+2025-05-01 20:35:36,937 - INFO - LLM Full Response: [{'summary_text': 'To improve compatibility with the **Asset Inventory** grouping and filtering logic, the `entity.type` field must be added to documents in both the **User** and **Host** Entity Stores. This field will enable consistent categorization and allow assets to be filtered and grouped by their high-level entity type.'}]
+2025-05-01 20:35:36,939 - INFO - 📌 Added Issue: [Entity Store] Add entity.type Field to User and Host Entity Stores | Status: open | Created: 2025-05-01T00:39:29Z
+2025-05-01 20:35:40,372 - INFO - LLM Full Response: [{'summary_text': "This work has potential for Kibana in general, as well. It adds Notifications to Kibane Workspace. It has potential to be used in a variety of other ways, too. It's a work in progress, but could be used for other applications."}]
+2025-05-01 20:35:40,375 - INFO - 📌 Added Issue: [workspace] Notification Center | Status: open | Created: 2025-05-01T00:17:04Z
+2025-05-01 20:35:48,932 - INFO - LLM Full Response: [{'summary_text': 'Reviewers should verify this PR satisfies this list as well. If it involves visual changes include a screenshot or gif. Identify risks like hard to test bugs, performance regression, potential of data loss. Invite stakeholders and evaluate how to proceed before merging. If a plugin configuration key changed, check if it needs to be allowlisted.'}]
+2025-05-01 20:35:48,935 - INFO - 📌 Added Issue: dummy changes | Status: open | Created: 2025-04-30T23:43:22Z
+2025-05-01 20:35:49,746 - INFO - LLM Full Response: [{'summary_text': 'Reviewers should verify this PR satisfies this list as well. If it involves visual changes include a screenshot or gif. Identify risks like hard to test bugs, performance regression, potential of data loss. Invite stakeholders and evaluate how to proceed before merging. If a plugin configuration key changed, check if it needs to be allowlisted.'}]
+2025-05-01 20:35:49,747 - INFO - 📌 Added Issue: Add conditional switching between EUI releases | Status: open | Created: 2025-04-30T23:22:09Z
+2025-05-01 20:35:54,940 - INFO - LLM Full Response: [{'summary_text': "This PR is part of a larger icon redesign effort related to the Visual Refresh effort. Some were simply renamed, others redesigned, and others are being removed given redundancy (e.g. `editorCodeBlock' and 'visVega' are the same icon. The PR description includes the appropriate Release Notes section."}]
+2025-05-01 20:35:54,943 - INFO - 📌 Added Issue: Swap out to-be-deprecatd icons | Status: open | Created: 2025-04-30T23:03:29Z
+2025-05-01 20:35:56,353 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:35:56,357 - INFO - 📌 Added Issue: [9.0] partial revert of PR 209025 (#219793) | Status: closed | Created: 2025-04-30T22:40:23Z
+2025-05-01 20:35:57,397 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:35:57,398 - INFO - 📌 Added Issue: [8.19] partial revert of PR 209025 (#219793) | Status: closed | Created: 2025-04-30T22:40:11Z
+2025-05-01 20:35:58,061 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:35:58,062 - INFO - 📌 Added Issue: [8.18] partial revert of PR 209025 (#219793) | Status: closed | Created: 2025-04-30T22:39:56Z
+2025-05-01 20:36:02,395 - INFO - LLM Full Response: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from Elasticsearch. It also updates the inline docs to include the latest Elasticsearch metadata. The PR is available on GitHub as well as on the Elasticsearch website. For more information on the PR, please visit the PR page.'}]
+2025-05-01 20:36:02,397 - INFO - 📌 Added Issue: [Do not merge!][ES|QL] Update function metadata for 8.19 | Status: open | Created: 2025-04-30T22:22:16Z
+2025-05-01 20:36:03,443 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:36:03,444 - INFO - 📌 Added Issue: [8.19] [Obs AI Assistant] Backport all LockManager commits | Status: closed | Created: 2025-04-30T21:50:42Z
+2025-05-01 20:36:10,181 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.17`: [chore(NA): updating used polyfills using 3rd party library (#218020) Backport version: 9.6.0. This PR is a follow up from the webpack v5 upgrade which makes sure we’re using a new supported library.'}]
+2025-05-01 20:36:10,183 - INFO - 📌 Added Issue: [8.17] chore(NA): updating used polyfills using 3rd party library (#218020) | Status: closed | Created: 2025-04-30T21:41:37Z
+2025-05-01 20:36:14,593 - INFO - LLM Full Response: [{'summary_text': 'This PR makes some code changes to the AI4DSOC alert flyout code. It adds code documentation (interfaces and components/hooks) and adds missing unit tests. The PR also add the @elastic/security-threat-hunting-investigations and @Elastic/ security-generative-ai teams as codeowners.'}]
+2025-05-01 20:36:14,595 - INFO - 📌 Added Issue: [AI4DSOC] Alert flyout code cleanup | Status: open | Created: 2025-04-30T21:38:56Z
+2025-05-01 20:36:18,234 - INFO - LLM Full Response: [{'summary_text': 'Almost all security investigations involve users as observables, and it would be helpful to understand common cases in the past that share the same user name. Please allow the addition of user name observables type to the list of user names that can be used in security investigations. Use this feature to help with security investigations in the future.'}]
+2025-05-01 20:36:18,236 - INFO - 📌 Added Issue: Security cases - Observables - add type: user name | Status: open | Created: 2025-04-30T21:38:01Z
+2025-05-01 20:36:22,219 - INFO - LLM Full Response: [{'summary_text': "Allow subdomains to be added for domain observables. There are many cases where we can leverage common subdomain and they don't really fit in the URL category. The feature is called Elastic Security Cases - Observables. For more information on the feature, visit the Elastic Security cases page."}]
+2025-05-01 20:36:22,223 - INFO - 📌 Added Issue: Allow subdomains to be added for domain observables - security cases | Status: open | Created: 2025-04-30T21:36:40Z
+2025-05-01 20:36:31,313 - INFO - LLM Full Response: [{'summary_text': 'First failure: [kibana-on-merge - main](https://buildkite.com/elastic/kibanas/67628#01968885-8840-47ef-998f-8f2b75647414) Second failure: onFailure (retry_for_success.ts:18:9) Third failure: retry.try reached timeout 120000 ms. Fourth failure: processTicksAndRejections (node:internal/process/task_queues:95:5)'}]
+2025-05-01 20:36:31,314 - INFO - 📌 Added Issue: Failing test: Chrome X-Pack UI Functional Tests.x-pack/test/functional/apps/discover/group1/reporting·ts - discover - group 1 Discover CSV Export Check Available is available if new | Status: open | Created: 2025-04-30T21:36:31Z
+2025-05-01 20:36:36,414 - INFO - LLM Full Response: [{'summary_text': "The add data flyout has been updated to treat selecting an index with no fields as an error. The flyout layout has been refactored to do less list traversal. The Flaky Test Runner was used on any tests changed. Any text added follows [EUI's writing guidelines], uses sentence case text and includes i18n support."}]
+2025-05-01 20:36:36,416 - INFO - 📌 Added Issue: [Search][Playground] Disable selecting empty indices & other Add data flyout updates | Status: open | Created: 2025-04-30T21:35:08Z
+2025-05-01 20:36:43,020 - INFO - LLM Full Response: [{'summary_text': "Adding a security cases' observable of type file path throws an error if the field contains a space, or a dash, like:C:\\Program Files\\Elastic \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0C:\\test- folder. Kibana 8.18.2: Add security cases to a file path."}]
+2025-05-01 20:36:43,021 - INFO - 📌 Added Issue: Allow spaces in file paths in Observables | Status: open | Created: 2025-04-30T21:33:33Z
+2025-05-01 20:36:43,483 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:36:43,485 - INFO - 📌 Added Issue: [8.19] [Security Solution] [Expandable Flyout] Add tooltip to flyout history (#219795) | Status: open | Created: 2025-04-30T21:33:09Z
+2025-05-01 20:36:44,275 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:36:44,277 - INFO - 📌 Added Issue: [8.19] [Obs AI Assistant] Query alerts using the `alert.start` field and update alerts function API test to check alert information (#219651) | Status: closed | Created: 2025-04-30T21:33:05Z
+2025-05-01 20:36:50,429 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.18`: [chore(NA): updating used polyfills using 3rd party library (#218020) Backport version: 9.6.0. This PR is a follow up from the webpack v5 upgrade which makes sure we’re using a new supported library.'}]
+2025-05-01 20:36:50,431 - INFO - 📌 Added Issue: [8.18] chore(NA): updating used polyfills using 3rd party library (#218020) | Status: closed | Created: 2025-04-30T21:32:28Z
+2025-05-01 20:36:50,950 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [chore(NA): updating used polyfills using 3rd party library (#218020) Backport version: 9.6.0. This PR is a follow up from the webpack v5 upgrade which makes sure we’re using a new supported library.'}]
+2025-05-01 20:36:50,952 - INFO - 📌 Added Issue: [8.19] chore(NA): updating used polyfills using 3rd party library (#218020) | Status: closed | Created: 2025-04-30T21:24:36Z
+2025-05-01 20:36:54,554 - INFO - LLM Full Response: [{'summary_text': 'This PR does not need to be reviewed by external teams. This PR merges into a feature branch that Kibana presentation team is working on to convert the embeddable framework to only expose serialized state. Your team will be pinged for review once the work is complete and the final PR opens.'}]
+2025-05-01 20:36:54,555 - INFO - 📌 Added Issue: fix discover session issues found in testing swarm | Status: closed | Created: 2025-04-30T21:15:46Z
+2025-05-01 20:36:56,488 - INFO - ✅ Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:36:56,508 - INFO - ✅ Repository ranking report generated successfully.
+2025-05-01 20:36:59,523 - INFO - ✅ Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:36:59,535 - INFO - ✅ Repository ranking report generated successfully.
+2025-05-01 20:37:01,831 - INFO - ✅ Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:37:01,843 - INFO - ✅ Repository ranking report generated successfully.
+2025-05-01 20:37:03,584 - INFO - ✅ Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:37:03,592 - INFO - ✅ Repository ranking report generated successfully.
+2025-05-01 20:37:03,637 - INFO - LLM Full Response: [{'summary_text': 'Backport version: 9.6.0. This will backport the following commits from `main` to `9.1.0`: [chore(NA): updating used polyfills using 3rd party library (#218020)] Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 20:37:03,638 - INFO - 📌 Added Issue: [9.0] chore(NA): updating used polyfills using 3rd party library (#218020) | Status: closed | Created: 2025-04-30T21:05:51Z
+2025-05-01 20:37:04,703 - INFO - LLM Full Response: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from Elasticsearch. It also updates the inline docs to include the latest Elasticsearch metadata. The PR is available on GitHub as well as on the Elasticsearch website. For more information on the PR, please visit the PR page.'}]
+2025-05-01 20:37:04,704 - INFO - 📌 Added Issue: [ES|QL] Update function metadata for 8.19 | Status: closed | Created: 2025-04-30T21:05:17Z
+2025-05-01 20:37:06,393 - INFO - ✅ Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:37:06,402 - INFO - ✅ Repository ranking report generated successfully.
+2025-05-01 20:37:07,192 - INFO - ✅ Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:37:07,204 - INFO - ✅ Repository ranking report generated successfully.
+2025-05-01 20:37:08,400 - INFO - ✅ Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:37:08,410 - INFO - ✅ Repository ranking report generated successfully.
+2025-05-01 20:37:14,874 - INFO - LLM Full Response: [{'summary_text': 'This PR removes the expired maintenance window ids from the alert.maintenanceWindowIds list of the active and the recovered alerts. The actions for those alerts would be triggered once the MW expires. To verify: Create a Maintenance Window that lasts a couple of minutes. Create a rule that generates an alert.'}]
+2025-05-01 20:37:14,875 - INFO - 📌 Added Issue: Alerts created within a Maintenance Windows trigger actions after the MW expires | Status: open | Created: 2025-04-30T20:04:26Z
+2025-05-01 20:37:17,623 - INFO - ✅ Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:37:17,634 - INFO - ✅ Repository ranking report generated successfully.
+2025-05-01 20:37:19,276 - INFO - LLM Full Response: [{'summary_text': 'Add a new tab to Hosts page to show system services. Currently, you can see what processes are running on the host. I would like to see what services (distinct from processes) are running/stopping/starting. This services data is already being collected by integrations, would be nice to leverage more of the out of box solution.'}]
+2025-05-01 20:37:19,278 - INFO - 📌 Added Issue: [Hosts][UI] Include Windows/Linux Services | Status: open | Created: 2025-04-30T19:55:36Z
+2025-05-01 20:37:20,181 - INFO - LLM Full Response: [{'summary_text': 'The README.md for Kibana is now available on GitHub. The README includes a list of things to look out for. The PR description includes the appropriate Release Notes section. The correct `release_note:*` label is applied per the [guidelines](https://www.elastic.co/guide/en/kibana/master/contributing)'}]
+2025-05-01 20:37:20,182 - INFO - 📌 Added Issue: [Security Solution] [Expandable Flyout] Add tooltip to flyout history | Status: closed | Created: 2025-04-30T19:45:57Z
+2025-05-01 20:37:20,769 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:37:20,770 - INFO - 📌 Added Issue: [8.16] chore(NA): replaces native-hdr-histogram with hdr-histogram-js (#216715) | Status: closed | Created: 2025-04-30T19:45:41Z
+2025-05-01 20:37:25,859 - INFO - LLM Full Response: [{'summary_text': "Partially revert PR https://github.com/elastic/kibana/pull/209025 . In that PR, we ended up passing a value of `size` in a `top_hits` aggregation, which can easily be larger than what ES allows, resulting in the search failing. We change that `size' parameter back it's original `100` value, but leave the other changes alone."}]
+2025-05-01 20:37:25,862 - INFO - 📌 Added Issue: partial revert of PR 209025 | Status: closed | Created: 2025-04-30T19:43:10Z
+2025-05-01 20:37:34,319 - INFO - LLM Full Response: [{'summary_text': 'The Rule Details page for promotion rules is currently not accessible. When clicking on a rule from the “Installed Rules”/"Rule monitoring" tab, the application fails to navigate to the details page.Apparently the flow was broken as a result of this [PR]'}]
+2025-05-01 20:37:34,320 - INFO - 📌 Added Issue: [Security Solution] [AI4DSOC] Rule Details page is not accessible due to broken link | Status: open | Created: 2025-04-30T19:24:08Z
+2025-05-01 20:37:38,141 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:37:38,142 - INFO - 📌 Added Issue: [8.19] [Security Solution][Alert KPIs] Fix kpi tests (#219469) | Status: closed | Created: 2025-04-30T19:19:32Z
+2025-05-01 20:37:42,874 - INFO - LLM Full Response: [{'summary_text': 'Add run rule & update API key. Add run rule and update api key. Use the run rule to run the app and the update key to update the key. For more information, visit: http://www.example.com/run-rule-api-key.'}]
+2025-05-01 20:37:42,877 - INFO - 📌 Added Issue: Rules 199421 Part 2 | Status: open | Created: 2025-04-30T18:36:28Z
+2025-05-01 20:37:48,400 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.17`: [Update rbush to v4 (main) (manual) (#219613) Backport version: 9.6.0. Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 20:37:48,401 - INFO - 📌 Added Issue: [8.17] Update rbush to v4 (main) (manual) (#219613) | Status: open | Created: 2025-04-30T18:19:16Z
+2025-05-01 20:37:54,376 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.18`: [Update rbush to v4 (main) (manual) (#219613) Backport version: 9.6.0. Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 20:37:54,377 - INFO - 📌 Added Issue: [8.18] Update rbush to v4 (main) (manual) (#219613) | Status: open | Created: 2025-04-30T18:17:43Z
+2025-05-01 20:37:54,860 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [Update rbush to v4 (main) (manual) (#219613) Backport version: 9.6.0. Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 20:37:54,861 - INFO - 📌 Added Issue: [8.19] Update rbush to v4 (main) (manual) (#219613) | Status: open | Created: 2025-04-30T18:16:51Z
+2025-05-01 20:37:59,784 - INFO - LLM Full Response: [{'summary_text': "This is a draft PR just to trigger the CI and generate an up to date serverless docker image. Please ignore the following conditions. Check the PR satisfies following conditions and verify it satisfies this list as well. Any text added follows [EUI's writing guidelines], uses sentence case text and includes i18n support."}]
+2025-05-01 20:37:59,786 - INFO - 📌 Added Issue: Ai4dsoc test | Status: closed | Created: 2025-04-30T17:45:21Z
+2025-05-01 20:38:00,678 - INFO - LLM Full Response: [{'summary_text': 'Updates the internal reporting health API from https://github.com/elastic/kibana/pull/216857 to return whether the notification email service is available. Run kibana and ES with a preconfigured email connector in the `kibANA.yml` and the notification configured to use the connector.'}]
+2025-05-01 20:38:00,681 - INFO - 📌 Added Issue: [Response Ops][Reporting] Updating health API to return whether notification email service is available | Status: open | Created: 2025-04-30T17:37:28Z
+2025-05-01 20:38:01,195 - INFO - LLM Full Response: [{'summary_text': 'Reviewers should verify this PR satisfies this list as well. If it involves visual changes include a screenshot or gif. Identify risks like hard to test bugs, performance regression, potential of data loss. Invite stakeholders and evaluate how to proceed before merging. If a plugin configuration key changed, check if it needs to be allowlisted.'}]
+2025-05-01 20:38:01,196 - INFO - 📌 Added Issue: Ai4dsoc test | Status: closed | Created: 2025-04-30T17:37:03Z
+2025-05-01 20:38:05,238 - INFO - LLM Full Response: [{'summary_text': 'Discover session embeddable changing Display options does not trigger unsaved changes. This bug only occurs in the `embeddable-serialized-state` feature branch. Notice Unsaved Changes badge does not appear. It is possible to add a discover session from the library to a dashboard.'}]
+2025-05-01 20:38:05,239 - INFO - 📌 Added Issue: [Serialized state only] Discover session embeddable changing Display options does not trigger unsaved changes | Status: closed | Created: 2025-04-30T17:35:51Z
+2025-05-01 20:38:06,027 - INFO - LLM Full Response: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from Elasticsearch. It also updates the inline docs to include the latest Elasticsearch metadata. The PR is available on GitHub as well as on the Elasticsearch website. For more information on the PR, please visit the PR page.'}]
+2025-05-01 20:38:06,029 - INFO - 📌 Added Issue: [ES|QL] Update function metadata for 8.19 | Status: closed | Created: 2025-04-30T17:35:47Z
+2025-05-01 20:38:07,010 - INFO - LLM Full Response: [{'summary_text': 'At present, we query alerts using `@timestamp` which means we can return stale alerts if the alert was updated recently, but started a month ago. For alerts we continually update documents every time the rule runs, including when the alert closes. This means that if you ask "What alerts started in the past day" it will include all alerts that had new activity within that time period.'}]
+2025-05-01 20:38:07,011 - INFO - 📌 Added Issue: [Obs AI Assistant] Query alerts using alert start time instead of timestamp | Status: closed | Created: 2025-04-30T17:23:42Z
+2025-05-01 20:38:08,342 - INFO - LLM Full Response: [{'summary_text': 'We’d like to explore the possibility of opening a new flyout with error/exception details when users click a “related error” link from the waterfall view. We’ll be adding more requirements and technical details soon. Back to the page you came from.'}]
+2025-05-01 20:38:08,343 - INFO - 📌 Added Issue: [Discover][APM] POC to show error/exception details flyout in fullscreen waterfall | Status: open | Created: 2025-04-30T17:20:16Z
+2025-05-01 20:38:11,731 - INFO - LLM Full Response: [{'summary_text': 'This updates the function metadata sync scripts to work against the Elasticsearch 8.19 branch.Review not only the code changes in this PR, but also the result of running the CI job: https://github.com/elastic/kibana/pull/219813.'}]
+2025-05-01 20:38:11,734 - INFO - 📌 Added Issue: [ES|QL] Update function scripts for 8.19 | Status: open | Created: 2025-04-30T17:19:42Z
+2025-05-01 20:38:12,908 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:38:12,911 - INFO - 📌 Added Issue: fix saved vis comparator | Status: closed | Created: 2025-04-30T17:17:41Z
+2025-05-01 20:38:13,502 - INFO - LLM Full Response: [{'summary_text': 'UnflattenKnownApmEventFields can’t currently be reused outside of the solutions space and we’d like to make it available for use in Discover. Maybe we could move it to `@kbn/apm-sources-access- plugin.'}]
+2025-05-01 20:38:13,503 - INFO - 📌 Added Issue: [APM] Extract unflattenKnownApmEventFields to a shared package outside of the APM solution | Status: open | Created: 2025-04-30T17:15:53Z
+2025-05-01 20:38:14,210 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:38:14,210 - INFO - 📌 Added Issue: [A11y] Fix stack management tags missing proper announcements | Status: open | Created: 2025-04-30T17:15:35Z
+2025-05-01 20:38:14,862 - INFO - LLM Full Response: [{'summary_text': 'Using suffixes with decimals is non-standard, potentially confusing, and deviates from common English conventions. Ordinal suffixes are meant to indicate discrete positions or ranks in a sequence, which aligns with whole numbers but not fractional values. This change would enhance clarity, ensure consistency in our codebase, and align with linguistic norms.'}]
+2025-05-01 20:38:14,865 - INFO - 📌 Added Issue: [i18n] Use Ordinal Suffixes on whole numbers only | Status: open | Created: 2025-04-30T17:08:33Z
+2025-05-01 20:38:15,933 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:38:15,934 - INFO - 📌 Added Issue: [9.0] fix: [Analytics:Discover page]Missing focus on Edit visualization flyout (#218654) | Status: closed | Created: 2025-04-30T17:02:04Z
+2025-05-01 20:38:16,744 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:38:16,745 - INFO - 📌 Added Issue: [Serialized state only] Adding a drilldown to a by-value Discover session embeddable does not trigger unsaved changes | Status: closed | Created: 2025-04-30T16:57:37Z
+2025-05-01 20:38:17,657 - INFO - LLM Full Response: [{'summary_text': "Replaces the CPU process limit (`go_max_procs`) with a percentage (`cpu`) Users can choose an exact percentage of CPU to limit for all agents in a policy. Added test cases to ensure limits are properly shown, or N/A is shown when a limit isn't set."}]
+2025-05-01 20:38:17,659 - INFO - 📌 Added Issue: [Fleet] Change policy CPU limit to be percentage based and surface in agent details | Status: closed | Created: 2025-04-30T16:54:08Z
+2025-05-01 20:38:18,912 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:38:18,913 - INFO - 📌 Added Issue: [Response Ops][Reporting] Scheduled Reports - Schedule API  | Status: open | Created: 2025-04-30T16:52:11Z
+2025-05-01 20:38:19,378 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:38:19,380 - INFO - 📌 Added Issue: [Response Ops][Reporting] Scheduled Reports - Task | Status: open | Created: 2025-04-30T16:51:13Z
+2025-05-01 20:38:19,949 - INFO - LLM Full Response: [{'summary_text': "Introduces 3 evaluators to the automatic rule migration task evaluation API: `translation_result`, 'prebuilt_rule_matching' and 'custom_query_translation' Closes: https://github.com/elastic/security-team/issues/12403."}]
+2025-05-01 20:38:19,953 - INFO - 📌 Added Issue: [Security Solution][Automatic migrations] Implement accuracy evaluators | Status: open | Created: 2025-04-30T16:31:09Z
+2025-05-01 20:38:21,292 - INFO - LLM Full Response: [{'summary_text': 'Adds 8.18.1 release notes. Closes: [#670](https://github.com/elastic/platform-docs-team/issues/670) Ranges from [1] to [2] in the release notes section of the Kibana app.'}]
+2025-05-01 20:38:21,293 - INFO - 📌 Added Issue: [Docs] Add 8.18.1 release notes | Status: open | Created: 2025-04-30T16:10:20Z
+2025-05-01 20:38:22,188 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:38:22,189 - INFO - 📌 Added Issue: [8.17] Sync bundled packages with Package Storage | Status: closed | Created: 2025-04-30T16:08:19Z
+2025-05-01 20:38:22,839 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:38:22,840 - INFO - 📌 Added Issue: [main] Sync bundled packages with Package Storage | Status: closed | Created: 2025-04-30T16:08:02Z
+2025-05-01 20:38:24,046 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:38:24,047 - INFO - 📌 Added Issue: [8.19] Sync bundled packages with Package Storage | Status: closed | Created: 2025-04-30T16:07:56Z
+2025-05-01 20:38:24,831 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:38:24,834 - INFO - 📌 Added Issue: replaced failOnMKI with skipCloud tag | Status: open | Created: 2025-04-30T16:07:19Z
+2025-05-01 20:38:25,362 - INFO - LLM Full Response: [{'summary_text': 'Fix Span Links flyout error (Error message: `None of /services/{serviceName}/transactions/view, /mobile-services/ {serviceName}./transaction/view match current path /traces/explorer/waterfall`) in Trace Explorer.'}]
+2025-05-01 20:38:25,364 - INFO - 📌 Added Issue: [APM][Traces] Fix Span Links flyout in Trace Explorer | Status: open | Created: 2025-04-30T16:06:28Z
+2025-05-01 20:38:26,840 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:38:26,842 - INFO - 📌 Added Issue: [8.19] [OnWeek][FieldFormatters] Update styles for Color formatter to look like a badge (#189391) | Status: closed | Created: 2025-04-30T15:47:02Z
+2025-05-01 20:38:27,451 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:38:27,452 - INFO - 📌 Added Issue: [9.0] [Security Solution] Fix rule import error message display (#218701) | Status: open | Created: 2025-04-30T15:42:53Z
+2025-05-01 20:38:32,372 - INFO - LLM Full Response: [{'summary_text': 'First failure: [kibana-on-merge - 8.19](https://buildkite.com/elastic/kibanas/builds/67599#01968731-844a-4e77-9fad-6bccde3ec062) A test failed on a tracked branch.'}]
+2025-05-01 20:38:32,376 - INFO - 📌 Added Issue: Failing test: Detection Engine - General Execution Logic Integration Tests - ESS Env - Basic License.x-pack/test/security_solution_api_integration/test_suites/detections_response/detection_engine/rule_execution_logic/general_logic/basic_license_essentials_tier/timestamps·ts - Rule execution logic API - Basic License/Essentials Tier @ess @serverless @serverlessQA timestamp tests alerts generated from events with timestamp override field EQL should generate 2 alerts when timestamp override does not exist | Status: open | Created: 2025-04-30T15:35:53Z
+2025-05-01 20:38:38,872 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [[FIPS] Skips new alerting artifacts spaces-only test (#218983) Backport version: 9.6.6 --> Questions? Please refer to the [Backport tool documentation] Backport tool: http://www.elastic.com/backport.'}]
+2025-05-01 20:38:38,873 - INFO - 📌 Added Issue: [8.19] [FIPS] Skips new alerting artifacts spaces-only test (#218983) | Status: closed | Created: 2025-04-30T15:29:04Z
+2025-05-01 20:38:39,475 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:38:39,477 - INFO - 📌 Added Issue: [8.19] [ES|QL] Clean up hover (#218486) | Status: closed | Created: 2025-04-30T15:26:52Z
+2025-05-01 20:38:44,364 - INFO - LLM Full Response: [{'summary_text': 'This is the first PR related to https://github.com/elastic/kibana/issues/212570. Tests and migrations have been changed accordingly and the `incremental_id` field is removed from cases import/export. The motivation behind releasing these changes first is so that serverless deployments will know about the new field and SO.'}]
+2025-05-01 20:38:44,365 - INFO - 📌 Added Issue: [Cases] Introduces the `incremental_id` field and the id incrementer SO | Status: open | Created: 2025-04-30T15:19:53Z
+2025-05-01 20:38:48,043 - INFO - LLM Full Response: [{'summary_text': 'This PR does not need to be reviewed by external teams. This PR merges into a feature branch that Kibana presentation team is working on to convert the embeddable framework to only expose serialized state. Your team will be pinged for review once the work is complete and the final PR opens.'}]
+2025-05-01 20:38:48,048 - INFO - 📌 Added Issue: fix merge with main issues | Status: closed | Created: 2025-04-30T15:19:35Z
+2025-05-01 20:38:49,025 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:38:49,026 - INFO - 📌 Added Issue: [8.19] [Sharing URLs] Add the ability to switch between relative and absolute time range (#218056) | Status: closed | Created: 2025-04-30T15:11:49Z
+2025-05-01 20:38:49,457 - INFO - LLM Full Response: [{'summary_text': 'Fix painless lab test flakiness with lab test fakes. Use this information to improve your lab test results. Use these tips to help you get the most out of your lab tests. Use the Daily Discussion to help people understand the latest developments in the lab test field.'}]
+2025-05-01 20:38:49,458 - INFO - 📌 Added Issue: Fix painless lab test flakiness | Status: open | Created: 2025-04-30T15:09:54Z
+2025-05-01 20:39:03,397 - INFO - LLM Full Response: [{'summary_text': "Fix issue with card resizing, we don't need custom styles.https://github.com/user-attachments/assets/840fc757-aa00-4fdc-b527-6192ec628192.svg:svg://://svg.co.uk/svg/card-resize.svc:svc://svc/card\xa0resize\xa0vc:vc://vc/resize-vc.vf:vcs/card resize.vcs:vcm/vcm:vms/vms:vm:vcss/vcss:vfs/vfs:"}]
+2025-05-01 20:39:03,398 - INFO - 📌 Added Issue: workchat: add card resizing | Status: closed | Created: 2025-04-30T15:03:21Z
+2025-05-01 20:39:08,235 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `9.1.0`: [Update rbush to v4 (main) (manual) (#219613) Backport version: 9.6.0. Questions? Please refer to the [Backport tool documentation]'}]
+2025-05-01 20:39:08,237 - INFO - 📌 Added Issue: [9.0] Update rbush to v4 (main) (manual) (#219613) | Status: open | Created: 2025-04-30T15:00:26Z
+2025-05-01 20:39:12,922 - INFO - LLM Full Response: [{'summary_text': 'Some of style customizations in Kibana should ultimately live in the EUI repo (EuiCollapsibleNavBeta) Once added, we could remove the custom styles that were merged in [here] The exception are the "panel opener" components. These are a customization that lives in KIBana and is built "on top" of EuiCollapseNavBeta.'}]
+2025-05-01 20:39:12,923 - INFO - 📌 Added Issue: [Solution Side Nav] Organize custom styles on top of EUI components into the EUI repo | Status: open | Created: 2025-04-30T14:59:36Z
+2025-05-01 20:39:13,811 - INFO - LLM Full Response: [{'summary_text': "This will backport the following commits from `main` to `9.0.0' Backport version: 9.6.6 - [[Investigations][Timeline] - Run Object.keys less frequently (#219629) Backport tool documentation is available on GitHub."}]
+2025-05-01 20:39:13,812 - INFO - 📌 Added Issue: [9.0] [Investigations][Timeline] - Run Object.keys less frequently (#219629) | Status: closed | Created: 2025-04-30T14:57:54Z
+2025-05-01 20:39:14,681 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: - [[Investigations][Timeline] - Run Object.keys less frequently (#219629) - Backport version: 9.6.6 - Questions? Please refer to the [Backport tool documentation.'}]
+2025-05-01 20:39:14,682 - INFO - 📌 Added Issue: [8.19] [Investigations][Timeline] - Run Object.keys less frequently (#219629) | Status: open | Created: 2025-04-30T14:57:40Z
+2025-05-01 20:39:15,174 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.18`: [[Investigations][Timeline] - Run Object.keys less frequently (#219629)] Backport version: 9.6.6 -- Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 20:39:15,175 - INFO - 📌 Added Issue: [8.18] [Investigations][Timeline] - Run Object.keys less frequently (#219629) | Status: open | Created: 2025-04-30T14:57:24Z
+2025-05-01 20:39:19,737 - INFO - LLM Full Response: [{'summary_text': 'This PR uses the lock manager service to ensure no concurrent installation of the SLO resources. The PR was created to help users with their SLO installation. The release was released on October 1, 2013. It is available for download from the following sites: http://www.slo.org/pr/slo-lock-manager.html and http://slo.org.uk/.'}]
+2025-05-01 20:39:19,738 - INFO - 📌 Added Issue: feat(slo): lock resource installation | Status: open | Created: 2025-04-30T14:54:53Z
+2025-05-01 20:39:23,871 - INFO - LLM Full Response: [{'summary_text': 'Camelcase-keys is already on the latest version that is not an ESM module, so we should only upgrade the other dependencies until Kibana supports ESM natively. Manual version of https://github.com/elastic/kibana/pull/205556.'}]
+2025-05-01 20:39:23,872 - INFO - 📌 Added Issue: Update misc security solution deps | Status: open | Created: 2025-04-30T14:49:26Z
+2025-05-01 20:39:27,321 - INFO - LLM Full Response: [{'summary_text': 'Anmaly threshold input is missing an accessible label on create rule of machine learning type panel. This PR resolves [[Security:Rules:Detection Rules:Create Rule] Anmalyreshold input isMissing a label on the create rule. type panel]. This resolves the problem.'}]
+2025-05-01 20:39:27,324 - INFO - 📌 Added Issue: [a11y] Fix ML anomaly threshold input missing aria-label | Status: open | Created: 2025-04-30T14:41:08Z
+2025-05-01 20:39:28,271 - INFO - LLM Full Response: [{'summary_text': "We need to add dynamic search for entity related insights. As first stage we only look for entity.id. Since we expect cases where entities won't contain id, we will need to refer to the `entity.related` field. Note that the search for documents in the alerts/misconfigs/vulns indices will require those fields to be properly mapped."}]
+2025-05-01 20:39:28,272 - INFO - 📌 Added Issue: Add dynamic related entity search | Status: open | Created: 2025-04-30T14:37:16Z
+2025-05-01 20:39:33,018 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `9.1.0`: [[Watcher] Fix accessibility issues (#219082) Backport version: 9.6.0. # Backport tool documentation: http://www.elastic.com/backport.'}]
+2025-05-01 20:39:33,019 - INFO - 📌 Added Issue: [9.0] [Watcher] Fix accessibility issues (#219082) | Status: open | Created: 2025-04-30T14:33:38Z
+2025-05-01 20:39:52,685 - INFO - LLM Full Response: [{'summary_text': 'This PR resolves [[Platform:StackManagement:Kibana:Files] Statistics panel on the files page announced incorrectly](https://github.com/elastic/kibana/issues/217699) issue. ## Summary of the PR: This PR resolves an issue with the Statistics panel.'}]
+2025-05-01 20:39:52,686 - INFO - 📌 Added Issue: [a11y][SharedUX] Fix statistic flyout announcement | Status: open | Created: 2025-04-30T14:32:22Z
+2025-05-01 20:39:53,190 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:39:53,191 - INFO - 📌 Added Issue: [Fleet] Fix dataset validation to show errors on upgrade | Status: closed | Created: 2025-04-30T14:09:44Z
+2025-05-01 20:39:53,615 - INFO - LLM Full Response: [{'summary_text': 'Reviewers should verify this PR satisfies this list as well. If it involves visual changes include a screenshot or gif. Identify risks like hard to test bugs, performance regression, potential of data loss. Invite stakeholders and evaluate how to proceed before merging. If a plugin configuration key changed, check if it needs to be allowlisted.'}]
+2025-05-01 20:39:53,616 - INFO - 📌 Added Issue: log data stream stats | Status: open | Created: 2025-04-30T13:50:27Z
+2025-05-01 20:39:54,838 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:39:54,841 - INFO - 📌 Added Issue: [9.0] Update EUI to v102.0.0 (#219482) | Status: closed | Created: 2025-04-30T13:22:50Z
+2025-05-01 20:39:59,891 - INFO - LLM Full Response: [{'summary_text': 'Kibana: Closes [#219217](https://github.com/elastic/kibana/issues/2192 17) Closes #219216. Closes#219317. Closure #219417. Closing #219517. closing #219617.'}]
+2025-05-01 20:39:59,892 - INFO - 📌 Added Issue: Remove failsOnMKI tag from knowledge base status API tests | Status: open | Created: 2025-04-30T13:21:20Z
+2025-05-01 20:40:02,113 - INFO - LLM Full Response: [{'summary_text': ' remove some extra space for gap overview panel;. Remove FF for gaps for gaps;. Take some space from gap overview for gap panel; and. Add some space for gaps and gaps on the panel for gaps. The final step is to remove all the extra space from the panel and panel.'}]
+2025-05-01 20:40:02,115 - INFO - 📌 Added Issue: Remove FF for gaps | Status: open | Created: 2025-04-30T13:16:54Z
+2025-05-01 20:40:05,856 - INFO - LLM Full Response: [{'summary_text': 'Aims to improve the state of the project. Aims to make the project more efficient and effective. Aim is to reduce the amount of work that needs to be done. Aim: To reduce the number of tasks that need to be completed in a given time period.'}]
+2025-05-01 20:40:05,858 - INFO - 📌 Added Issue: [Streams 🌊] Enrichment sampling controls/filters | Status: open | Created: 2025-04-30T13:15:57Z
+2025-05-01 20:40:10,013 - INFO - ✅ Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:40:10,023 - INFO - ✅ Repository ranking report generated successfully.
+2025-05-01 20:40:13,651 - INFO - LLM Full Response: [{'summary_text': "Fix painless lab test flakiness. Fix painless laboratory tests. Fix lab tests that are too painful to use. Fix tests that don't work. Fix test results that aren't too painful. Fix the lab test that doesn't work, fix the lab tests."}]
+2025-05-01 20:40:13,652 - INFO - 📌 Added Issue: [Scout] Fix painless lab test flakiness | Status: open | Created: 2025-04-30T13:07:33Z
+2025-05-01 20:40:19,780 - INFO - LLM Full Response: [{'summary_text': 'This PR adds release notes for the Kibana 9.0.1 release. The release notes can be found at: http://www.elastic.dev/elastic/kibana/pull/219734/release-notes. For more information, visit the official release notes page.'}]
+2025-05-01 20:40:19,781 - INFO - 📌 Added Issue: [Docs] Kibana 9.0.1 release notes | Status: open | Created: 2025-04-30T13:06:12Z
+2025-05-01 20:40:19,782 - INFO - 📌 Added Issue: [Inference] POC: MCP Connector | Status: open | Created: 2025-04-30T12:59:33Z
+2025-05-01 20:40:29,854 - INFO - LLM Full Response: [{'summary_text': 'I’ve configured an Elasticsearch-based alert using the Elastic Cloud SMTP action, and I’m receiving individual email notifications correctly. However, when I enable the alert summary (at any frequency), I never receive the summary emails. I don’t know what OS is on Elastic Cloud.'}]
+2025-05-01 20:40:29,856 - INFO - 📌 Added Issue: Elasticsearch Summary of Alerts never delivered via Elastic Cloud SMTP | Status: open | Created: 2025-04-30T12:58:46Z
+2025-05-01 20:40:36,429 - INFO - LLM Full Response: [{'summary_text': 'When trying to visualize a query using the chat I receive an error. `Tool "visualize_query" called but was not available’, the error message says. The error message is caused by the chat not being able to access the tool. The tool is available on GitHub here.'}]
+2025-05-01 20:40:36,432 - INFO - 📌 Added Issue: [Obs AI Assistant] error when calling visualize_query | Status: open | Created: 2025-04-30T12:58:11Z
+2025-05-01 20:40:40,276 - INFO - LLM Full Response: [{'summary_text': 'CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery. Please submit your best shots of the U.S. for next week. Visit CNN.com/Travel next Wednesday for a new gallery of snapshots. Click here for a gallery of images from last week.'}]
+2025-05-01 20:40:40,277 - INFO - 📌 Added Issue: [EDR Workflows][Osquery] Space awareness readiness | Status: open | Created: 2025-04-30T12:55:16Z
+2025-05-01 20:40:44,660 - INFO - LLM Full Response: [{'summary_text': "The kibana setting xpack.task_manager.unsafe.exclude_task_types: ['*'] can be used to disable all task types from running. It seems to be causing the following message when task manager polls for tasks: Failed to poll for work: parse_exception."}]
+2025-05-01 20:40:44,662 - INFO - 📌 Added Issue: [ResponseOps][Task Manager] "Failed to poll for work: parse_exception" when all task types disabled | Status: open | Created: 2025-04-30T12:54:14Z
+2025-05-01 20:40:48,181 - INFO - LLM Full Response: [{'summary_text': 'Update FIPS docs to call out new backport requirements for FIPS 4.0. FIPS 5.0 is the latest version of FIPS software to be released. It is the most recent version of the FIPS standard for software written in the C programming language.'}]
+2025-05-01 20:40:48,204 - INFO - 📌 Added Issue: Update FIPS Test Failure Debugging docs to mention backport branch | Status: closed | Created: 2025-04-30T12:53:35Z
+2025-05-01 20:40:53,691 - INFO - LLM Full Response: [{'summary_text': "This will backport the following commits from `main` to `9.0.0' Backport version: 9.6.1. # Backport tool documentation: http://www.elastic.com/sorenlouv/backport. Back to the page you came from."}]
+2025-05-01 20:40:53,695 - INFO - 📌 Added Issue: [9.0] [O11y AI Assistant] Correct quotes in ES|QL queries for function arguments  (#217680) | Status: open | Created: 2025-04-30T12:46:12Z
+2025-05-01 20:40:58,446 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`. Backport version: 9.6.0. # Backport tool documentation: http://www.elastic.com/sorenlouv/backport. Back to the page you came from.'}]
+2025-05-01 20:40:58,479 - INFO - 📌 Added Issue: [8.19] [O11y AI Assistant] Correct quotes in ES|QL queries for function arguments  (#217680) | Status: closed | Created: 2025-04-30T12:45:58Z
+2025-05-01 20:41:04,869 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.18`. Backport version: 9.6.0. # Backport tool documentation: http://www.elastic.com/sorenlouv/backport. Back to the page you came from.'}]
+2025-05-01 20:41:04,870 - INFO - 📌 Added Issue: [8.18] [O11y AI Assistant] Correct quotes in ES|QL queries for function arguments  (#217680) | Status: open | Created: 2025-04-30T12:45:40Z
+2025-05-01 20:41:13,233 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: Move more types to esql-types package (#219661) Backport version: 9.6.0. # Backport tool documentation: http://github.com/elastic/kibana/pull/219661.'}]
+2025-05-01 20:41:13,237 - INFO - 📌 Added Issue: [8.19] [ES|QL] Move more types to esql-types package (#219661) | Status: closed | Created: 2025-04-30T12:45:17Z
+2025-05-01 20:41:14,221 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:41:14,222 - INFO - 📌 Added Issue: [8.19] [FTR] Skipped basic license tests for FIPS (#208916) | Status: open | Created: 2025-04-30T12:42:41Z
+2025-05-01 20:41:21,493 - INFO - LLM Full Response: [{'summary_text': "Add logging_level to the agent central configuration for the EDOT Java agent. Any text added follows [EUI's writing guidelines], uses sentence case text and includes [i18n support. Unit or functional tests were updated or added to match the most common scenarios. The PR description includes the appropriate Release Notes section."}]
+2025-05-01 20:41:21,494 - INFO - 📌 Added Issue: Add Edot logging level to central config | Status: open | Created: 2025-04-30T12:38:53Z
+2025-05-01 20:41:28,711 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [[FIPS] Skip test for FIPS pipeline since the feature will always be enabled due to platinum license/security override (#213989) Backport version: 9.6.6 --> Huber: Backport tool documentation.'}]
+2025-05-01 20:41:28,712 - INFO - 📌 Added Issue: [8.19] [FIPS] Skip test for FIPS pipeline since the feature will always be enabled due to platinum license/security override (#213989) | Status: closed | Created: 2025-04-30T12:38:19Z
+2025-05-01 20:41:29,741 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:41:29,742 - INFO - 📌 Added Issue: [8.19] Add global execution summary endpoint to alerting API (#216477) | Status: closed | Created: 2025-04-30T12:36:59Z
+2025-05-01 20:41:30,647 - INFO - LLM Full Response: [{'summary_text': 'The user is unable to drag fields from the left side field section and drop them into the query builder. Kibana v9.1.0 must be available. A policy should be created. An agent should be added and Data should be available i.e. some alerts should be triggered.'}]
+2025-05-01 20:41:30,649 - INFO - 📌 Added Issue: [Security Solution][Serverless][Question] User is unable to drop fields in query builder. | Status: closed | Created: 2025-04-30T12:35:24Z
+2025-05-01 20:41:31,154 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:41:31,159 - INFO - 📌 Added Issue: [8.19] Add global execution summary endpoint to alerting API (#216477) | Status: closed | Created: 2025-04-30T12:31:17Z
+2025-05-01 20:41:31,665 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:41:31,667 - INFO - 📌 Added Issue: [8.19] [Dashboards] Register dashboard locator on server start (#218495) | Status: closed | Created: 2025-04-30T12:30:26Z
+2025-05-01 20:41:32,183 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:41:32,184 - INFO - 📌 Added Issue: [8.19] Handle frozen indices during rule execution (#218435) | Status: closed | Created: 2025-04-30T12:26:21Z
+2025-05-01 20:41:38,384 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [[FIPS] Skip basic license cases list view test for FIPS pipeline (#215182)] Backport version: 9.6.0. # Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 20:41:38,385 - INFO - 📌 Added Issue: [8.19] [FIPS] Skip basic license cases list view test for FIPS pipeline (#215182) | Status: closed | Created: 2025-04-30T12:22:10Z
+2025-05-01 20:41:44,814 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [[FIPS] Update fips test overrides (#215745)](https://github.com/elastic/kibana/pull/2157 45) Backport version: 9.6.6 --> Questions? Please refer to the [Backport tool documentation]'}]
+2025-05-01 20:41:44,816 - INFO - 📌 Added Issue: [8.19] [FIPS] Update fips test overrides (#215745) | Status: closed | Created: 2025-04-30T12:17:21Z
+2025-05-01 20:41:45,363 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:41:45,364 - INFO - 📌 Added Issue: [8.19] [Streams 🌊] Bug fixing and refactor routing UI (#219281) | Status: closed | Created: 2025-04-30T12:16:56Z
+2025-05-01 20:41:45,871 - INFO - LLM Full Response: [{'summary_text': 'First failure: [kibana-on-merge - main] at Context.eval (webpack://@kbn/apm-ftr-e2e/./cypress/e 2e/service_ inventory/ service_ inventory.cy.ts:184:50) A test failed on a tracked branch.'}]
+2025-05-01 20:41:45,872 - INFO - 📌 Added Issue: Failing test: APM Cypress.x-pack/solutions/observability/plugins/apm/ftr_e2e/cypress/e2e/service_inventory/service_inventory·cy·ts - Service Inventory Check detailed statistics API with multiple services calls detailed API with visible items only calls detailed API with visible items only | Status: open | Created: 2025-04-30T12:11:56Z
+2025-05-01 20:41:54,113 - INFO - LLM Full Response: [{'summary_text': 'First failure: [kibana-on-merge - main] at eval (webpack://@kbn/apm-ftr-e2e/./cypress/support/commands.ts:135:43) Second failure:    at Context.eval ( webpack://://www.kbn.com/kite/Kibana/Main/eval/main.cpy) Third failure: at context.eval.'}]
+2025-05-01 20:41:54,114 - INFO - 📌 Added Issue: Failing test: APM Cypress.x-pack/solutions/observability/plugins/apm/ftr_e2e/cypress/e2e/service_inventory/service_inventory·cy·ts - Service Inventory Calls APIs with the correct environment when changing the environment with the correct environment when changing the environment | Status: open | Created: 2025-04-30T12:11:56Z
+2025-05-01 20:41:54,565 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:41:54,566 - INFO - 📌 Added Issue: [8.19] [Synthetics] Added compact view in monitors overview page (#219060) | Status: open | Created: 2025-04-30T12:03:44Z
+2025-05-01 20:41:55,061 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:41:55,064 - INFO - 📌 Added Issue: [Fleet] create ccs index patterns on Fleet setup | Status: open | Created: 2025-04-30T11:53:08Z
+2025-05-01 20:42:01,880 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `9.1.0`: [[Synthetics] Fix params sharing !! (#219675)](https://github.com/elastic/kibana/pull/2196 75) Backport version: 9.6.6 <!-- Backport tool documentation -->'}]
+2025-05-01 20:42:01,881 - INFO - 📌 Added Issue: [9.0] [Synthetics] Fix params sharing !! (#219675) | Status: closed | Created: 2025-04-30T11:43:06Z
+2025-05-01 20:42:44,967 - INFO - ✅ Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:42:44,988 - INFO - ✅ Repository ranking report generated successfully.
+2025-05-01 20:42:47,443 - INFO - ✅ Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:42:47,486 - INFO - ✅ Repository ranking report generated successfully.
