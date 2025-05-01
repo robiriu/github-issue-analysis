@@ -1626,3 +1626,317 @@
 2025-05-01 20:42:44,988 - INFO - ✅ Repository ranking report generated successfully.
 2025-05-01 20:42:47,443 - INFO - ✅ Repository rankings generated: [('elastic/kibana', 0)]
 2025-05-01 20:42:47,486 - INFO - ✅ Repository ranking report generated successfully.
+2025-05-01 20:48:45,577 - INFO - ✅ Fetched 100 issues from page 1 of elastic/kibana
+2025-05-01 20:48:46,795 - INFO - ✅ Fetched 100 issues from page 2 of elastic/kibana
+2025-05-01 20:48:47,970 - INFO - ✅ Fetched 100 issues from page 3 of elastic/kibana
+2025-05-01 20:48:49,208 - INFO - ✅ Fetched 100 issues from page 4 of elastic/kibana
+2025-05-01 20:48:50,426 - INFO - ✅ Fetched 100 issues from page 5 of elastic/kibana
+2025-05-01 20:48:51,515 - INFO - ✅ Fetched 100 issues from page 6 of elastic/kibana
+2025-05-01 20:48:52,572 - INFO - ✅ Fetched 100 issues from page 7 of elastic/kibana
+2025-05-01 20:48:53,776 - INFO - ✅ Fetched 100 issues from page 8 of elastic/kibana
+2025-05-01 20:48:54,898 - INFO - ✅ Fetched 100 issues from page 9 of elastic/kibana
+2025-05-01 20:48:56,175 - INFO - ✅ Fetched 100 issues from page 10 of elastic/kibana
+2025-05-01 20:48:57,731 - INFO - ✅ Fetched 100 issues from page 11 of elastic/kibana
+2025-05-01 20:48:59,241 - INFO - ✅ Fetched 100 issues from page 12 of elastic/kibana
+2025-05-01 20:49:00,474 - INFO - ✅ Fetched 100 issues from page 13 of elastic/kibana
+2025-05-01 20:49:01,707 - INFO - ✅ Fetched 100 issues from page 14 of elastic/kibana
+2025-05-01 20:49:03,164 - INFO - ✅ Fetched 100 issues from page 15 of elastic/kibana
+2025-05-01 20:49:04,463 - INFO - ✅ Fetched 100 issues from page 16 of elastic/kibana
+2025-05-01 20:49:05,797 - INFO - ✅ Fetched 100 issues from page 17 of elastic/kibana
+2025-05-01 20:49:07,030 - INFO - ✅ Fetched 100 issues from page 18 of elastic/kibana
+2025-05-01 20:49:08,374 - INFO - ✅ Fetched 100 issues from page 19 of elastic/kibana
+2025-05-01 20:49:09,613 - INFO - ✅ Fetched 100 issues from page 20 of elastic/kibana
+2025-05-01 20:49:10,695 - INFO - ✅ Fetched 100 issues from page 21 of elastic/kibana
+2025-05-01 20:49:12,259 - INFO - ✅ Fetched 100 issues from page 22 of elastic/kibana
+2025-05-01 20:49:13,761 - INFO - ✅ Fetched 100 issues from page 23 of elastic/kibana
+2025-05-01 20:49:21,393 - INFO - ✅ Fetched 100 issues from page 24 of elastic/kibana
+2025-05-01 20:49:23,230 - INFO - ✅ Fetched 100 issues from page 25 of elastic/kibana
+2025-05-01 20:49:25,643 - INFO - ✅ Fetched 100 issues from page 26 of elastic/kibana
+2025-05-01 20:49:27,234 - INFO - ✅ Fetched 100 issues from page 27 of elastic/kibana
+2025-05-01 20:49:28,681 - INFO - ✅ Fetched 100 issues from page 28 of elastic/kibana
+2025-05-01 20:49:30,514 - INFO - ✅ Fetched 100 issues from page 29 of elastic/kibana
+2025-05-01 20:49:31,784 - INFO - ✅ Fetched 100 issues from page 30 of elastic/kibana
+2025-05-01 20:49:33,143 - INFO - ✅ Fetched 100 issues from page 31 of elastic/kibana
+2025-05-01 20:49:34,779 - INFO - ✅ Fetched 100 issues from page 32 of elastic/kibana
+2025-05-01 20:49:36,022 - INFO - ✅ Repository rankings generated dynamically: [('elastic/kibana', 0)]
+2025-05-01 20:49:36,040 - INFO - ✅ Repository ranking report generated dynamically.
+2025-05-01 20:49:36,755 - INFO - ✅ Fetched 100 issues from page 33 of elastic/kibana
+2025-05-01 20:49:38,525 - INFO - ✅ Fetched 100 issues from page 34 of elastic/kibana
+2025-05-01 20:49:39,839 - INFO - ✅ Fetched 100 issues from page 35 of elastic/kibana
+2025-05-01 20:49:41,046 - INFO - ✅ Fetched 100 issues from page 36 of elastic/kibana
+2025-05-01 20:49:42,376 - INFO - ✅ Fetched 100 issues from page 37 of elastic/kibana
+2025-05-01 20:49:43,551 - INFO - ✅ Fetched 100 issues from page 38 of elastic/kibana
+2025-05-01 20:49:43,666 - INFO - ✅ Repository rankings generated dynamically: [('elastic/kibana', 0)]
+2025-05-01 20:49:43,679 - INFO - ✅ Repository ranking report generated dynamically.
+2025-05-01 20:49:45,021 - INFO - ✅ Repository rankings generated dynamically: [('elastic/kibana', 0)]
+2025-05-01 20:49:45,041 - INFO - ✅ Repository ranking report generated dynamically.
+2025-05-01 20:49:45,053 - INFO - ✅ Fetched 100 issues from page 39 of elastic/kibana
+2025-05-01 20:49:46,467 - INFO - ✅ Repository rankings generated dynamically: [('elastic/kibana', 0)]
+2025-05-01 20:49:46,487 - INFO - ✅ Repository ranking report generated dynamically.
+2025-05-01 20:49:46,507 - INFO - ✅ Fetched 100 issues from page 40 of elastic/kibana
+2025-05-01 20:49:48,877 - INFO - ✅ Fetched 100 issues from page 41 of elastic/kibana
+2025-05-01 20:49:50,233 - INFO - ✅ Fetched 100 issues from page 42 of elastic/kibana
+2025-05-01 20:49:51,750 - INFO - ✅ Fetched 100 issues from page 43 of elastic/kibana
+2025-05-01 20:49:52,966 - INFO - ✅ Fetched 100 issues from page 44 of elastic/kibana
+2025-05-01 20:49:54,659 - INFO - ✅ Fetched 100 issues from page 45 of elastic/kibana
+2025-05-01 20:49:56,131 - INFO - ✅ Fetched 100 issues from page 46 of elastic/kibana
+2025-05-01 20:49:57,368 - INFO - ✅ Fetched 100 issues from page 47 of elastic/kibana
+2025-05-01 20:49:58,667 - INFO - ✅ Fetched 100 issues from page 48 of elastic/kibana
+2025-05-01 20:50:03,146 - INFO - ✅ Fetched 100 issues from page 49 of elastic/kibana
+2025-05-01 20:50:05,482 - INFO - ✅ Fetched 100 issues from page 50 of elastic/kibana
+2025-05-01 20:50:10,600 - INFO - ✅ Fetched 100 issues from page 51 of elastic/kibana
+2025-05-01 20:50:12,136 - INFO - ✅ Fetched 100 issues from page 52 of elastic/kibana
+2025-05-01 20:50:13,708 - INFO - ✅ Fetched 100 issues from page 53 of elastic/kibana
+2025-05-01 20:50:15,280 - INFO - ✅ Fetched 100 issues from page 54 of elastic/kibana
+2025-05-01 20:50:16,901 - INFO - ✅ Fetched 100 issues from page 55 of elastic/kibana
+2025-05-01 20:50:18,574 - INFO - ✅ Fetched 100 issues from page 56 of elastic/kibana
+2025-05-01 20:50:21,145 - INFO - ✅ Fetched 100 issues from page 57 of elastic/kibana
+2025-05-01 20:50:23,004 - INFO - ✅ Fetched 100 issues from page 58 of elastic/kibana
+2025-05-01 20:50:24,620 - INFO - ✅ Fetched 100 issues from page 59 of elastic/kibana
+2025-05-01 20:50:26,116 - INFO - ✅ Fetched 100 issues from page 60 of elastic/kibana
+2025-05-01 20:50:32,077 - INFO - ✅ Fetched 100 issues from page 61 of elastic/kibana
+2025-05-01 20:50:37,392 - INFO - ✅ Fetched 100 issues from page 62 of elastic/kibana
+2025-05-01 20:50:55,544 - INFO - ✅ Fetched 100 issues from page 63 of elastic/kibana
+2025-05-01 20:51:00,452 - INFO - ✅ Fetched 100 issues from page 64 of elastic/kibana
+2025-05-01 20:51:01,695 - INFO - ✅ Fetched 100 issues from page 65 of elastic/kibana
+2025-05-01 20:51:03,466 - INFO - ✅ Fetched 100 issues from page 66 of elastic/kibana
+2025-05-01 20:51:04,970 - INFO - ✅ Fetched 100 issues from page 67 of elastic/kibana
+2025-05-01 20:51:06,331 - INFO - ✅ Fetched 100 issues from page 68 of elastic/kibana
+2025-05-01 20:51:07,589 - INFO - ✅ Fetched 100 issues from page 69 of elastic/kibana
+2025-05-01 20:51:09,244 - INFO - ✅ Fetched 100 issues from page 70 of elastic/kibana
+2025-05-01 20:51:11,052 - INFO - ✅ Fetched 100 issues from page 71 of elastic/kibana
+2025-05-01 20:51:12,845 - INFO - ✅ Fetched 100 issues from page 72 of elastic/kibana
+2025-05-01 20:51:14,573 - INFO - ✅ Fetched 100 issues from page 73 of elastic/kibana
+2025-05-01 20:51:16,049 - INFO - ✅ Fetched 100 issues from page 74 of elastic/kibana
+2025-05-01 20:51:17,697 - INFO - ✅ Fetched 100 issues from page 75 of elastic/kibana
+2025-05-01 20:51:19,347 - INFO - ✅ Fetched 100 issues from page 76 of elastic/kibana
+2025-05-01 20:51:20,977 - INFO - ✅ Fetched 100 issues from page 77 of elastic/kibana
+2025-05-01 20:51:22,615 - INFO - ✅ Fetched 100 issues from page 78 of elastic/kibana
+2025-05-01 20:51:24,147 - INFO - ✅ Fetched 100 issues from page 79 of elastic/kibana
+2025-05-01 20:51:25,543 - INFO - ✅ Fetched 100 issues from page 80 of elastic/kibana
+2025-05-01 20:51:26,872 - INFO - ✅ Fetched 100 issues from page 81 of elastic/kibana
+2025-05-01 20:51:29,176 - INFO - ✅ Fetched 100 issues from page 82 of elastic/kibana
+2025-05-01 20:51:30,848 - INFO - ✅ Fetched 100 issues from page 83 of elastic/kibana
+2025-05-01 20:51:32,124 - INFO - ✅ Fetched 100 issues from page 84 of elastic/kibana
+2025-05-01 20:51:33,456 - INFO - ✅ Fetched 100 issues from page 85 of elastic/kibana
+2025-05-01 20:51:34,660 - INFO - ✅ Fetched 100 issues from page 86 of elastic/kibana
+2025-05-01 20:51:35,900 - INFO - ✅ Fetched 100 issues from page 87 of elastic/kibana
+2025-05-01 20:51:37,329 - INFO - ✅ Fetched 100 issues from page 88 of elastic/kibana
+2025-05-01 20:51:39,034 - INFO - ✅ Fetched 100 issues from page 89 of elastic/kibana
+2025-05-01 20:51:40,517 - INFO - ✅ Fetched 100 issues from page 90 of elastic/kibana
+2025-05-01 20:51:42,259 - INFO - ✅ Fetched 100 issues from page 91 of elastic/kibana
+2025-05-01 20:51:44,179 - INFO - ✅ Fetched 100 issues from page 92 of elastic/kibana
+2025-05-01 20:51:46,701 - INFO - ✅ Fetched 100 issues from page 93 of elastic/kibana
+2025-05-01 20:51:48,396 - INFO - ✅ Fetched 100 issues from page 94 of elastic/kibana
+2025-05-01 20:51:49,838 - INFO - ✅ Fetched 100 issues from page 95 of elastic/kibana
+2025-05-01 20:51:51,073 - INFO - ✅ Fetched 100 issues from page 96 of elastic/kibana
+2025-05-01 20:51:52,779 - INFO - ✅ Fetched 100 issues from page 97 of elastic/kibana
+2025-05-01 20:51:54,517 - INFO - ✅ Fetched 100 issues from page 98 of elastic/kibana
+2025-05-01 20:51:56,318 - INFO - ✅ Fetched 100 issues from page 99 of elastic/kibana
+2025-05-01 20:51:56,319 - INFO - ✅ Total issues fetched: 9900
+2025-05-01 20:51:56,320 - INFO - ✅ Preparing to save 9900 issues for elastic/kibana
+2025-05-01 20:51:57,015 - INFO - ✅ Repository elastic/kibana now has 20439 stars and language: TypeScript
+2025-05-01 20:52:02,325 - INFO - LLM Full Response: [{'summary_text': 'Kibana is a package storage system. Kibana was developed in the 1990s. It is based on the Linux operating system. The code is written in C# and C++. It was written in the C programming language, C# 2.0.1.'}]
+2025-05-01 20:52:02,326 - INFO - 📌 Added Issue: [8.19] Sync bundled packages with Package Storage | Status: open | Created: 2025-05-01T13:38:50Z
+2025-05-01 20:52:02,786 - INFO - LLM Full Response: [{'summary_text': 'IP Addresses render truncated to the first 2 octets when used in mustache TSVB markdown panel. Kibana version:** 9.0.0, Elasticsearch version:\xa0 9.1.1, Ubuntu 22.04.5 (64-bit) Browser OS:** Firefox 137.2 ( 64-bit), Windows 11 (11)'}]
+2025-05-01 20:52:02,787 - INFO - 📌 Added Issue: IP addresses rendering improperly in mustache TSVB markdown | Status: open | Created: 2025-05-01T13:29:08Z
+2025-05-01 20:52:03,287 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.18`: - [[Fleet] Fix dataset validation to show errors on upgrade (#219741)] - Backport version: 9.6.6 - Questions? Please refer to the [Backport tool documentation]'}]
+2025-05-01 20:52:03,292 - INFO - 📌 Added Issue: [8.18] [Fleet] Fix dataset validation to show errors on upgrade (#219741) | Status: open | Created: 2025-05-01T13:05:18Z
+2025-05-01 20:52:03,785 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: - [[Fleet] Fix dataset validation to show errors on upgrade (#219741)] - Backport version: 9.6.6 - Questions? Please refer to the [Backport tool documentation]'}]
+2025-05-01 20:52:03,786 - INFO - 📌 Added Issue: [8.19] [Fleet] Fix dataset validation to show errors on upgrade (#219741) | Status: open | Created: 2025-05-01T13:04:02Z
+2025-05-01 20:52:04,753 - INFO - LLM Full Response: [{'summary_text': "This will backport the following commits from `main` to `9.0.0' - [[Fleet] Fix dataset validation to show errors on upgrade (#219741)] Backport version: 9.6.6 - Backport tool documentation is available at: http://elastic.com/sorenlouv/backport."}]
+2025-05-01 20:52:04,755 - INFO - 📌 Added Issue: [9.0] [Fleet] Fix dataset validation to show errors on upgrade (#219741) | Status: open | Created: 2025-05-01T13:01:43Z
+2025-05-01 20:52:05,175 - INFO - LLM Full Response: [{'summary_text': 'Kibana is a cloud-based storage system. Kibana was developed in the late 1990s. It was the first cloud storage system in the world. It is now being used to store data in the cloud. It can also store data on the cloud, and other systems.'}]
+2025-05-01 20:52:05,176 - INFO - 📌 Added Issue: [8.18] Sync bundled packages with Package Storage | Status: open | Created: 2025-05-01T12:50:41Z
+2025-05-01 20:52:06,110 - INFO - LLM Full Response: [{'summary_text': 'Kibana is a cloud-based storage system. Kibana was developed in the late 1990s. It was the first cloud storage system in the world. It is now being used to store data in the cloud. It can also store data on the cloud, and other systems.'}]
+2025-05-01 20:52:06,111 - INFO - 📌 Added Issue: [9.0] Sync bundled packages with Package Storage | Status: open | Created: 2025-05-01T12:49:53Z
+2025-05-01 20:52:06,527 - INFO - LLM Full Response: [{'summary_text': 'Kibana is a cloud-based storage system. Kibana was developed in the late 1990s. It was the first cloud storage system in the world. It is now being used to store data in the cloud. It can also store data on the cloud, and other systems.'}]
+2025-05-01 20:52:06,528 - INFO - 📌 Added Issue: [main] Sync bundled packages with Package Storage | Status: open | Created: 2025-05-01T12:49:48Z
+2025-05-01 20:52:08,369 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:52:08,388 - INFO - 📌 Added Issue: [8.19] [Security Solution] [AI assistant] Bug / remove citations system prompt when citations are disabled (#219069) | Status: open | Created: 2025-05-01T12:49:07Z
+2025-05-01 20:52:09,321 - INFO - LLM Full Response: [{'summary_text': 'We want to allow the purge rolled-up data and stale instances to be run in tasks. The tasks should be enabled/disabled from the management page. They can be configured when scheduling them, e.g. configure stale time or purge rolled up policy (age only)'}]
+2025-05-01 20:52:09,322 - INFO - 📌 Added Issue: [SLO] [Management] Investigate tasks setup/configuration | Status: open | Created: 2025-05-01T12:12:44Z
+2025-05-01 20:52:09,774 - INFO - LLM Full Response: [{'summary_text': "A user created a template from a timeline where user had already added a note to an event/ alert. Now, when the user opens that template, a red dot displayed on notes icon and a message 'Notes cannot be added here while editing a template Timeline' displayed in the tooltip."}]
+2025-05-01 20:52:09,775 - INFO - 📌 Added Issue: [Security Solution][Serverless][Bug] A red dot is displayed on the Notes icon in the Timelines table when a template is created from a timeline that has user-added notes for event/alert. | Status: open | Created: 2025-05-01T12:08:12Z
+2025-05-01 20:52:10,218 - INFO - LLM Full Response: [{'summary_text': 'The action to purge an SLO rolled up data should be available on an individual SLO and on the bulk selection toggle. When we click on the action, we should open a confirmation modal that will also ask to configure the purge policy. No polling is necessary, on confirm we show a toast telling the user the task will run in the background.'}]
+2025-05-01 20:52:10,219 - INFO - 📌 Added Issue: [SLO] [Management] Add Purge rolled-up action and bulk action UI | Status: open | Created: 2025-05-01T12:01:29Z
+2025-05-01 20:52:11,943 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:52:11,946 - INFO - 📌 Added Issue: [SecuritySolution] Privileged user monitoring page + Risk levels panel | Status: open | Created: 2025-05-01T11:42:18Z
+2025-05-01 20:52:13,020 - INFO - LLM Full Response: [{'summary_text': 'Blank space is acceptable by AI Assistant. Kibana/Elasticsearch Stack version: 9.1.0 SERVERLESS. BUILD: 85923COMMIT: 97f979ddcb5623939a3562939277f21768ea3f6c.'}]
+2025-05-01 20:52:13,021 - INFO - 📌 Added Issue: [Security Solution] [Bug] Blank space is acceptable by AI Assistant | Status: open | Created: 2025-05-01T11:40:23Z
+2025-05-01 20:52:13,911 - INFO - LLM Full Response: [{'summary_text': 'Removes the wildcard validation to fix wrong validation like that. Tests were updated or added to match the most common scenarios. Checklist: [Unit or functional tests](https://www.elastic.co/guide/en/kibana/master/development-tests.html)'}]
+2025-05-01 20:52:13,913 - INFO - 📌 Added Issue: [ES|QL] Fixes rename wrong validation for asterisc in name | Status: open | Created: 2025-05-01T11:34:04Z
+2025-05-01 20:52:14,786 - INFO - LLM Full Response: [{'summary_text': 'TBD will be the next president of the United States. President Barack Obama will step down at the end of the year. President George W. Bush will step aside at the beginning of 2015. The White House will then be replaced by the White House. The new president will be inaugurated in January 2015.'}]
+2025-05-01 20:52:14,787 - INFO - 📌 Added Issue: [Security Solution] Refactor prebuilt rules integration tests | Status: open | Created: 2025-05-01T11:32:55Z
+2025-05-01 20:52:17,966 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:52:17,967 - INFO - 📌 Added Issue: [8.19] [Streams] Refactor schemas (#218308) | Status: open | Created: 2025-05-01T10:17:32Z
+2025-05-01 20:52:18,454 - INFO - LLM Full Response: [{'summary_text': "Passing down `SLACK_CHANNEL` env variable. Passes down 'SLACK' to the next channel. Passing down the channel to the current channel. Passing down 'SACK' down to the previous channel. passing down a channel to a new channel. pass down the next. channel."}]
+2025-05-01 20:52:18,455 - INFO - 📌 Added Issue: [CodeQL] Passing SLACK_CHANNEL env var | Status: open | Created: 2025-05-01T09:50:42Z
+2025-05-01 20:52:21,176 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:52:21,177 - INFO - 📌 Added Issue: [9.0] [Security Solution] Add rule upgrade preview FE integration tests (Rule Upgrade Flyout) (#210377) | Status: closed | Created: 2025-05-01T09:45:57Z
+2025-05-01 20:52:21,624 - INFO - LLM Full Response: [{'summary_text': 'Per title: "The World\'s Most Beautiful People" The World\'s most Beautiful People: "People of the World" The world\'s most beautiful people: "people of the world" The best people in the world: "the world\'s greatest people" "The world\'s best people": "people from around the world," "the best people on the planet"'}]
+2025-05-01 20:52:21,625 - INFO - 📌 Added Issue: [UA] Remove Kibana core from test ownership | Status: open | Created: 2025-05-01T09:40:56Z
+2025-05-01 20:52:22,085 - INFO - LLM Full Response: [{'summary_text': 'In this PR, we are saving dynamically mapped group by information for the custom threshold rule. This consists of two parts: Adding a dynamic field and a dynamic template. Relaetd to https://github.com/elastic/kibana/issues/183248.'}]
+2025-05-01 20:52:22,087 - INFO - 📌 Added Issue: Save group by information with dynamic mapping | Status: open | Created: 2025-05-01T09:23:20Z
+2025-05-01 20:52:22,652 - INFO - LLM Full Response: [{'summary_text': 'This is all configurable via kibana settings and the Entity Store API, so customers can update it. The PR description includes the appropriate Release Notes section, and the correct `release_note:*` label is applied per the [guidelines](https://www.elastic.co/guide/en/kibana/master/contributing.html#Kibana-release-notes-process)'}]
+2025-05-01 20:52:22,653 - INFO - 📌 Added Issue: [Entity Store] Performance Improvements | Status: open | Created: 2025-05-01T08:30:37Z
+2025-05-01 20:52:24,619 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [Discover ] Increase test jest timeout (#219695) Backport version: 9.6.0. # Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 20:52:24,620 - INFO - 📌 Added Issue: [8.19] [Discover ] Increase test jest timeout (#219695) | Status: closed | Created: 2025-05-01T05:43:28Z
+2025-05-01 20:52:25,149 - INFO - LLM Full Response: [{'summary_text': 'The Kibana API is an open source, free to download, open source software. It was developed by the Open Source Software Foundation (OSF) in the 1990s. OSF is a non-profit organization based in the U.S. and has been open source since 1998.'}]
+2025-05-01 20:52:25,150 - INFO - 📌 Added Issue: [api-docs] 2025-05-01 Daily api_docs build | Status: closed | Created: 2025-05-01T04:31:48Z
+2025-05-01 20:52:25,563 - INFO - LLM Full Response: [{'summary_text': 'This PR addresses the issue where if user tried to renavigate to Findings page (with filter on) from Vulnerability Contextual Flyout by clicking on the popup icon. If some of the fields value contains special character such as "+" the filter won\'t form properly. This malformed filter is caused because in the URL "+" gets encoded into "%20" which is space instead of "#"'}]
+2025-05-01 20:52:25,565 - INFO - 📌 Added Issue: [Cloud Security] Fix for Redirect Issue from Vuln contextual flyout | Status: open | Created: 2025-05-01T00:54:56Z
+2025-05-01 20:52:25,981 - INFO - LLM Full Response: [{'summary_text': 'To improve compatibility with the **Asset Inventory** grouping and filtering logic, the `entity.type` field must be added to documents in both the **User** and **Host** Entity Stores. This field will enable consistent categorization and allow assets to be filtered and grouped by their high-level entity type.'}]
+2025-05-01 20:52:25,982 - INFO - 📌 Added Issue: [Entity Store] Add entity.type Field to User and Host Entity Stores | Status: open | Created: 2025-05-01T00:39:29Z
+2025-05-01 20:52:26,529 - INFO - LLM Full Response: [{'summary_text': "This work has potential for Kibana in general, as well. It adds Notifications to Kibane Workspace. It has potential to be used in a variety of other ways, too. It's a work in progress, but could be used for other applications."}]
+2025-05-01 20:52:26,530 - INFO - 📌 Added Issue: [workspace] Notification Center | Status: open | Created: 2025-05-01T00:17:04Z
+2025-05-01 20:52:26,972 - INFO - LLM Full Response: [{'summary_text': 'Reviewers should verify this PR satisfies this list as well. If it involves visual changes include a screenshot or gif. Identify risks like hard to test bugs, performance regression, potential of data loss. Invite stakeholders and evaluate how to proceed before merging. If a plugin configuration key changed, check if it needs to be allowlisted.'}]
+2025-05-01 20:52:26,973 - INFO - 📌 Added Issue: dummy changes | Status: open | Created: 2025-04-30T23:43:22Z
+2025-05-01 20:52:27,925 - INFO - LLM Full Response: [{'summary_text': 'Reviewers should verify this PR satisfies this list as well. If it involves visual changes include a screenshot or gif. Identify risks like hard to test bugs, performance regression, potential of data loss. Invite stakeholders and evaluate how to proceed before merging. If a plugin configuration key changed, check if it needs to be allowlisted.'}]
+2025-05-01 20:52:27,926 - INFO - 📌 Added Issue: Add conditional switching between EUI releases | Status: open | Created: 2025-04-30T23:22:09Z
+2025-05-01 20:52:28,897 - INFO - LLM Full Response: [{'summary_text': "This PR is part of a larger icon redesign effort related to the Visual Refresh effort. Some were simply renamed, others redesigned, and others are being removed given redundancy (e.g. `editorCodeBlock' and 'visVega' are the same icon. The PR description includes the appropriate Release Notes section."}]
+2025-05-01 20:52:28,898 - INFO - 📌 Added Issue: Swap out to-be-deprecatd icons | Status: open | Created: 2025-04-30T23:03:29Z
+2025-05-01 20:52:29,399 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:52:29,401 - INFO - 📌 Added Issue: [9.0] partial revert of PR 209025 (#219793) | Status: closed | Created: 2025-04-30T22:40:23Z
+2025-05-01 20:52:32,519 - INFO - ✅ Repository rankings generated dynamically: [('elastic/kibana', 0)]
+2025-05-01 20:52:32,554 - INFO - ✅ Repository ranking report generated dynamically.
+2025-05-01 20:52:33,520 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:52:33,525 - INFO - 📌 Added Issue: [8.19] partial revert of PR 209025 (#219793) | Status: closed | Created: 2025-04-30T22:40:11Z
+2025-05-01 20:52:34,676 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:52:34,678 - INFO - 📌 Added Issue: [8.18] partial revert of PR 209025 (#219793) | Status: closed | Created: 2025-04-30T22:39:56Z
+2025-05-01 20:52:35,952 - INFO - LLM Full Response: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from Elasticsearch. It also updates the inline docs to include the latest Elasticsearch metadata. The PR is available on GitHub as well as on the Elasticsearch website. For more information on the PR, please visit the PR page.'}]
+2025-05-01 20:52:35,953 - INFO - 📌 Added Issue: [Do not merge!][ES|QL] Update function metadata for 8.19 | Status: open | Created: 2025-04-30T22:22:16Z
+2025-05-01 20:52:41,109 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:52:41,112 - INFO - 📌 Added Issue: [8.19] [Obs AI Assistant] Backport all LockManager commits | Status: closed | Created: 2025-04-30T21:50:42Z
+2025-05-01 20:52:42,819 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.17`: [chore(NA): updating used polyfills using 3rd party library (#218020) Backport version: 9.6.0. This PR is a follow up from the webpack v5 upgrade which makes sure we’re using a new supported library.'}]
+2025-05-01 20:52:42,820 - INFO - 📌 Added Issue: [8.17] chore(NA): updating used polyfills using 3rd party library (#218020) | Status: closed | Created: 2025-04-30T21:41:37Z
+2025-05-01 20:52:43,840 - INFO - LLM Full Response: [{'summary_text': 'This PR makes some code changes to the AI4DSOC alert flyout code. It adds code documentation (interfaces and components/hooks) and adds missing unit tests. The PR also add the @elastic/security-threat-hunting-investigations and @Elastic/ security-generative-ai teams as codeowners.'}]
+2025-05-01 20:52:43,843 - INFO - 📌 Added Issue: [AI4DSOC] Alert flyout code cleanup | Status: open | Created: 2025-04-30T21:38:56Z
+2025-05-01 20:52:44,948 - INFO - LLM Full Response: [{'summary_text': 'Almost all security investigations involve users as observables, and it would be helpful to understand common cases in the past that share the same user name. Please allow the addition of user name observables type to the list of user names that can be used in security investigations. Use this feature to help with security investigations in the future.'}]
+2025-05-01 20:52:44,950 - INFO - 📌 Added Issue: Security cases - Observables - add type: user name | Status: open | Created: 2025-04-30T21:38:01Z
+2025-05-01 20:52:45,669 - INFO - LLM Full Response: [{'summary_text': "Allow subdomains to be added for domain observables. There are many cases where we can leverage common subdomain and they don't really fit in the URL category. The feature is called Elastic Security Cases - Observables. For more information on the feature, visit the Elastic Security cases page."}]
+2025-05-01 20:52:45,670 - INFO - 📌 Added Issue: Allow subdomains to be added for domain observables - security cases | Status: open | Created: 2025-04-30T21:36:40Z
+2025-05-01 20:52:46,217 - INFO - LLM Full Response: [{'summary_text': 'First failure: [kibana-on-merge - main](https://buildkite.com/elastic/kibanas/67628#01968885-8840-47ef-998f-8f2b75647414) Second failure: onFailure (retry_for_success.ts:18:9) Third failure: retry.try reached timeout 120000 ms. Fourth failure: processTicksAndRejections (node:internal/process/task_queues:95:5)'}]
+2025-05-01 20:52:46,222 - INFO - 📌 Added Issue: Failing test: Chrome X-Pack UI Functional Tests.x-pack/test/functional/apps/discover/group1/reporting·ts - discover - group 1 Discover CSV Export Check Available is available if new | Status: open | Created: 2025-04-30T21:36:31Z
+2025-05-01 20:52:46,693 - INFO - LLM Full Response: [{'summary_text': "The add data flyout has been updated to treat selecting an index with no fields as an error. The flyout layout has been refactored to do less list traversal. The Flaky Test Runner was used on any tests changed. Any text added follows [EUI's writing guidelines], uses sentence case text and includes i18n support."}]
+2025-05-01 20:52:46,706 - INFO - 📌 Added Issue: [Search][Playground] Disable selecting empty indices & other Add data flyout updates | Status: open | Created: 2025-04-30T21:35:08Z
+2025-05-01 20:52:47,344 - INFO - LLM Full Response: [{'summary_text': "Adding a security cases' observable of type file path throws an error if the field contains a space, or a dash, like:C:\\Program Files\\Elastic \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0C:\\test- folder. Kibana 8.18.2: Add security cases to a file path."}]
+2025-05-01 20:52:47,350 - INFO - 📌 Added Issue: Allow spaces in file paths in Observables | Status: open | Created: 2025-04-30T21:33:33Z
+2025-05-01 20:52:48,269 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:52:48,270 - INFO - 📌 Added Issue: [8.19] [Security Solution] [Expandable Flyout] Add tooltip to flyout history (#219795) | Status: open | Created: 2025-04-30T21:33:09Z
+2025-05-01 20:52:48,974 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 20:52:48,976 - INFO - 📌 Added Issue: [8.19] [Obs AI Assistant] Query alerts using the `alert.start` field and update alerts function API test to check alert information (#219651) | Status: closed | Created: 2025-04-30T21:33:05Z
+2025-05-01 20:52:50,687 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.18`: [chore(NA): updating used polyfills using 3rd party library (#218020) Backport version: 9.6.0. This PR is a follow up from the webpack v5 upgrade which makes sure we’re using a new supported library.'}]
+2025-05-01 20:52:50,689 - INFO - 📌 Added Issue: [8.18] chore(NA): updating used polyfills using 3rd party library (#218020) | Status: closed | Created: 2025-04-30T21:32:28Z
+2025-05-01 20:52:51,766 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [chore(NA): updating used polyfills using 3rd party library (#218020) Backport version: 9.6.0. This PR is a follow up from the webpack v5 upgrade which makes sure we’re using a new supported library.'}]
+2025-05-01 20:52:51,767 - INFO - 📌 Added Issue: [8.19] chore(NA): updating used polyfills using 3rd party library (#218020) | Status: closed | Created: 2025-04-30T21:24:36Z
+2025-05-01 20:52:52,408 - INFO - LLM Full Response: [{'summary_text': 'This PR does not need to be reviewed by external teams. This PR merges into a feature branch that Kibana presentation team is working on to convert the embeddable framework to only expose serialized state. Your team will be pinged for review once the work is complete and the final PR opens.'}]
+2025-05-01 20:52:52,413 - INFO - 📌 Added Issue: fix discover session issues found in testing swarm | Status: closed | Created: 2025-04-30T21:15:46Z
+2025-05-01 20:52:53,030 - INFO - LLM Full Response: [{'summary_text': 'Backport version: 9.6.0. This will backport the following commits from `main` to `9.1.0`: [chore(NA): updating used polyfills using 3rd party library (#218020)] Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 20:52:53,045 - INFO - 📌 Added Issue: [9.0] chore(NA): updating used polyfills using 3rd party library (#218020) | Status: closed | Created: 2025-04-30T21:05:51Z
+2025-05-01 20:52:54,070 - INFO - LLM Full Response: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from Elasticsearch. It also updates the inline docs to include the latest Elasticsearch metadata. The PR is available on GitHub as well as on the Elasticsearch website. For more information on the PR, please visit the PR page.'}]
+2025-05-01 20:52:54,106 - INFO - 📌 Added Issue: [ES|QL] Update function metadata for 8.19 | Status: closed | Created: 2025-04-30T21:05:17Z
+2025-05-01 20:52:54,696 - INFO - LLM Full Response: [{'summary_text': 'This PR removes the expired maintenance window ids from the alert.maintenanceWindowIds list of the active and the recovered alerts. The actions for those alerts would be triggered once the MW expires. To verify: Create a Maintenance Window that lasts a couple of minutes. Create a rule that generates an alert.'}]
+2025-05-01 20:52:54,703 - INFO - 📌 Added Issue: Alerts created within a Maintenance Windows trigger actions after the MW expires | Status: open | Created: 2025-04-30T20:04:26Z
+2025-05-01 20:52:55,199 - INFO - LLM Full Response: [{'summary_text': 'Add a new tab to Hosts page to show system services. Currently, you can see what processes are running on the host. I would like to see what services (distinct from processes) are running/stopping/starting. This services data is already being collected by integrations, would be nice to leverage more of the out of box solution.'}]
+2025-05-01 20:52:55,214 - INFO - 📌 Added Issue: [Hosts][UI] Include Windows/Linux Services | Status: open | Created: 2025-04-30T19:55:36Z
+2025-05-01 20:52:56,290 - INFO - LLM Full Response: [{'summary_text': 'The README.md for Kibana is now available on GitHub. The README includes a list of things to look out for. The PR description includes the appropriate Release Notes section. The correct `release_note:*` label is applied per the [guidelines](https://www.elastic.co/guide/en/kibana/master/contributing)'}]
+2025-05-01 20:52:56,291 - INFO - 📌 Added Issue: [Security Solution] [Expandable Flyout] Add tooltip to flyout history | Status: closed | Created: 2025-04-30T19:45:57Z
+2025-05-01 20:53:06,077 - INFO - ✅ Fetched 100 issues from page 1 of elastic/kibana
+2025-05-01 20:53:08,480 - INFO - ✅ Fetched 100 issues from page 2 of elastic/kibana
+2025-05-01 20:53:11,186 - INFO - ✅ Fetched 100 issues from page 3 of elastic/kibana
+2025-05-01 20:53:12,401 - INFO - ✅ Repository rankings generated dynamically: [('elastic/kibana', 0)]
+2025-05-01 20:53:12,415 - INFO - ✅ Repository ranking report generated dynamically.
+2025-05-01 20:53:14,043 - INFO - ✅ Fetched 100 issues from page 4 of elastic/kibana
+2025-05-01 20:53:15,504 - INFO - ✅ Fetched 100 issues from page 5 of elastic/kibana
+2025-05-01 20:53:18,253 - INFO - ✅ Fetched 100 issues from page 6 of elastic/kibana
+2025-05-01 20:53:19,923 - INFO - ✅ Fetched 100 issues from page 7 of elastic/kibana
+2025-05-01 20:53:21,684 - INFO - ✅ Fetched 100 issues from page 8 of elastic/kibana
+2025-05-01 20:53:24,067 - INFO - ✅ Fetched 100 issues from page 9 of elastic/kibana
+2025-05-01 20:53:25,630 - INFO - ✅ Fetched 100 issues from page 10 of elastic/kibana
+2025-05-01 20:53:28,417 - INFO - ✅ Fetched 100 issues from page 11 of elastic/kibana
+2025-05-01 20:53:30,664 - INFO - ✅ Fetched 100 issues from page 12 of elastic/kibana
+2025-05-01 20:53:32,882 - INFO - ✅ Fetched 100 issues from page 13 of elastic/kibana
+2025-05-01 20:53:34,142 - INFO - ✅ Fetched 100 issues from page 14 of elastic/kibana
+2025-05-01 20:53:35,343 - INFO - ✅ Fetched 100 issues from page 15 of elastic/kibana
+2025-05-01 20:53:36,671 - INFO - ✅ Fetched 100 issues from page 16 of elastic/kibana
+2025-05-01 20:53:38,012 - INFO - ✅ Fetched 100 issues from page 17 of elastic/kibana
+2025-05-01 20:53:39,249 - INFO - ✅ Fetched 100 issues from page 18 of elastic/kibana
+2025-05-01 20:53:40,319 - INFO - ✅ Fetched 100 issues from page 19 of elastic/kibana
+2025-05-01 20:53:41,529 - INFO - ✅ Fetched 100 issues from page 20 of elastic/kibana
+2025-05-01 20:53:42,656 - INFO - ✅ Fetched 100 issues from page 21 of elastic/kibana
+2025-05-01 20:53:43,991 - INFO - ✅ Fetched 100 issues from page 22 of elastic/kibana
+2025-05-01 20:53:45,415 - INFO - ✅ Fetched 100 issues from page 23 of elastic/kibana
+2025-05-01 20:53:46,694 - INFO - ✅ Fetched 100 issues from page 24 of elastic/kibana
+2025-05-01 20:53:47,995 - INFO - ✅ Fetched 100 issues from page 25 of elastic/kibana
+2025-05-01 20:53:49,345 - INFO - ✅ Fetched 100 issues from page 26 of elastic/kibana
+2025-05-01 20:53:50,743 - INFO - ✅ Fetched 100 issues from page 27 of elastic/kibana
+2025-05-01 20:53:52,006 - INFO - ✅ Fetched 100 issues from page 28 of elastic/kibana
+2025-05-01 20:53:53,743 - INFO - ✅ Fetched 100 issues from page 29 of elastic/kibana
+2025-05-01 20:53:54,947 - INFO - ✅ Fetched 100 issues from page 30 of elastic/kibana
+2025-05-01 20:53:55,994 - INFO - ✅ Fetched 100 issues from page 31 of elastic/kibana
+2025-05-01 20:53:57,285 - INFO - ✅ Fetched 100 issues from page 32 of elastic/kibana
+2025-05-01 20:53:58,588 - INFO - ✅ Fetched 100 issues from page 33 of elastic/kibana
+2025-05-01 20:54:00,286 - INFO - ✅ Fetched 100 issues from page 34 of elastic/kibana
+2025-05-01 20:54:01,710 - INFO - ✅ Fetched 100 issues from page 35 of elastic/kibana
+2025-05-01 20:54:03,853 - INFO - ✅ Fetched 100 issues from page 36 of elastic/kibana
+2025-05-01 20:54:05,717 - INFO - ✅ Fetched 100 issues from page 37 of elastic/kibana
+2025-05-01 20:54:07,104 - INFO - ✅ Fetched 100 issues from page 38 of elastic/kibana
+2025-05-01 20:54:08,645 - INFO - ✅ Fetched 100 issues from page 39 of elastic/kibana
+2025-05-01 20:54:09,913 - INFO - ✅ Fetched 100 issues from page 40 of elastic/kibana
+2025-05-01 20:54:11,455 - INFO - ✅ Fetched 100 issues from page 41 of elastic/kibana
+2025-05-01 20:54:12,666 - INFO - ✅ Repository rankings generated dynamically: [('elastic/kibana', 0)]
+2025-05-01 20:54:12,673 - INFO - ✅ Repository ranking report generated dynamically.
+2025-05-01 20:54:12,891 - INFO - ✅ Fetched 100 issues from page 42 of elastic/kibana
+2025-05-01 20:54:14,380 - INFO - ✅ Fetched 100 issues from page 43 of elastic/kibana
+2025-05-01 20:54:15,577 - INFO - ✅ Fetched 100 issues from page 44 of elastic/kibana
+2025-05-01 20:54:17,007 - INFO - ✅ Fetched 100 issues from page 45 of elastic/kibana
+2025-05-01 20:54:18,528 - INFO - ✅ Fetched 100 issues from page 46 of elastic/kibana
+2025-05-01 20:54:19,771 - INFO - ✅ Fetched 100 issues from page 47 of elastic/kibana
+2025-05-01 20:54:20,941 - INFO - ✅ Fetched 100 issues from page 48 of elastic/kibana
+2025-05-01 20:54:22,160 - INFO - ✅ Fetched 100 issues from page 49 of elastic/kibana
+2025-05-01 20:54:23,446 - INFO - ✅ Fetched 100 issues from page 50 of elastic/kibana
+2025-05-01 20:54:24,836 - INFO - ✅ Fetched 100 issues from page 51 of elastic/kibana
+2025-05-01 20:54:26,246 - INFO - ✅ Fetched 100 issues from page 52 of elastic/kibana
+2025-05-01 20:54:27,935 - INFO - ✅ Fetched 100 issues from page 53 of elastic/kibana
+2025-05-01 20:54:29,462 - INFO - ✅ Fetched 100 issues from page 54 of elastic/kibana
+2025-05-01 20:54:32,042 - INFO - ✅ Fetched 100 issues from page 55 of elastic/kibana
+2025-05-01 20:54:33,530 - INFO - ✅ Fetched 100 issues from page 56 of elastic/kibana
+2025-05-01 20:54:35,047 - INFO - ✅ Fetched 100 issues from page 57 of elastic/kibana
+2025-05-01 20:54:36,374 - INFO - ✅ Fetched 100 issues from page 58 of elastic/kibana
+2025-05-01 20:54:37,494 - INFO - ✅ Fetched 100 issues from page 59 of elastic/kibana
+2025-05-01 20:54:38,927 - INFO - ✅ Fetched 100 issues from page 60 of elastic/kibana
+2025-05-01 20:54:40,416 - INFO - ✅ Fetched 100 issues from page 61 of elastic/kibana
+2025-05-01 20:54:41,950 - INFO - ✅ Fetched 100 issues from page 62 of elastic/kibana
+2025-05-01 20:54:43,696 - INFO - ✅ Fetched 100 issues from page 63 of elastic/kibana
+2025-05-01 20:54:44,551 - INFO - ✅ Repository rankings generated dynamically: [('elastic/kibana', 0)]
+2025-05-01 20:54:44,563 - INFO - ✅ Repository ranking report generated dynamically.
+2025-05-01 20:54:45,267 - INFO - ✅ Fetched 100 issues from page 64 of elastic/kibana
+2025-05-01 20:54:46,849 - INFO - ✅ Fetched 100 issues from page 65 of elastic/kibana
+2025-05-01 20:54:48,034 - INFO - ✅ Fetched 100 issues from page 66 of elastic/kibana
+2025-05-01 20:54:49,395 - INFO - ✅ Fetched 100 issues from page 67 of elastic/kibana
+2025-05-01 20:54:50,932 - INFO - ✅ Fetched 100 issues from page 68 of elastic/kibana
+2025-05-01 20:54:52,237 - INFO - ✅ Fetched 100 issues from page 69 of elastic/kibana
+2025-05-01 20:54:54,538 - INFO - ✅ Fetched 100 issues from page 70 of elastic/kibana
+2025-05-01 20:54:57,411 - INFO - ✅ Fetched 100 issues from page 71 of elastic/kibana
+2025-05-01 20:54:59,087 - INFO - ✅ Fetched 100 issues from page 72 of elastic/kibana
+2025-05-01 20:55:00,373 - INFO - ✅ Fetched 100 issues from page 73 of elastic/kibana
+2025-05-01 20:55:01,491 - INFO - ✅ Fetched 100 issues from page 74 of elastic/kibana
+2025-05-01 20:55:06,521 - INFO - ✅ Fetched 100 issues from page 75 of elastic/kibana
+2025-05-01 20:55:08,182 - INFO - ✅ Fetched 100 issues from page 76 of elastic/kibana
+2025-05-01 20:55:13,507 - INFO - ✅ Fetched 100 issues from page 77 of elastic/kibana
+2025-05-01 20:55:14,796 - INFO - ✅ Fetched 100 issues from page 78 of elastic/kibana
+2025-05-01 20:55:17,175 - INFO - ✅ Fetched 100 issues from page 79 of elastic/kibana
+2025-05-01 20:55:18,701 - INFO - ✅ Fetched 100 issues from page 80 of elastic/kibana
+2025-05-01 20:55:19,996 - INFO - ✅ Fetched 100 issues from page 81 of elastic/kibana
+2025-05-01 20:55:21,644 - INFO - ✅ Fetched 100 issues from page 82 of elastic/kibana
+2025-05-01 20:55:23,209 - INFO - ✅ Fetched 100 issues from page 83 of elastic/kibana
+2025-05-01 20:55:25,538 - INFO - ✅ Fetched 100 issues from page 84 of elastic/kibana
+2025-05-01 20:55:28,028 - INFO - ✅ Fetched 100 issues from page 85 of elastic/kibana
+2025-05-01 20:55:29,930 - INFO - ✅ Fetched 100 issues from page 86 of elastic/kibana
+2025-05-01 20:55:31,764 - INFO - ✅ Fetched 100 issues from page 87 of elastic/kibana
+2025-05-01 20:55:35,518 - INFO - ✅ Fetched 100 issues from page 88 of elastic/kibana
+2025-05-01 20:57:12,426 - INFO - ✅ Repository rankings generated dynamically: [('elastic/kibana', 0)]
+2025-05-01 20:57:12,445 - INFO - ✅ Repository ranking report generated dynamically.
+2025-05-01 20:58:22,682 - INFO - ✅ Repository rankings generated dynamically: [('elastic/kibana', 0)]
+2025-05-01 20:58:22,695 - INFO - ✅ Repository ranking report generated dynamically.

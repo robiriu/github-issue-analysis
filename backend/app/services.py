@@ -146,17 +146,22 @@ def rank_repositories(db: Session):
         issues = db.query(Issue).filter(Issue.repo_id == repo.id).all()
         total_issues = len(issues)
         resolved_issues = sum(1 for issue in issues if issue.status == "closed")
-        # Calculate average resolution time in days; avoid division by zero
+
+        # ✅ Ensure score doesn't stay 0 when issues exist
         avg_resolution_time = (
             sum((issue.closed_at - issue.created_at).days for issue in issues if issue.closed_at) /
             max(1, resolved_issues)
-        )
-        # Example weighted scoring formula
-        score = (resolved_issues / max(1, total_issues)) * 0.5 + (1 / max(1, avg_resolution_time)) * 0.5 if total_issues > 0 else 0
+        ) if resolved_issues > 0 else 0
+
+        score = 0  # Default to 0 in case of no issues
+        if total_issues > 0:
+            score = (resolved_issues / max(1, total_issues)) * 0.5 + (1 / max(1, avg_resolution_time)) * 0.5
+            score = max(score, 0.01)  # ✅ Prevent the score from staying at zero
+
         repo_scores[repo.name] = round(score, 3)
 
     ranked_repos = sorted(repo_scores.items(), key=lambda x: x[1], reverse=True)
-    logging.info(f"✅ Repository rankings generated: {ranked_repos}")
+    logging.info(f"✅ Repository rankings generated dynamically: {ranked_repos}")
     return ranked_repos
 
 def generate_repository_report(db: Session):
@@ -166,6 +171,7 @@ def generate_repository_report(db: Session):
 
     for repo_name, score in ranked_repos:
         repo = db.query(Repository).filter(Repository.name == repo_name).first()
+        db.refresh(repo)  # ✅ Ensure latest metadata is loaded before generating report
         issues = db.query(Issue).filter(Issue.repo_id == repo.id).all()
 
         report_lines.append(f"🔹 Repository: {repo_name}")
@@ -181,5 +187,6 @@ def generate_repository_report(db: Session):
     with open("repository_report.txt", "w") as file:
         file.write(report_text)
 
-    logging.info("✅ Repository ranking report generated successfully.")
+    logging.info("✅ Repository ranking report generated dynamically.")
     return report_text
+
