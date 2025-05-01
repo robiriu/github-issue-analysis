@@ -1,0 +1,1221 @@
+2025-05-01 16:02:28,425 - INFO - Repository rankings generated: []
+2025-05-01 16:02:28,429 - INFO - Repository ranking report generated successfully.
+2025-05-01 16:23:31,121 - INFO - Fetched 100 issues from page 1 of elastic/kibana
+2025-05-01 16:23:32,242 - INFO - Fetched 100 issues from page 2 of elastic/kibana
+2025-05-01 16:23:33,502 - INFO - Fetched 100 issues from page 3 of elastic/kibana
+2025-05-01 16:23:35,076 - INFO - Fetched 100 issues from page 4 of elastic/kibana
+2025-05-01 16:23:36,583 - INFO - Fetched 100 issues from page 5 of elastic/kibana
+2025-05-01 16:23:38,018 - INFO - Fetched 100 issues from page 6 of elastic/kibana
+2025-05-01 16:23:39,602 - INFO - Fetched 100 issues from page 7 of elastic/kibana
+2025-05-01 16:23:41,048 - INFO - Fetched 100 issues from page 8 of elastic/kibana
+2025-05-01 16:23:42,925 - INFO - Fetched 100 issues from page 9 of elastic/kibana
+2025-05-01 16:23:44,522 - INFO - Fetched 100 issues from page 10 of elastic/kibana
+2025-05-01 16:23:46,425 - INFO - Fetched 100 issues from page 11 of elastic/kibana
+2025-05-01 16:23:47,907 - INFO - Fetched 100 issues from page 12 of elastic/kibana
+2025-05-01 16:23:49,962 - INFO - Fetched 100 issues from page 13 of elastic/kibana
+2025-05-01 16:23:51,926 - INFO - Fetched 100 issues from page 14 of elastic/kibana
+2025-05-01 16:23:53,684 - INFO - Fetched 100 issues from page 15 of elastic/kibana
+2025-05-01 16:24:02,273 - INFO - Fetched 100 issues from page 16 of elastic/kibana
+2025-05-01 16:24:03,900 - INFO - Fetched 100 issues from page 17 of elastic/kibana
+2025-05-01 16:24:05,834 - INFO - Fetched 100 issues from page 18 of elastic/kibana
+2025-05-01 16:24:06,970 - INFO - Fetched 100 issues from page 19 of elastic/kibana
+2025-05-01 16:24:08,194 - INFO - Fetched 100 issues from page 20 of elastic/kibana
+2025-05-01 16:24:09,506 - INFO - Fetched 100 issues from page 21 of elastic/kibana
+2025-05-01 16:24:10,889 - INFO - Fetched 100 issues from page 22 of elastic/kibana
+2025-05-01 16:24:12,133 - INFO - Fetched 100 issues from page 23 of elastic/kibana
+2025-05-01 16:24:13,568 - INFO - Fetched 100 issues from page 24 of elastic/kibana
+2025-05-01 16:24:14,882 - INFO - Fetched 100 issues from page 25 of elastic/kibana
+2025-05-01 16:24:16,253 - INFO - Fetched 100 issues from page 26 of elastic/kibana
+2025-05-01 16:24:17,594 - INFO - Fetched 100 issues from page 27 of elastic/kibana
+2025-05-01 16:24:18,765 - INFO - Fetched 100 issues from page 28 of elastic/kibana
+2025-05-01 16:24:20,091 - INFO - Fetched 100 issues from page 29 of elastic/kibana
+2025-05-01 16:24:21,150 - INFO - Fetched 100 issues from page 30 of elastic/kibana
+2025-05-01 16:24:22,477 - INFO - Fetched 100 issues from page 31 of elastic/kibana
+2025-05-01 16:24:23,764 - INFO - Fetched 100 issues from page 32 of elastic/kibana
+2025-05-01 16:24:24,974 - INFO - Fetched 100 issues from page 33 of elastic/kibana
+2025-05-01 16:24:26,053 - INFO - Fetched 100 issues from page 34 of elastic/kibana
+2025-05-01 16:24:27,285 - INFO - Fetched 100 issues from page 35 of elastic/kibana
+2025-05-01 16:24:28,476 - INFO - Fetched 100 issues from page 36 of elastic/kibana
+2025-05-01 16:24:29,978 - INFO - Fetched 100 issues from page 37 of elastic/kibana
+2025-05-01 16:24:31,836 - INFO - Fetched 100 issues from page 38 of elastic/kibana
+2025-05-01 16:24:33,002 - INFO - Fetched 100 issues from page 39 of elastic/kibana
+2025-05-01 16:24:34,363 - INFO - Fetched 100 issues from page 40 of elastic/kibana
+2025-05-01 16:24:36,228 - INFO - Fetched 100 issues from page 41 of elastic/kibana
+2025-05-01 16:24:37,664 - INFO - Fetched 100 issues from page 42 of elastic/kibana
+2025-05-01 16:24:38,925 - INFO - Fetched 100 issues from page 43 of elastic/kibana
+2025-05-01 16:24:40,149 - INFO - Fetched 100 issues from page 44 of elastic/kibana
+2025-05-01 16:24:41,508 - INFO - Fetched 100 issues from page 45 of elastic/kibana
+2025-05-01 16:24:42,612 - INFO - Fetched 100 issues from page 46 of elastic/kibana
+2025-05-01 16:24:43,832 - INFO - Fetched 100 issues from page 47 of elastic/kibana
+2025-05-01 16:24:45,138 - INFO - Fetched 100 issues from page 48 of elastic/kibana
+2025-05-01 16:24:46,622 - INFO - Fetched 100 issues from page 49 of elastic/kibana
+2025-05-01 16:24:47,715 - INFO - Fetched 100 issues from page 50 of elastic/kibana
+2025-05-01 16:24:49,306 - INFO - Fetched 100 issues from page 51 of elastic/kibana
+2025-05-01 16:24:50,547 - INFO - Fetched 100 issues from page 52 of elastic/kibana
+2025-05-01 16:24:51,954 - INFO - Fetched 100 issues from page 53 of elastic/kibana
+2025-05-01 16:24:53,431 - INFO - Fetched 100 issues from page 54 of elastic/kibana
+2025-05-01 16:24:54,589 - INFO - Fetched 100 issues from page 55 of elastic/kibana
+2025-05-01 16:24:55,756 - INFO - Fetched 100 issues from page 56 of elastic/kibana
+2025-05-01 16:24:56,958 - INFO - Fetched 100 issues from page 57 of elastic/kibana
+2025-05-01 16:24:58,254 - INFO - Fetched 100 issues from page 58 of elastic/kibana
+2025-05-01 16:24:59,552 - INFO - Fetched 100 issues from page 59 of elastic/kibana
+2025-05-01 16:25:00,838 - INFO - Fetched 100 issues from page 60 of elastic/kibana
+2025-05-01 16:25:02,006 - INFO - Fetched 100 issues from page 61 of elastic/kibana
+2025-05-01 16:25:03,122 - INFO - Fetched 100 issues from page 62 of elastic/kibana
+2025-05-01 16:25:04,441 - INFO - Fetched 100 issues from page 63 of elastic/kibana
+2025-05-01 16:25:05,723 - INFO - Fetched 100 issues from page 64 of elastic/kibana
+2025-05-01 16:25:07,082 - INFO - Fetched 100 issues from page 65 of elastic/kibana
+2025-05-01 16:25:08,505 - INFO - Fetched 100 issues from page 66 of elastic/kibana
+2025-05-01 16:25:09,845 - INFO - Fetched 100 issues from page 67 of elastic/kibana
+2025-05-01 16:25:11,031 - INFO - Fetched 100 issues from page 68 of elastic/kibana
+2025-05-01 16:25:12,205 - INFO - Fetched 100 issues from page 69 of elastic/kibana
+2025-05-01 16:25:13,406 - INFO - Fetched 100 issues from page 70 of elastic/kibana
+2025-05-01 16:25:14,764 - INFO - Fetched 100 issues from page 71 of elastic/kibana
+2025-05-01 16:25:16,023 - INFO - Fetched 100 issues from page 72 of elastic/kibana
+2025-05-01 16:25:17,317 - INFO - Fetched 100 issues from page 73 of elastic/kibana
+2025-05-01 16:25:18,380 - INFO - Fetched 100 issues from page 74 of elastic/kibana
+2025-05-01 16:25:19,770 - INFO - Fetched 100 issues from page 75 of elastic/kibana
+2025-05-01 16:25:20,986 - INFO - Fetched 100 issues from page 76 of elastic/kibana
+2025-05-01 16:25:22,264 - INFO - Fetched 100 issues from page 77 of elastic/kibana
+2025-05-01 16:25:23,635 - INFO - Fetched 100 issues from page 78 of elastic/kibana
+2025-05-01 16:25:24,881 - INFO - Fetched 100 issues from page 79 of elastic/kibana
+2025-05-01 16:25:26,044 - INFO - Fetched 100 issues from page 80 of elastic/kibana
+2025-05-01 16:25:27,225 - INFO - Fetched 100 issues from page 81 of elastic/kibana
+2025-05-01 16:25:29,557 - INFO - Fetched 100 issues from page 82 of elastic/kibana
+2025-05-01 16:25:30,712 - INFO - Fetched 100 issues from page 83 of elastic/kibana
+2025-05-01 16:25:32,305 - INFO - Fetched 100 issues from page 84 of elastic/kibana
+2025-05-01 16:25:33,640 - INFO - Fetched 100 issues from page 85 of elastic/kibana
+2025-05-01 16:25:34,930 - INFO - Fetched 100 issues from page 86 of elastic/kibana
+2025-05-01 16:25:36,228 - INFO - Fetched 100 issues from page 87 of elastic/kibana
+2025-05-01 16:25:40,611 - INFO - Fetched 100 issues from page 88 of elastic/kibana
+2025-05-01 16:25:42,111 - INFO - Fetched 100 issues from page 89 of elastic/kibana
+2025-05-01 16:25:45,181 - INFO - Fetched 100 issues from page 90 of elastic/kibana
+2025-05-01 16:25:49,019 - INFO - Fetched 100 issues from page 91 of elastic/kibana
+2025-05-01 16:25:50,640 - INFO - Fetched 100 issues from page 92 of elastic/kibana
+2025-05-01 16:25:52,474 - INFO - Fetched 100 issues from page 93 of elastic/kibana
+2025-05-01 16:39:48,430 - INFO - Fetched 100 issues from page 1 of elastic/kibana
+2025-05-01 16:39:49,495 - INFO - Fetched 100 issues from page 2 of elastic/kibana
+2025-05-01 16:39:50,429 - INFO - Fetched 100 issues from page 3 of elastic/kibana
+2025-05-01 16:39:51,536 - INFO - Fetched 100 issues from page 4 of elastic/kibana
+2025-05-01 16:39:52,704 - INFO - Fetched 100 issues from page 5 of elastic/kibana
+2025-05-01 16:39:53,756 - INFO - Fetched 100 issues from page 6 of elastic/kibana
+2025-05-01 16:39:54,899 - INFO - Fetched 100 issues from page 7 of elastic/kibana
+2025-05-01 16:39:56,785 - INFO - Fetched 100 issues from page 8 of elastic/kibana
+2025-05-01 16:39:58,383 - INFO - Fetched 100 issues from page 9 of elastic/kibana
+2025-05-01 16:39:59,588 - INFO - Fetched 100 issues from page 10 of elastic/kibana
+2025-05-01 16:40:00,824 - INFO - Fetched 100 issues from page 11 of elastic/kibana
+2025-05-01 16:40:02,058 - INFO - Fetched 100 issues from page 12 of elastic/kibana
+2025-05-01 16:40:03,207 - INFO - Fetched 100 issues from page 13 of elastic/kibana
+2025-05-01 16:40:04,298 - INFO - Fetched 100 issues from page 14 of elastic/kibana
+2025-05-01 16:40:05,437 - INFO - Fetched 100 issues from page 15 of elastic/kibana
+2025-05-01 16:40:06,587 - INFO - Fetched 100 issues from page 16 of elastic/kibana
+2025-05-01 16:40:07,734 - INFO - Fetched 100 issues from page 17 of elastic/kibana
+2025-05-01 16:40:08,906 - INFO - Fetched 100 issues from page 18 of elastic/kibana
+2025-05-01 16:40:10,120 - INFO - Fetched 100 issues from page 19 of elastic/kibana
+2025-05-01 16:40:11,228 - INFO - Fetched 100 issues from page 20 of elastic/kibana
+2025-05-01 16:40:12,408 - INFO - Fetched 100 issues from page 21 of elastic/kibana
+2025-05-01 16:40:13,569 - INFO - Fetched 100 issues from page 22 of elastic/kibana
+2025-05-01 16:40:14,750 - INFO - Fetched 100 issues from page 23 of elastic/kibana
+2025-05-01 16:40:15,875 - INFO - Fetched 100 issues from page 24 of elastic/kibana
+2025-05-01 16:40:17,182 - INFO - Fetched 100 issues from page 25 of elastic/kibana
+2025-05-01 16:40:18,607 - INFO - Fetched 100 issues from page 26 of elastic/kibana
+2025-05-01 16:40:20,186 - INFO - Fetched 100 issues from page 27 of elastic/kibana
+2025-05-01 16:40:21,394 - INFO - Fetched 100 issues from page 28 of elastic/kibana
+2025-05-01 16:40:22,421 - INFO - Fetched 100 issues from page 29 of elastic/kibana
+2025-05-01 16:40:23,644 - INFO - Fetched 100 issues from page 30 of elastic/kibana
+2025-05-01 16:40:24,935 - INFO - Fetched 100 issues from page 31 of elastic/kibana
+2025-05-01 16:40:26,162 - INFO - Fetched 100 issues from page 32 of elastic/kibana
+2025-05-01 16:40:27,282 - INFO - Fetched 100 issues from page 33 of elastic/kibana
+2025-05-01 16:40:28,540 - INFO - Fetched 100 issues from page 34 of elastic/kibana
+2025-05-01 16:40:29,685 - INFO - Fetched 100 issues from page 35 of elastic/kibana
+2025-05-01 16:40:31,317 - INFO - Fetched 100 issues from page 36 of elastic/kibana
+2025-05-01 16:40:32,550 - INFO - Fetched 100 issues from page 37 of elastic/kibana
+2025-05-01 16:40:34,205 - INFO - Fetched 100 issues from page 38 of elastic/kibana
+2025-05-01 16:40:35,428 - INFO - Fetched 100 issues from page 39 of elastic/kibana
+2025-05-01 16:40:36,517 - INFO - Fetched 100 issues from page 40 of elastic/kibana
+2025-05-01 16:40:37,742 - INFO - Fetched 100 issues from page 41 of elastic/kibana
+2025-05-01 16:40:38,968 - INFO - Fetched 100 issues from page 42 of elastic/kibana
+2025-05-01 16:40:40,308 - INFO - Fetched 100 issues from page 43 of elastic/kibana
+2025-05-01 16:40:41,410 - INFO - Fetched 100 issues from page 44 of elastic/kibana
+2025-05-01 16:40:42,570 - INFO - Fetched 100 issues from page 45 of elastic/kibana
+2025-05-01 16:40:43,652 - INFO - Fetched 100 issues from page 46 of elastic/kibana
+2025-05-01 16:40:44,723 - INFO - Fetched 100 issues from page 47 of elastic/kibana
+2025-05-01 16:40:45,871 - INFO - Fetched 100 issues from page 48 of elastic/kibana
+2025-05-01 16:40:47,045 - INFO - Fetched 100 issues from page 49 of elastic/kibana
+2025-05-01 16:40:48,360 - INFO - Fetched 100 issues from page 50 of elastic/kibana
+2025-05-01 16:40:49,924 - INFO - Fetched 100 issues from page 51 of elastic/kibana
+2025-05-01 16:40:51,413 - INFO - Fetched 100 issues from page 52 of elastic/kibana
+2025-05-01 16:40:52,650 - INFO - Fetched 100 issues from page 53 of elastic/kibana
+2025-05-01 16:40:54,804 - INFO - Fetched 100 issues from page 54 of elastic/kibana
+2025-05-01 16:40:56,428 - INFO - Fetched 100 issues from page 55 of elastic/kibana
+2025-05-01 16:40:57,460 - INFO - Fetched 100 issues from page 56 of elastic/kibana
+2025-05-01 16:40:58,798 - INFO - Fetched 100 issues from page 57 of elastic/kibana
+2025-05-01 16:41:00,069 - INFO - Fetched 100 issues from page 58 of elastic/kibana
+2025-05-01 16:41:03,540 - INFO - Fetched 100 issues from page 59 of elastic/kibana
+2025-05-01 16:41:05,867 - INFO - Fetched 100 issues from page 60 of elastic/kibana
+2025-05-01 16:41:08,370 - INFO - Fetched 100 issues from page 61 of elastic/kibana
+2025-05-01 16:41:12,950 - INFO - Fetched 100 issues from page 62 of elastic/kibana
+2025-05-01 16:41:14,817 - INFO - Fetched 100 issues from page 63 of elastic/kibana
+2025-05-01 16:41:16,379 - INFO - Fetched 100 issues from page 64 of elastic/kibana
+2025-05-01 16:41:17,709 - INFO - Fetched 100 issues from page 65 of elastic/kibana
+2025-05-01 16:41:19,122 - INFO - Fetched 100 issues from page 66 of elastic/kibana
+2025-05-01 16:41:26,917 - INFO - Fetched 100 issues from page 67 of elastic/kibana
+2025-05-01 16:41:28,122 - INFO - Fetched 100 issues from page 68 of elastic/kibana
+2025-05-01 16:41:29,339 - INFO - Fetched 100 issues from page 69 of elastic/kibana
+2025-05-01 16:41:30,736 - INFO - Fetched 100 issues from page 70 of elastic/kibana
+2025-05-01 16:41:32,399 - INFO - Fetched 100 issues from page 71 of elastic/kibana
+2025-05-01 16:41:33,617 - INFO - Fetched 100 issues from page 72 of elastic/kibana
+2025-05-01 16:41:35,410 - INFO - Fetched 100 issues from page 73 of elastic/kibana
+2025-05-01 16:41:36,879 - INFO - Fetched 100 issues from page 74 of elastic/kibana
+2025-05-01 16:41:38,410 - INFO - Fetched 100 issues from page 75 of elastic/kibana
+2025-05-01 16:41:40,194 - INFO - Fetched 100 issues from page 76 of elastic/kibana
+2025-05-01 16:41:42,024 - INFO - Fetched 100 issues from page 77 of elastic/kibana
+2025-05-01 16:41:43,774 - INFO - Fetched 100 issues from page 78 of elastic/kibana
+2025-05-01 16:41:46,131 - INFO - Fetched 100 issues from page 79 of elastic/kibana
+2025-05-01 16:41:47,751 - INFO - Fetched 100 issues from page 80 of elastic/kibana
+2025-05-01 16:41:49,690 - INFO - Fetched 100 issues from page 81 of elastic/kibana
+2025-05-01 16:41:51,259 - INFO - Fetched 100 issues from page 82 of elastic/kibana
+2025-05-01 16:41:52,976 - INFO - Fetched 100 issues from page 83 of elastic/kibana
+2025-05-01 16:41:54,866 - INFO - Fetched 100 issues from page 84 of elastic/kibana
+2025-05-01 16:41:56,525 - INFO - Fetched 100 issues from page 85 of elastic/kibana
+2025-05-01 16:41:58,083 - INFO - Fetched 100 issues from page 86 of elastic/kibana
+2025-05-01 16:41:59,781 - INFO - Fetched 100 issues from page 87 of elastic/kibana
+2025-05-01 16:42:01,539 - INFO - Fetched 100 issues from page 88 of elastic/kibana
+2025-05-01 16:42:02,982 - INFO - Fetched 100 issues from page 89 of elastic/kibana
+2025-05-01 16:42:04,187 - INFO - Fetched 100 issues from page 90 of elastic/kibana
+2025-05-01 16:42:05,595 - INFO - Fetched 100 issues from page 91 of elastic/kibana
+2025-05-01 16:42:06,959 - INFO - Fetched 100 issues from page 92 of elastic/kibana
+2025-05-01 16:42:08,257 - INFO - Fetched 100 issues from page 93 of elastic/kibana
+2025-05-01 16:42:09,518 - INFO - Fetched 100 issues from page 94 of elastic/kibana
+2025-05-01 16:42:10,710 - INFO - Fetched 100 issues from page 95 of elastic/kibana
+2025-05-01 16:42:11,874 - INFO - Fetched 100 issues from page 96 of elastic/kibana
+2025-05-01 16:42:13,285 - INFO - Fetched 100 issues from page 97 of elastic/kibana
+2025-05-01 16:42:14,721 - INFO - Fetched 100 issues from page 98 of elastic/kibana
+2025-05-01 16:42:15,886 - INFO - Fetched 100 issues from page 99 of elastic/kibana
+2025-05-01 16:42:16,443 - ERROR - Error fetching issues: 422 Client Error: Unprocessable Entity for url: https://api.github.com/repos/elastic/kibana/issues?per_page=100&page=100
+2025-05-01 16:42:16,444 - INFO - Total issues fetched: 9900
+2025-05-01 16:42:17,142 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 16:42:17,150 - ERROR - Error saving issues with LLM analysis: 'llm_analysis' is an invalid keyword argument for Issue
+2025-05-01 17:05:02,188 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:05:02,236 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:08:44,193 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:08:44,285 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:08:48,435 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:08:48,446 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:08:49,602 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:08:49,612 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:08:50,596 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:08:50,605 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:09:05,026 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:09:05,039 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:11:48,115 - INFO - Fetched 100 issues from page 1 of elastic/kibana
+2025-05-01 17:11:50,036 - INFO - Fetched 100 issues from page 2 of elastic/kibana
+2025-05-01 17:11:53,970 - INFO - Fetched 100 issues from page 3 of elastic/kibana
+2025-05-01 17:11:55,381 - INFO - Fetched 100 issues from page 4 of elastic/kibana
+2025-05-01 17:11:56,589 - INFO - Fetched 100 issues from page 5 of elastic/kibana
+2025-05-01 17:11:58,212 - INFO - Fetched 100 issues from page 6 of elastic/kibana
+2025-05-01 17:12:00,051 - INFO - Fetched 100 issues from page 7 of elastic/kibana
+2025-05-01 17:12:01,344 - INFO - Fetched 100 issues from page 8 of elastic/kibana
+2025-05-01 17:12:02,707 - INFO - Fetched 100 issues from page 9 of elastic/kibana
+2025-05-01 17:12:03,965 - INFO - Fetched 100 issues from page 10 of elastic/kibana
+2025-05-01 17:12:05,243 - INFO - Fetched 100 issues from page 11 of elastic/kibana
+2025-05-01 17:12:06,950 - INFO - Fetched 100 issues from page 12 of elastic/kibana
+2025-05-01 17:12:08,352 - INFO - Fetched 100 issues from page 13 of elastic/kibana
+2025-05-01 17:12:09,510 - INFO - Fetched 100 issues from page 14 of elastic/kibana
+2025-05-01 17:12:10,736 - INFO - Fetched 100 issues from page 15 of elastic/kibana
+2025-05-01 17:12:12,070 - INFO - Fetched 100 issues from page 16 of elastic/kibana
+2025-05-01 17:12:13,330 - INFO - Fetched 100 issues from page 17 of elastic/kibana
+2025-05-01 17:12:14,769 - INFO - Fetched 100 issues from page 18 of elastic/kibana
+2025-05-01 17:12:16,201 - INFO - Fetched 100 issues from page 19 of elastic/kibana
+2025-05-01 17:12:18,120 - INFO - Fetched 100 issues from page 20 of elastic/kibana
+2025-05-01 17:12:19,831 - INFO - Fetched 100 issues from page 21 of elastic/kibana
+2025-05-01 17:12:21,594 - INFO - Fetched 100 issues from page 22 of elastic/kibana
+2025-05-01 17:12:23,399 - INFO - Fetched 100 issues from page 23 of elastic/kibana
+2025-05-01 17:12:25,201 - INFO - Fetched 100 issues from page 24 of elastic/kibana
+2025-05-01 17:12:26,753 - INFO - Fetched 100 issues from page 25 of elastic/kibana
+2025-05-01 17:12:28,306 - INFO - Fetched 100 issues from page 26 of elastic/kibana
+2025-05-01 17:12:29,773 - INFO - Fetched 100 issues from page 27 of elastic/kibana
+2025-05-01 17:12:30,866 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:12:30,875 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:12:31,584 - INFO - Fetched 100 issues from page 28 of elastic/kibana
+2025-05-01 17:12:33,234 - INFO - Fetched 100 issues from page 29 of elastic/kibana
+2025-05-01 17:12:34,979 - INFO - Fetched 100 issues from page 30 of elastic/kibana
+2025-05-01 17:12:36,704 - INFO - Fetched 100 issues from page 31 of elastic/kibana
+2025-05-01 17:12:39,576 - INFO - Fetched 100 issues from page 32 of elastic/kibana
+2025-05-01 17:12:41,610 - INFO - Fetched 100 issues from page 33 of elastic/kibana
+2025-05-01 17:12:43,232 - INFO - Fetched 100 issues from page 34 of elastic/kibana
+2025-05-01 17:12:44,515 - INFO - Fetched 100 issues from page 35 of elastic/kibana
+2025-05-01 17:12:45,896 - INFO - Fetched 100 issues from page 36 of elastic/kibana
+2025-05-01 17:12:56,846 - INFO - Fetched 100 issues from page 37 of elastic/kibana
+2025-05-01 17:12:58,112 - INFO - Fetched 100 issues from page 38 of elastic/kibana
+2025-05-01 17:12:59,362 - INFO - Fetched 100 issues from page 39 of elastic/kibana
+2025-05-01 17:13:00,555 - INFO - Fetched 100 issues from page 40 of elastic/kibana
+2025-05-01 17:13:01,734 - INFO - Fetched 100 issues from page 41 of elastic/kibana
+2025-05-01 17:13:02,818 - INFO - Fetched 100 issues from page 42 of elastic/kibana
+2025-05-01 17:13:03,911 - INFO - Fetched 100 issues from page 43 of elastic/kibana
+2025-05-01 17:13:05,016 - INFO - Fetched 100 issues from page 44 of elastic/kibana
+2025-05-01 17:13:06,204 - INFO - Fetched 100 issues from page 45 of elastic/kibana
+2025-05-01 17:13:07,413 - INFO - Fetched 100 issues from page 46 of elastic/kibana
+2025-05-01 17:13:08,629 - INFO - Fetched 100 issues from page 47 of elastic/kibana
+2025-05-01 17:13:09,931 - INFO - Fetched 100 issues from page 48 of elastic/kibana
+2025-05-01 17:13:11,191 - INFO - Fetched 100 issues from page 49 of elastic/kibana
+2025-05-01 17:13:12,419 - INFO - Fetched 100 issues from page 50 of elastic/kibana
+2025-05-01 17:13:13,585 - INFO - Fetched 100 issues from page 51 of elastic/kibana
+2025-05-01 17:13:14,778 - INFO - Fetched 100 issues from page 52 of elastic/kibana
+2025-05-01 17:13:15,967 - INFO - Fetched 100 issues from page 53 of elastic/kibana
+2025-05-01 17:13:17,019 - INFO - Fetched 100 issues from page 54 of elastic/kibana
+2025-05-01 17:13:18,149 - INFO - Fetched 100 issues from page 55 of elastic/kibana
+2025-05-01 17:13:19,204 - INFO - Fetched 100 issues from page 56 of elastic/kibana
+2025-05-01 17:13:20,383 - INFO - Fetched 100 issues from page 57 of elastic/kibana
+2025-05-01 17:13:21,517 - INFO - Fetched 100 issues from page 58 of elastic/kibana
+2025-05-01 17:13:22,469 - INFO - Fetched 100 issues from page 59 of elastic/kibana
+2025-05-01 17:13:23,851 - INFO - Fetched 100 issues from page 60 of elastic/kibana
+2025-05-01 17:13:25,231 - INFO - Fetched 100 issues from page 61 of elastic/kibana
+2025-05-01 17:13:26,518 - INFO - Fetched 100 issues from page 62 of elastic/kibana
+2025-05-01 17:13:27,867 - INFO - Fetched 100 issues from page 63 of elastic/kibana
+2025-05-01 17:13:29,104 - INFO - Fetched 100 issues from page 64 of elastic/kibana
+2025-05-01 17:13:30,503 - INFO - Fetched 100 issues from page 65 of elastic/kibana
+2025-05-01 17:13:31,774 - INFO - Fetched 100 issues from page 66 of elastic/kibana
+2025-05-01 17:13:33,020 - INFO - Fetched 100 issues from page 67 of elastic/kibana
+2025-05-01 17:13:34,517 - INFO - Fetched 100 issues from page 68 of elastic/kibana
+2025-05-01 17:13:35,672 - INFO - Fetched 100 issues from page 69 of elastic/kibana
+2025-05-01 17:13:36,904 - INFO - Fetched 100 issues from page 70 of elastic/kibana
+2025-05-01 17:13:38,039 - INFO - Fetched 100 issues from page 71 of elastic/kibana
+2025-05-01 17:13:39,288 - INFO - Fetched 100 issues from page 72 of elastic/kibana
+2025-05-01 17:13:40,847 - INFO - Fetched 100 issues from page 73 of elastic/kibana
+2025-05-01 17:13:42,706 - INFO - Fetched 100 issues from page 74 of elastic/kibana
+2025-05-01 17:13:44,107 - INFO - Fetched 100 issues from page 75 of elastic/kibana
+2025-05-01 17:13:45,499 - INFO - Fetched 100 issues from page 76 of elastic/kibana
+2025-05-01 17:13:47,007 - INFO - Fetched 100 issues from page 77 of elastic/kibana
+2025-05-01 17:13:48,259 - INFO - Fetched 100 issues from page 78 of elastic/kibana
+2025-05-01 17:13:50,589 - INFO - Fetched 100 issues from page 79 of elastic/kibana
+2025-05-01 17:13:51,941 - INFO - Fetched 100 issues from page 80 of elastic/kibana
+2025-05-01 17:13:53,207 - INFO - Fetched 100 issues from page 81 of elastic/kibana
+2025-05-01 17:13:54,393 - INFO - Fetched 100 issues from page 82 of elastic/kibana
+2025-05-01 17:13:55,605 - INFO - Fetched 100 issues from page 83 of elastic/kibana
+2025-05-01 17:13:56,877 - INFO - Fetched 100 issues from page 84 of elastic/kibana
+2025-05-01 17:13:58,005 - INFO - Fetched 100 issues from page 85 of elastic/kibana
+2025-05-01 17:13:59,176 - INFO - Fetched 100 issues from page 86 of elastic/kibana
+2025-05-01 17:14:00,343 - INFO - Fetched 100 issues from page 87 of elastic/kibana
+2025-05-01 17:14:01,646 - INFO - Fetched 100 issues from page 88 of elastic/kibana
+2025-05-01 17:14:02,687 - INFO - Fetched 100 issues from page 89 of elastic/kibana
+2025-05-01 17:14:03,903 - INFO - Fetched 100 issues from page 90 of elastic/kibana
+2025-05-01 17:14:05,210 - INFO - Fetched 100 issues from page 91 of elastic/kibana
+2025-05-01 17:14:06,539 - INFO - Fetched 100 issues from page 92 of elastic/kibana
+2025-05-01 17:14:07,869 - INFO - Fetched 100 issues from page 93 of elastic/kibana
+2025-05-01 17:14:09,337 - INFO - Fetched 100 issues from page 94 of elastic/kibana
+2025-05-01 17:14:10,529 - INFO - Fetched 100 issues from page 95 of elastic/kibana
+2025-05-01 17:14:11,677 - INFO - Fetched 100 issues from page 96 of elastic/kibana
+2025-05-01 17:14:12,810 - INFO - Fetched 100 issues from page 97 of elastic/kibana
+2025-05-01 17:14:13,942 - INFO - Fetched 100 issues from page 98 of elastic/kibana
+2025-05-01 17:14:14,994 - INFO - Fetched 100 issues from page 99 of elastic/kibana
+2025-05-01 17:14:15,528 - ERROR - Error fetching issues: 422 Client Error: Unprocessable Entity for url: https://api.github.com/repos/elastic/kibana/issues?per_page=100&page=100
+2025-05-01 17:14:15,528 - INFO - Total issues fetched: 9900
+2025-05-01 17:14:15,529 - INFO - Saving 9900 issues for repository elastic/kibana
+2025-05-01 17:14:16,245 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:14:17,283 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:14:19,183 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:14:20,064 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:14:22,041 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:14:24,003 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:14:30,599 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:23:16,613 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:23:16,624 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:23:18,461 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:23:18,475 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:23:19,380 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:23:19,394 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:23:20,233 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:23:20,250 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:24:19,017 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:24:19,562 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:24:20,464 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:24:20,897 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:24:22,031 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:24:23,231 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:24:25,236 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:24:26,713 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:24:27,960 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:24:28,902 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:24:30,507 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:25:19,336 - ERROR - Error analyzing issue with LLM: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-05-01 17:31:58,430 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:31:58,505 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:31:59,426 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:31:59,436 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:34:35,894 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:34:37,801 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:34:39,231 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:34:40,716 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:34:42,655 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:34:44,103 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:34:45,572 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:34:46,025 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:34:47,430 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:34:47,924 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:34:49,810 - ERROR - Error analyzing issue with LLM: Expecting value: line 1 column 1 (char 0)
+2025-05-01 17:37:53,640 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:37:53,655 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:54:13,782 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:54:13,788 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:54:34,912 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:54:34,928 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:54:35,841 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:54:35,853 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:54:36,595 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:54:36,606 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:54:38,147 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:54:38,159 - INFO - Repository ranking report generated successfully.
+2025-05-01 17:58:10,776 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 17:58:10,787 - INFO - Repository ranking report generated successfully.
+2025-05-01 18:03:14,017 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 18:03:14,040 - INFO - Repository ranking report generated successfully.
+2025-05-01 18:03:57,686 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 18:03:57,719 - INFO - Repository ranking report generated successfully.
+2025-05-01 18:03:59,705 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 18:03:59,723 - INFO - Repository ranking report generated successfully.
+2025-05-01 18:04:13,737 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 18:04:13,753 - INFO - Repository ranking report generated successfully.
+2025-05-01 18:16:18,567 - INFO - Fetched 100 issues from page 1 of elastic/kibana
+2025-05-01 18:16:19,604 - INFO - Fetched 100 issues from page 2 of elastic/kibana
+2025-05-01 18:16:20,769 - INFO - Fetched 100 issues from page 3 of elastic/kibana
+2025-05-01 18:16:21,894 - INFO - Fetched 100 issues from page 4 of elastic/kibana
+2025-05-01 18:16:22,826 - INFO - Fetched 100 issues from page 5 of elastic/kibana
+2025-05-01 18:16:23,850 - INFO - Fetched 100 issues from page 6 of elastic/kibana
+2025-05-01 18:16:24,954 - INFO - Fetched 100 issues from page 7 of elastic/kibana
+2025-05-01 18:16:26,053 - INFO - Fetched 100 issues from page 8 of elastic/kibana
+2025-05-01 18:16:27,627 - INFO - Fetched 100 issues from page 9 of elastic/kibana
+2025-05-01 18:16:29,374 - INFO - Fetched 100 issues from page 10 of elastic/kibana
+2025-05-01 18:16:30,385 - INFO - Fetched 100 issues from page 11 of elastic/kibana
+2025-05-01 18:16:31,636 - INFO - Fetched 100 issues from page 12 of elastic/kibana
+2025-05-01 18:16:32,803 - INFO - Fetched 100 issues from page 13 of elastic/kibana
+2025-05-01 18:16:33,918 - INFO - Fetched 100 issues from page 14 of elastic/kibana
+2025-05-01 18:16:35,547 - INFO - Fetched 100 issues from page 15 of elastic/kibana
+2025-05-01 18:16:36,763 - INFO - Fetched 100 issues from page 16 of elastic/kibana
+2025-05-01 18:16:37,888 - INFO - Fetched 100 issues from page 17 of elastic/kibana
+2025-05-01 18:16:39,077 - INFO - Fetched 100 issues from page 18 of elastic/kibana
+2025-05-01 18:16:40,235 - INFO - Fetched 100 issues from page 19 of elastic/kibana
+2025-05-01 18:16:41,409 - INFO - Fetched 100 issues from page 20 of elastic/kibana
+2025-05-01 18:16:42,491 - INFO - Fetched 100 issues from page 21 of elastic/kibana
+2025-05-01 18:16:43,729 - INFO - Fetched 100 issues from page 22 of elastic/kibana
+2025-05-01 18:16:45,003 - INFO - Fetched 100 issues from page 23 of elastic/kibana
+2025-05-01 18:16:46,230 - INFO - Fetched 100 issues from page 24 of elastic/kibana
+2025-05-01 18:16:47,457 - INFO - Fetched 100 issues from page 25 of elastic/kibana
+2025-05-01 18:16:48,742 - INFO - Fetched 100 issues from page 26 of elastic/kibana
+2025-05-01 18:16:49,919 - INFO - Fetched 100 issues from page 27 of elastic/kibana
+2025-05-01 18:16:51,107 - INFO - Fetched 100 issues from page 28 of elastic/kibana
+2025-05-01 18:16:52,180 - INFO - Fetched 100 issues from page 29 of elastic/kibana
+2025-05-01 18:16:53,336 - INFO - Fetched 100 issues from page 30 of elastic/kibana
+2025-05-01 18:16:54,682 - INFO - Fetched 100 issues from page 31 of elastic/kibana
+2025-05-01 18:16:55,999 - INFO - Fetched 100 issues from page 32 of elastic/kibana
+2025-05-01 18:17:00,376 - INFO - Fetched 100 issues from page 33 of elastic/kibana
+2025-05-01 18:17:02,479 - INFO - Fetched 100 issues from page 34 of elastic/kibana
+2025-05-01 18:17:09,496 - INFO - Fetched 100 issues from page 35 of elastic/kibana
+2025-05-01 18:17:10,877 - INFO - Fetched 100 issues from page 36 of elastic/kibana
+2025-05-01 18:17:12,446 - INFO - Fetched 100 issues from page 37 of elastic/kibana
+2025-05-01 18:17:14,036 - INFO - Fetched 100 issues from page 38 of elastic/kibana
+2025-05-01 18:17:15,637 - INFO - Fetched 100 issues from page 39 of elastic/kibana
+2025-05-01 18:17:17,103 - INFO - Fetched 100 issues from page 40 of elastic/kibana
+2025-05-01 18:17:18,689 - INFO - Fetched 100 issues from page 41 of elastic/kibana
+2025-05-01 18:17:19,990 - INFO - Fetched 100 issues from page 42 of elastic/kibana
+2025-05-01 18:17:21,715 - INFO - Fetched 100 issues from page 43 of elastic/kibana
+2025-05-01 18:17:23,172 - INFO - Fetched 100 issues from page 44 of elastic/kibana
+2025-05-01 18:17:24,547 - INFO - Fetched 100 issues from page 45 of elastic/kibana
+2025-05-01 18:17:25,897 - INFO - Fetched 100 issues from page 46 of elastic/kibana
+2025-05-01 18:17:27,364 - INFO - Fetched 100 issues from page 47 of elastic/kibana
+2025-05-01 18:17:28,792 - INFO - Fetched 100 issues from page 48 of elastic/kibana
+2025-05-01 18:17:30,693 - INFO - Fetched 100 issues from page 49 of elastic/kibana
+2025-05-01 18:17:32,428 - INFO - Fetched 100 issues from page 50 of elastic/kibana
+2025-05-01 18:17:34,791 - INFO - Fetched 100 issues from page 51 of elastic/kibana
+2025-05-01 18:17:36,408 - INFO - Fetched 100 issues from page 52 of elastic/kibana
+2025-05-01 18:17:38,552 - INFO - Fetched 100 issues from page 53 of elastic/kibana
+2025-05-01 18:17:40,100 - INFO - Fetched 100 issues from page 54 of elastic/kibana
+2025-05-01 18:17:42,185 - INFO - Fetched 100 issues from page 55 of elastic/kibana
+2025-05-01 18:17:44,230 - INFO - Fetched 100 issues from page 56 of elastic/kibana
+2025-05-01 18:17:45,592 - INFO - Fetched 100 issues from page 57 of elastic/kibana
+2025-05-01 18:17:47,288 - INFO - Fetched 100 issues from page 58 of elastic/kibana
+2025-05-01 18:17:48,780 - INFO - Fetched 100 issues from page 59 of elastic/kibana
+2025-05-01 18:17:50,669 - INFO - Fetched 100 issues from page 60 of elastic/kibana
+2025-05-01 18:17:52,594 - INFO - Fetched 100 issues from page 61 of elastic/kibana
+2025-05-01 18:17:54,694 - INFO - Fetched 100 issues from page 62 of elastic/kibana
+2025-05-01 18:17:56,729 - INFO - Fetched 100 issues from page 63 of elastic/kibana
+2025-05-01 18:17:58,366 - INFO - Fetched 100 issues from page 64 of elastic/kibana
+2025-05-01 18:17:59,988 - INFO - Fetched 100 issues from page 65 of elastic/kibana
+2025-05-01 18:18:01,468 - INFO - Fetched 100 issues from page 66 of elastic/kibana
+2025-05-01 18:18:02,603 - INFO - Fetched 100 issues from page 67 of elastic/kibana
+2025-05-01 18:18:03,895 - INFO - Fetched 100 issues from page 68 of elastic/kibana
+2025-05-01 18:18:05,243 - INFO - Fetched 100 issues from page 69 of elastic/kibana
+2025-05-01 18:18:06,608 - INFO - Fetched 100 issues from page 70 of elastic/kibana
+2025-05-01 18:18:07,943 - INFO - Fetched 100 issues from page 71 of elastic/kibana
+2025-05-01 18:18:09,041 - INFO - Fetched 100 issues from page 72 of elastic/kibana
+2025-05-01 18:18:10,470 - INFO - Fetched 100 issues from page 73 of elastic/kibana
+2025-05-01 18:18:12,764 - INFO - Fetched 100 issues from page 74 of elastic/kibana
+2025-05-01 18:18:18,997 - INFO - Fetched 100 issues from page 75 of elastic/kibana
+2025-05-01 18:18:20,289 - INFO - Fetched 100 issues from page 76 of elastic/kibana
+2025-05-01 18:18:21,625 - INFO - Fetched 100 issues from page 77 of elastic/kibana
+2025-05-01 18:18:22,781 - INFO - Fetched 100 issues from page 78 of elastic/kibana
+2025-05-01 18:18:24,130 - INFO - Fetched 100 issues from page 79 of elastic/kibana
+2025-05-01 18:18:25,275 - INFO - Fetched 100 issues from page 80 of elastic/kibana
+2025-05-01 18:18:26,900 - INFO - Fetched 100 issues from page 81 of elastic/kibana
+2025-05-01 18:18:28,146 - INFO - Fetched 100 issues from page 82 of elastic/kibana
+2025-05-01 18:18:29,609 - INFO - Fetched 100 issues from page 83 of elastic/kibana
+2025-05-01 18:18:30,897 - INFO - Fetched 100 issues from page 84 of elastic/kibana
+2025-05-01 18:18:32,413 - INFO - Fetched 100 issues from page 85 of elastic/kibana
+2025-05-01 18:18:33,933 - INFO - Fetched 100 issues from page 86 of elastic/kibana
+2025-05-01 18:18:35,231 - INFO - Fetched 100 issues from page 87 of elastic/kibana
+2025-05-01 18:18:36,503 - INFO - Fetched 100 issues from page 88 of elastic/kibana
+2025-05-01 18:18:38,087 - INFO - Fetched 100 issues from page 89 of elastic/kibana
+2025-05-01 18:18:39,315 - INFO - Fetched 100 issues from page 90 of elastic/kibana
+2025-05-01 18:18:40,465 - INFO - Fetched 100 issues from page 91 of elastic/kibana
+2025-05-01 18:18:41,802 - INFO - Fetched 100 issues from page 92 of elastic/kibana
+2025-05-01 18:18:42,936 - INFO - Fetched 100 issues from page 93 of elastic/kibana
+2025-05-01 18:18:44,311 - INFO - Fetched 100 issues from page 94 of elastic/kibana
+2025-05-01 18:18:45,501 - INFO - Fetched 100 issues from page 95 of elastic/kibana
+2025-05-01 18:18:46,676 - INFO - Fetched 100 issues from page 96 of elastic/kibana
+2025-05-01 18:18:48,185 - INFO - Fetched 100 issues from page 97 of elastic/kibana
+2025-05-01 18:18:49,523 - INFO - Fetched 100 issues from page 98 of elastic/kibana
+2025-05-01 18:18:50,745 - INFO - Fetched 100 issues from page 99 of elastic/kibana
+2025-05-01 18:18:50,746 - INFO - Total issues fetched: 9900
+2025-05-01 18:18:50,747 - INFO - Saving 9900 issues for repository elastic/kibana
+2025-05-01 18:18:52,060 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:18:55,660 - INFO - LLM Full Response: [{'summary_text': "Passing down `SLACK_CHANNEL` env variable. Passes down 'SLACK' to the next channel. Passing down the channel to the current channel. Passing down 'SACK' down to the previous channel. passing down a channel to a new channel. pass down the next. channel."}]
+2025-05-01 18:18:55,660 - ERROR - Unexpected LLM response structure: [{'summary_text': "Passing down `SLACK_CHANNEL` env variable. Passes down 'SLACK' to the next channel. Passing down the channel to the current channel. Passing down 'SACK' down to the previous channel. passing down a channel to a new channel. pass down the next. channel."}]
+2025-05-01 18:18:56,166 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:19:01,280 - INFO - LLM Full Response: [{'summary_text': 'Per title: "The World\'s Most Beautiful People" The World\'s most Beautiful People: "People of the World" The world\'s most beautiful people: "people of the world" The best people in the world: "the world\'s greatest people" "The world\'s best people": "people from around the world," "the best people on the planet"'}]
+2025-05-01 18:19:01,282 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Per title: "The World\'s Most Beautiful People" The World\'s most Beautiful People: "People of the World" The world\'s most beautiful people: "people of the world" The best people in the world: "the world\'s greatest people" "The world\'s best people": "people from around the world," "the best people on the planet"'}]
+2025-05-01 18:19:05,311 - INFO - LLM Full Response: [{'summary_text': 'In this PR, we are saving dynamically mapped group by information for the custom threshold rule. This consists of two parts: Adding a dynamic field and a dynamic template. Relaetd to https://github.com/elastic/kibana/issues/183248.'}]
+2025-05-01 18:19:05,312 - ERROR - Unexpected LLM response structure: [{'summary_text': 'In this PR, we are saving dynamically mapped group by information for the custom threshold rule. This consists of two parts: Adding a dynamic field and a dynamic template. Relaetd to https://github.com/elastic/kibana/issues/183248.'}]
+2025-05-01 18:19:10,821 - INFO - LLM Full Response: [{'summary_text': 'Check the PR satisfies following conditions. Reviewers should verify this PR satisfies this list as well. This PR contains arbitrary defaults. This could impact customers using it. At the moment the lack of defaults is breaking entity store for customers. This is all configurable via kibana settings and the Entity Store API, so customers can update it.'}]
+2025-05-01 18:19:10,822 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Check the PR satisfies following conditions. Reviewers should verify this PR satisfies this list as well. This PR contains arbitrary defaults. This could impact customers using it. At the moment the lack of defaults is breaking entity store for customers. This is all configurable via kibana settings and the Entity Store API, so customers can update it.'}]
+2025-05-01 18:19:16,339 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [Discover ] Increase test jest timeout (#219695) Backport version: 9.6.0. # Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 18:19:16,340 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [Discover ] Increase test jest timeout (#219695) Backport version: 9.6.0. # Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 18:19:19,649 - INFO - LLM Full Response: [{'summary_text': 'The Kibana API is an open source, free to download, open source software. It was developed by the Open Source Software Foundation (OSF) in the 1990s. OSF is a non-profit organization based in the U.S. and has been open source since 1998.'}]
+2025-05-01 18:19:19,650 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The Kibana API is an open source, free to download, open source software. It was developed by the Open Source Software Foundation (OSF) in the 1990s. OSF is a non-profit organization based in the U.S. and has been open source since 1998.'}]
+2025-05-01 18:19:24,352 - INFO - LLM Full Response: [{'summary_text': 'This PR addresses the issue where if user tried to renavigate to Findings page (with filter on) from Vulnerability Contextual Flyout by clicking on the popup icon. If some of the fields value contains special character such as "+" the filter won\'t form properly. This malformed filter is caused because in the URL "+" gets encoded into "%20" which is space instead of "#"'}]
+2025-05-01 18:19:24,355 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR addresses the issue where if user tried to renavigate to Findings page (with filter on) from Vulnerability Contextual Flyout by clicking on the popup icon. If some of the fields value contains special character such as "+" the filter won\'t form properly. This malformed filter is caused because in the URL "+" gets encoded into "%20" which is space instead of "#"'}]
+2025-05-01 18:19:28,588 - INFO - LLM Full Response: [{'summary_text': 'To improve compatibility with the **Asset Inventory** grouping and filtering logic, the `entity.type` field must be added to documents in both the **User** and **Host** Entity Stores. This field will enable consistent categorization and allow assets to be filtered and grouped by their high-level entity type.'}]
+2025-05-01 18:19:28,588 - ERROR - Unexpected LLM response structure: [{'summary_text': 'To improve compatibility with the **Asset Inventory** grouping and filtering logic, the `entity.type` field must be added to documents in both the **User** and **Host** Entity Stores. This field will enable consistent categorization and allow assets to be filtered and grouped by their high-level entity type.'}]
+2025-05-01 18:19:33,688 - INFO - LLM Full Response: [{'summary_text': "This work has potential for Kibana in general, as well. It adds Notifications to Kibane Workspace. It has potential to be used in a variety of other ways, too. It's a work in progress, but could be used for other applications."}]
+2025-05-01 18:19:33,689 - ERROR - Unexpected LLM response structure: [{'summary_text': "This work has potential for Kibana in general, as well. It adds Notifications to Kibane Workspace. It has potential to be used in a variety of other ways, too. It's a work in progress, but could be used for other applications."}]
+2025-05-01 18:19:41,399 - INFO - LLM Full Response: [{'summary_text': 'Reviewers should verify this PR satisfies this list as well. If it involves visual changes include a screenshot or gif. Identify risks like hard to test bugs, performance regression, potential of data loss. Invite stakeholders and evaluate how to proceed before merging. If a plugin configuration key changed, check if it needs to be allowlisted.'}]
+2025-05-01 18:19:41,399 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Reviewers should verify this PR satisfies this list as well. If it involves visual changes include a screenshot or gif. Identify risks like hard to test bugs, performance regression, potential of data loss. Invite stakeholders and evaluate how to proceed before merging. If a plugin configuration key changed, check if it needs to be allowlisted.'}]
+2025-05-01 18:19:43,471 - INFO - LLM Full Response: [{'summary_text': 'Reviewers should verify this PR satisfies this list as well. If it involves visual changes include a screenshot or gif. Identify risks like hard to test bugs, performance regression, potential of data loss. Invite stakeholders and evaluate how to proceed before merging. If a plugin configuration key changed, check if it needs to be allowlisted.'}]
+2025-05-01 18:19:43,472 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Reviewers should verify this PR satisfies this list as well. If it involves visual changes include a screenshot or gif. Identify risks like hard to test bugs, performance regression, potential of data loss. Invite stakeholders and evaluate how to proceed before merging. If a plugin configuration key changed, check if it needs to be allowlisted.'}]
+2025-05-01 18:19:48,265 - INFO - LLM Full Response: [{'summary_text': "This PR is part of a larger icon redesign effort related to the Visual Refresh effort. Some were simply renamed, others redesigned, and others are being removed given redundancy (e.g. `editorCodeBlock' and 'visVega' are the same icon. The PR description includes the appropriate Release Notes section."}]
+2025-05-01 18:19:48,266 - ERROR - Unexpected LLM response structure: [{'summary_text': "This PR is part of a larger icon redesign effort related to the Visual Refresh effort. Some were simply renamed, others redesigned, and others are being removed given redundancy (e.g. `editorCodeBlock' and 'visVega' are the same icon. The PR description includes the appropriate Release Notes section."}]
+2025-05-01 18:19:49,223 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:19:49,733 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:19:50,181 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:19:54,354 - INFO - LLM Full Response: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from Elasticsearch. It also updates the inline docs to include the latest Elasticsearch metadata. The PR is available on GitHub as well as on the Elasticsearch website. For more information on the PR, please visit the PR page.'}]
+2025-05-01 18:19:54,354 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from Elasticsearch. It also updates the inline docs to include the latest Elasticsearch metadata. The PR is available on GitHub as well as on the Elasticsearch website. For more information on the PR, please visit the PR page.'}]
+2025-05-01 18:19:55,635 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:20:02,238 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.17`: [chore(NA): updating used polyfills using 3rd party library (#218020) Backport version: 9.6.0. This PR is a follow up from the webpack v5 upgrade which makes sure we’re using a new supported library.'}]
+2025-05-01 18:20:02,239 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This will backport the following commits from `main` to `8.17`: [chore(NA): updating used polyfills using 3rd party library (#218020) Backport version: 9.6.0. This PR is a follow up from the webpack v5 upgrade which makes sure we’re using a new supported library.'}]
+2025-05-01 18:20:06,347 - INFO - LLM Full Response: [{'summary_text': 'This PR makes some code changes to the AI4DSOC alert flyout code. It adds code documentation (interfaces and components/hooks) and adds missing unit tests. The PR also add the @elastic/security-threat-hunting-investigations and @Elastic/ security-generative-ai teams as codeowners.'}]
+2025-05-01 18:20:06,350 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR makes some code changes to the AI4DSOC alert flyout code. It adds code documentation (interfaces and components/hooks) and adds missing unit tests. The PR also add the @elastic/security-threat-hunting-investigations and @Elastic/ security-generative-ai teams as codeowners.'}]
+2025-05-01 18:20:13,924 - INFO - LLM Full Response: [{'summary_text': 'Almost all security investigations involve users as observables, and it would be helpful to understand common cases in the past that share the same user name. Please allow the addition of user name observables type to the list of user names that can be used in security investigations. Use this feature to help with security investigations in the future.'}]
+2025-05-01 18:20:13,926 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Almost all security investigations involve users as observables, and it would be helpful to understand common cases in the past that share the same user name. Please allow the addition of user name observables type to the list of user names that can be used in security investigations. Use this feature to help with security investigations in the future.'}]
+2025-05-01 18:20:22,668 - INFO - LLM Full Response: [{'summary_text': "Allow subdomains to be added for domain observables. There are many cases where we can leverage common subdomain and they don't really fit in the URL category. The feature is called Elastic Security Cases - Observables. For more information on the feature, visit the Elastic Security cases page."}]
+2025-05-01 18:20:22,668 - ERROR - Unexpected LLM response structure: [{'summary_text': "Allow subdomains to be added for domain observables. There are many cases where we can leverage common subdomain and they don't really fit in the URL category. The feature is called Elastic Security Cases - Observables. For more information on the feature, visit the Elastic Security cases page."}]
+2025-05-01 18:20:36,287 - INFO - LLM Full Response: [{'summary_text': 'First failure: [kibana-on-merge - main](https://buildkite.com/elastic/kibanas/67628#01968885-8840-47ef-998f-8f2b75647414) Second failure: onFailure (retry_for_success.ts:18:9) Third failure: retry.try reached timeout 120000 ms. Fourth failure: processTicksAndRejections (node:internal/process/task_queues:95:5)'}]
+2025-05-01 18:20:36,288 - ERROR - Unexpected LLM response structure: [{'summary_text': 'First failure: [kibana-on-merge - main](https://buildkite.com/elastic/kibanas/67628#01968885-8840-47ef-998f-8f2b75647414) Second failure: onFailure (retry_for_success.ts:18:9) Third failure: retry.try reached timeout 120000 ms. Fourth failure: processTicksAndRejections (node:internal/process/task_queues:95:5)'}]
+2025-05-01 18:20:41,693 - INFO - LLM Full Response: [{'summary_text': "The add data flyout has been updated to treat selecting an index with no fields as an error. The flyout layout has been refactored to do less list traversal. The Flaky Test Runner was used on any tests changed. Any text added follows [EUI's writing guidelines], uses sentence case text and includes i18n support."}]
+2025-05-01 18:20:41,701 - ERROR - Unexpected LLM response structure: [{'summary_text': "The add data flyout has been updated to treat selecting an index with no fields as an error. The flyout layout has been refactored to do less list traversal. The Flaky Test Runner was used on any tests changed. Any text added follows [EUI's writing guidelines], uses sentence case text and includes i18n support."}]
+2025-05-01 18:20:45,813 - INFO - LLM Full Response: [{'summary_text': "Adding a security cases' observable of type file path throws an error if the field contains a space, or a dash, like:C:\\Program Files\\Elastic \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0C:\\test- folder. Kibana 8.18.2: Add security cases to a file path."}]
+2025-05-01 18:20:45,813 - ERROR - Unexpected LLM response structure: [{'summary_text': "Adding a security cases' observable of type file path throws an error if the field contains a space, or a dash, like:C:\\Program Files\\Elastic \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0 \xa0C:\\test- folder. Kibana 8.18.2: Add security cases to a file path."}]
+2025-05-01 18:20:46,723 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:20:47,649 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:20:53,706 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.18`: [chore(NA): updating used polyfills using 3rd party library (#218020) Backport version: 9.6.0. This PR is a follow up from the webpack v5 upgrade which makes sure we’re using a new supported library.'}]
+2025-05-01 18:20:53,707 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This will backport the following commits from `main` to `8.18`: [chore(NA): updating used polyfills using 3rd party library (#218020) Backport version: 9.6.0. This PR is a follow up from the webpack v5 upgrade which makes sure we’re using a new supported library.'}]
+2025-05-01 18:20:59,201 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [chore(NA): updating used polyfills using 3rd party library (#218020) Backport version: 9.6.0. This PR is a follow up from the webpack v5 upgrade which makes sure we’re using a new supported library.'}]
+2025-05-01 18:20:59,201 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [chore(NA): updating used polyfills using 3rd party library (#218020) Backport version: 9.6.0. This PR is a follow up from the webpack v5 upgrade which makes sure we’re using a new supported library.'}]
+2025-05-01 18:21:04,707 - INFO - LLM Full Response: [{'summary_text': 'This PR does not need to be reviewed by external teams. This PR merges into a feature branch that Kibana presentation team is working on to convert the embeddable framework to only expose serialized state. Your team will be pinged for review once the work is complete and the final PR opens.'}]
+2025-05-01 18:21:04,707 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR does not need to be reviewed by external teams. This PR merges into a feature branch that Kibana presentation team is working on to convert the embeddable framework to only expose serialized state. Your team will be pinged for review once the work is complete and the final PR opens.'}]
+2025-05-01 18:21:15,398 - INFO - LLM Full Response: [{'summary_text': 'Backport version: 9.6.0. This will backport the following commits from `main` to `9.1.0`: [chore(NA): updating used polyfills using 3rd party library (#218020)] Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 18:21:15,399 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Backport version: 9.6.0. This will backport the following commits from `main` to `9.1.0`: [chore(NA): updating used polyfills using 3rd party library (#218020)] Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 18:21:16,294 - INFO - LLM Full Response: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from Elasticsearch. It also updates the inline docs to include the latest Elasticsearch metadata. The PR is available on GitHub as well as on the Elasticsearch website. For more information on the PR, please visit the PR page.'}]
+2025-05-01 18:21:16,294 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from Elasticsearch. It also updates the inline docs to include the latest Elasticsearch metadata. The PR is available on GitHub as well as on the Elasticsearch website. For more information on the PR, please visit the PR page.'}]
+2025-05-01 18:21:19,912 - INFO - LLM Full Response: [{'summary_text': 'This PR removes the expired maintenance window ids from the alert.maintenanceWindowIds list of the active and the recovered alerts. The actions for those alerts would be triggered once the MW expires. To verify: Create a Maintenance Window that lasts a couple of minutes. Create a rule that generates an alert.'}]
+2025-05-01 18:21:19,912 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR removes the expired maintenance window ids from the alert.maintenanceWindowIds list of the active and the recovered alerts. The actions for those alerts would be triggered once the MW expires. To verify: Create a Maintenance Window that lasts a couple of minutes. Create a rule that generates an alert.'}]
+2025-05-01 18:21:29,226 - INFO - LLM Full Response: [{'summary_text': 'Add a new tab to Hosts page to show system services. Currently, you can see what processes are running on the host. I would like to see what services (distinct from processes) are running/stopping/starting. This services data is already being collected by integrations, would be nice to leverage more of the out of box solution.'}]
+2025-05-01 18:21:29,227 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Add a new tab to Hosts page to show system services. Currently, you can see what processes are running on the host. I would like to see what services (distinct from processes) are running/stopping/starting. This services data is already being collected by integrations, would be nice to leverage more of the out of box solution.'}]
+2025-05-01 18:21:34,371 - INFO - LLM Full Response: [{'summary_text': 'The README.md for Kibana is now available on GitHub. The README includes a list of things to look out for. The PR description includes the appropriate Release Notes section. The correct `release_note:*` label is applied per the [guidelines](https://www.elastic.co/guide/en/kibana/master/contributing)'}]
+2025-05-01 18:21:34,372 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The README.md for Kibana is now available on GitHub. The README includes a list of things to look out for. The PR description includes the appropriate Release Notes section. The correct `release_note:*` label is applied per the [guidelines](https://www.elastic.co/guide/en/kibana/master/contributing)'}]
+2025-05-01 18:21:36,827 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:21:41,840 - INFO - LLM Full Response: [{'summary_text': "Partially revert PR https://github.com/elastic/kibana/pull/209025 . In that PR, we ended up passing a value of `size` in a `top_hits` aggregation, which can easily be larger than what ES allows, resulting in the search failing. We change that `size' parameter back it's original `100` value, but leave the other changes alone."}]
+2025-05-01 18:21:41,841 - ERROR - Unexpected LLM response structure: [{'summary_text': "Partially revert PR https://github.com/elastic/kibana/pull/209025 . In that PR, we ended up passing a value of `size` in a `top_hits` aggregation, which can easily be larger than what ES allows, resulting in the search failing. We change that `size' parameter back it's original `100` value, but leave the other changes alone."}]
+2025-05-01 18:21:46,181 - INFO - LLM Full Response: [{'summary_text': 'The Rule Details page for promotion rules is currently not accessible. When clicking on a rule from the “Installed Rules”/"Rule monitoring" tab, the application fails to navigate to the details page.Apparently the flow was broken as a result of this [PR]'}]
+2025-05-01 18:21:46,184 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The Rule Details page for promotion rules is currently not accessible. When clicking on a rule from the “Installed Rules”/"Rule monitoring" tab, the application fails to navigate to the details page.Apparently the flow was broken as a result of this [PR]'}]
+2025-05-01 18:21:46,726 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:21:54,839 - INFO - LLM Full Response: [{'summary_text': 'Add run rule & update API key. Add run rule and update api key. Use the run rule to run the app and the update key to update the key. For more information, visit: http://www.example.com/run-rule-api-key.'}]
+2025-05-01 18:21:54,841 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Add run rule & update API key. Add run rule and update api key. Use the run rule to run the app and the update key to update the key. For more information, visit: http://www.example.com/run-rule-api-key.'}]
+2025-05-01 18:22:00,140 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.17`: [Update rbush to v4 (main) (manual) (#219613) Backport version: 9.6.0. Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 18:22:00,141 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This will backport the following commits from `main` to `8.17`: [Update rbush to v4 (main) (manual) (#219613) Backport version: 9.6.0. Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 18:22:06,052 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.18`: [Update rbush to v4 (main) (manual) (#219613) Backport version: 9.6.0. Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 18:22:06,053 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This will backport the following commits from `main` to `8.18`: [Update rbush to v4 (main) (manual) (#219613) Backport version: 9.6.0. Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 18:22:12,259 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [Update rbush to v4 (main) (manual) (#219613) Backport version: 9.6.0. Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 18:22:12,260 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [Update rbush to v4 (main) (manual) (#219613) Backport version: 9.6.0. Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 18:22:17,478 - INFO - LLM Full Response: [{'summary_text': "This is a draft PR just to trigger the CI and generate an up to date serverless docker image. Please ignore the following conditions. Check the PR satisfies following conditions and verify it satisfies this list as well. Any text added follows [EUI's writing guidelines], uses sentence case text and includes i18n support."}]
+2025-05-01 18:22:17,479 - ERROR - Unexpected LLM response structure: [{'summary_text': "This is a draft PR just to trigger the CI and generate an up to date serverless docker image. Please ignore the following conditions. Check the PR satisfies following conditions and verify it satisfies this list as well. Any text added follows [EUI's writing guidelines], uses sentence case text and includes i18n support."}]
+2025-05-01 18:22:21,982 - INFO - LLM Full Response: [{'summary_text': 'Updates the internal reporting health API from https://github.com/elastic/kibana/pull/216857 to return whether the notification email service is available. Run kibana and ES with a preconfigured email connector in the `kibANA.yml` and the notification configured to use the connector.'}]
+2025-05-01 18:22:21,983 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Updates the internal reporting health API from https://github.com/elastic/kibana/pull/216857 to return whether the notification email service is available. Run kibana and ES with a preconfigured email connector in the `kibANA.yml` and the notification configured to use the connector.'}]
+2025-05-01 18:22:22,367 - INFO - LLM Full Response: [{'summary_text': 'Reviewers should verify this PR satisfies this list as well. If it involves visual changes include a screenshot or gif. Identify risks like hard to test bugs, performance regression, potential of data loss. Invite stakeholders and evaluate how to proceed before merging. If a plugin configuration key changed, check if it needs to be allowlisted.'}]
+2025-05-01 18:22:22,369 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Reviewers should verify this PR satisfies this list as well. If it involves visual changes include a screenshot or gif. Identify risks like hard to test bugs, performance regression, potential of data loss. Invite stakeholders and evaluate how to proceed before merging. If a plugin configuration key changed, check if it needs to be allowlisted.'}]
+2025-05-01 18:22:26,916 - INFO - LLM Full Response: [{'summary_text': 'Discover session embeddable changing Display options does not trigger unsaved changes. This bug only occurs in the `embeddable-serialized-state` feature branch. Notice Unsaved Changes badge does not appear. It is possible to add a discover session from the library to a dashboard.'}]
+2025-05-01 18:22:26,917 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Discover session embeddable changing Display options does not trigger unsaved changes. This bug only occurs in the `embeddable-serialized-state` feature branch. Notice Unsaved Changes badge does not appear. It is possible to add a discover session from the library to a dashboard.'}]
+2025-05-01 18:22:27,277 - INFO - LLM Full Response: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from Elasticsearch. It also updates the inline docs to include the latest Elasticsearch metadata. The PR is available on GitHub as well as on the Elasticsearch website. For more information on the PR, please visit the PR page.'}]
+2025-05-01 18:22:27,278 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from Elasticsearch. It also updates the inline docs to include the latest Elasticsearch metadata. The PR is available on GitHub as well as on the Elasticsearch website. For more information on the PR, please visit the PR page.'}]
+2025-05-01 18:22:31,597 - INFO - LLM Full Response: [{'summary_text': 'At present, we query alerts using `@timestamp` which means we can return stale alerts if the alert was updated recently, but started a month ago. For alerts we continually update documents every time the rule runs, including when the alert closes. This means that if you ask "What alerts started in the past day" it will include all alerts that had new activity within that time period.'}]
+2025-05-01 18:22:31,599 - ERROR - Unexpected LLM response structure: [{'summary_text': 'At present, we query alerts using `@timestamp` which means we can return stale alerts if the alert was updated recently, but started a month ago. For alerts we continually update documents every time the rule runs, including when the alert closes. This means that if you ask "What alerts started in the past day" it will include all alerts that had new activity within that time period.'}]
+2025-05-01 18:22:34,885 - INFO - LLM Full Response: [{'summary_text': 'We’d like to explore the possibility of opening a new flyout with error/exception details when users click a “related error” link from the waterfall view. We’ll be adding more requirements and technical details soon. Back to the page you came from.'}]
+2025-05-01 18:22:34,886 - ERROR - Unexpected LLM response structure: [{'summary_text': 'We’d like to explore the possibility of opening a new flyout with error/exception details when users click a “related error” link from the waterfall view. We’ll be adding more requirements and technical details soon. Back to the page you came from.'}]
+2025-05-01 18:22:38,136 - INFO - LLM Full Response: [{'summary_text': 'This updates the function metadata sync scripts to work against the Elasticsearch 8.19 branch.Review not only the code changes in this PR, but also the result of running the CI job: https://github.com/elastic/kibana/pull/219813.'}]
+2025-05-01 18:22:38,137 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This updates the function metadata sync scripts to work against the Elasticsearch 8.19 branch.Review not only the code changes in this PR, but also the result of running the CI job: https://github.com/elastic/kibana/pull/219813.'}]
+2025-05-01 18:22:42,540 - INFO - LLM Full Response: [{'summary_text': 'This PR does not need to be reviewed by external teams. This PR merges into a feature branch that Kibana presentation team is working on to convert the embeddable framework to only expose serialized state. Your team will be pinged for review once the work is complete and the final PR opens.'}]
+2025-05-01 18:22:42,541 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR does not need to be reviewed by external teams. This PR merges into a feature branch that Kibana presentation team is working on to convert the embeddable framework to only expose serialized state. Your team will be pinged for review once the work is complete and the final PR opens.'}]
+2025-05-01 18:22:50,630 - INFO - LLM Full Response: [{'summary_text': 'UnflattenKnownApmEventFields can’t currently be reused outside of the solutions space and we’d like to make it available for use in Discover. Maybe we could move it to `@kbn/apm-sources-access- plugin.'}]
+2025-05-01 18:22:50,632 - ERROR - Unexpected LLM response structure: [{'summary_text': 'UnflattenKnownApmEventFields can’t currently be reused outside of the solutions space and we’d like to make it available for use in Discover. Maybe we could move it to `@kbn/apm-sources-access- plugin.'}]
+2025-05-01 18:22:54,057 - INFO - LLM Full Response: [{'summary_text': 'This PR fixes [[Platform:Management:Kibana:Tags] Connections on saved tags table not announced completely] issue. It also fixes the Edit tag panel is announced incorrectly issue. The PR is available on GitHub. For more information, visit the Elastic Kibana website.'}]
+2025-05-01 18:22:54,057 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR fixes [[Platform:Management:Kibana:Tags] Connections on saved tags table not announced completely] issue. It also fixes the Edit tag panel is announced incorrectly issue. The PR is available on GitHub. For more information, visit the Elastic Kibana website.'}]
+2025-05-01 18:22:59,277 - INFO - LLM Full Response: [{'summary_text': 'Using suffixes with decimals is non-standard, potentially confusing, and deviates from common English conventions. Ordinal suffixes are meant to indicate discrete positions or ranks in a sequence, which aligns with whole numbers but not fractional values. This change would enhance clarity, ensure consistency in our codebase, and align with linguistic norms.'}]
+2025-05-01 18:22:59,278 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Using suffixes with decimals is non-standard, potentially confusing, and deviates from common English conventions. Ordinal suffixes are meant to indicate discrete positions or ranks in a sequence, which aligns with whole numbers but not fractional values. This change would enhance clarity, ensure consistency in our codebase, and align with linguistic norms.'}]
+2025-05-01 18:23:04,882 - INFO - LLM Full Response: [{'summary_text': "This will backport the following commits from `main` to `9.1.0' Backport version: 9.6.0. # Backport tool documentation. Backport tools: http://www.sorenlouv.com/backport.html."}]
+2025-05-01 18:23:04,882 - ERROR - Unexpected LLM response structure: [{'summary_text': "This will backport the following commits from `main` to `9.1.0' Backport version: 9.6.0. # Backport tool documentation. Backport tools: http://www.sorenlouv.com/backport.html."}]
+2025-05-01 18:23:09,430 - INFO - LLM Full Response: [{'summary_text': 'This bug only occurs in the `embeddable-serialized-state` feature branch. By reference Discover session panels do not experience this issue. Add a drilldown to a by-value Discover session embeddable does not trigger unsaved changes. This bug can not be reset.'}]
+2025-05-01 18:23:09,431 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This bug only occurs in the `embeddable-serialized-state` feature branch. By reference Discover session panels do not experience this issue. Add a drilldown to a by-value Discover session embeddable does not trigger unsaved changes. This bug can not be reset.'}]
+2025-05-01 18:23:14,119 - INFO - LLM Full Response: [{'summary_text': "Replaces the CPU process limit (`go_max_procs`) with a percentage (`cpu`) Users can choose an exact percentage of CPU to limit for all agents in a policy. Added test cases to ensure limits are properly shown, or N/A is shown when a limit isn't set."}]
+2025-05-01 18:23:14,121 - ERROR - Unexpected LLM response structure: [{'summary_text': "Replaces the CPU process limit (`go_max_procs`) with a percentage (`cpu`) Users can choose an exact percentage of CPU to limit for all agents in a policy. Added test cases to ensure limits are properly shown, or N/A is shown when a limit isn't set."}]
+2025-05-01 18:23:18,376 - INFO - LLM Full Response: [{'summary_text': 'The schedule API was added to Kibana. It uses the same role privileges as the current generate report API, so user must have the reporting subfeature privilege for one of the Analytics feature privileges (Discover/Dashboard/Visualize) Scheduling a report creates a new `scheduled_report` type saved object in the index.'}]
+2025-05-01 18:23:18,376 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The schedule API was added to Kibana. It uses the same role privileges as the current generate report API, so user must have the reporting subfeature privilege for one of the Analytics feature privileges (Discover/Dashboard/Visualize) Scheduling a report creates a new `scheduled_report` type saved object in the index.'}]
+2025-05-01 18:23:22,299 - INFO - LLM Full Response: [{'summary_text': "Kibana's code can be found on GitHub at: http://www.elastic.com/elastic/kibana/issues/216313.php. The code can also be found at: https://github.com /elastic /kibane/issues."}]
+2025-05-01 18:23:22,300 - ERROR - Unexpected LLM response structure: [{'summary_text': "Kibana's code can be found on GitHub at: http://www.elastic.com/elastic/kibana/issues/216313.php. The code can also be found at: https://github.com /elastic /kibane/issues."}]
+2025-05-01 18:23:26,122 - INFO - LLM Full Response: [{'summary_text': "Introduces 3 evaluators to the automatic rule migration task evaluation API: `translation_result`, 'prebuilt_rule_matching' and 'custom_query_translation' Closes: https://github.com/elastic/security-team/issues/12403."}]
+2025-05-01 18:23:26,123 - ERROR - Unexpected LLM response structure: [{'summary_text': "Introduces 3 evaluators to the automatic rule migration task evaluation API: `translation_result`, 'prebuilt_rule_matching' and 'custom_query_translation' Closes: https://github.com/elastic/security-team/issues/12403."}]
+2025-05-01 18:23:29,517 - INFO - LLM Full Response: [{'summary_text': 'Adds 8.18.1 release notes. Closes: [#670](https://github.com/elastic/platform-docs-team/issues/670) Ranges from [1] to [2] in the release notes section of the Kibana app.'}]
+2025-05-01 18:23:29,518 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Adds 8.18.1 release notes. Closes: [#670](https://github.com/elastic/platform-docs-team/issues/670) Ranges from [1] to [2] in the release notes section of the Kibana app.'}]
+2025-05-01 18:23:32,896 - INFO - LLM Full Response: [{'summary_text': 'Kibana is a cloud-based storage system. Kibana was developed in the late 1990s. It was the first cloud storage system in the world. It is now being used to store data in the cloud. It can also store data on the cloud, and other systems.'}]
+2025-05-01 18:23:32,898 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Kibana is a cloud-based storage system. Kibana was developed in the late 1990s. It was the first cloud storage system in the world. It is now being used to store data in the cloud. It can also store data on the cloud, and other systems.'}]
+2025-05-01 18:23:33,306 - INFO - LLM Full Response: [{'summary_text': 'Kibana is a cloud-based storage system. Kibana was developed in the late 1990s. It was the first cloud storage system in the world. It is now being used to store data in the cloud. It can also store data on the cloud, and other systems.'}]
+2025-05-01 18:23:33,307 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Kibana is a cloud-based storage system. Kibana was developed in the late 1990s. It was the first cloud storage system in the world. It is now being used to store data in the cloud. It can also store data on the cloud, and other systems.'}]
+2025-05-01 18:23:33,708 - INFO - LLM Full Response: [{'summary_text': 'Kibana is a cloud-based storage system. Kibana was developed in the late 1990s. It was the first cloud storage system in the world. It is now being used to store data in the cloud. It can also store data on the cloud, and other systems.'}]
+2025-05-01 18:23:33,709 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Kibana is a cloud-based storage system. Kibana was developed in the late 1990s. It was the first cloud storage system in the world. It is now being used to store data in the cloud. It can also store data on the cloud, and other systems.'}]
+2025-05-01 18:23:38,546 - INFO - LLM Full Response: [{'summary_text': 'Tests are failing on both stateful and serverless because LLMs are mocked. I replaced the failOnMKI tag with skipCloud tag for tests that use the LlmProxy. These tests will be skipped for ECH and MKI. This tag will be removed once https://github.com/elastic/obs-ai-assistant-team/issues/199 is merged.'}]
+2025-05-01 18:23:38,547 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Tests are failing on both stateful and serverless because LLMs are mocked. I replaced the failOnMKI tag with skipCloud tag for tests that use the LlmProxy. These tests will be skipped for ECH and MKI. This tag will be removed once https://github.com/elastic/obs-ai-assistant-team/issues/199 is merged.'}]
+2025-05-01 18:23:41,369 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 18:23:41,383 - INFO - Repository ranking report generated successfully.
+2025-05-01 18:23:42,022 - INFO - LLM Full Response: [{'summary_text': 'Fix Span Links flyout error (Error message: `None of /services/{serviceName}/transactions/view, /mobile-services/ {serviceName}./transaction/view match current path /traces/explorer/waterfall`) in Trace Explorer.'}]
+2025-05-01 18:23:42,024 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Fix Span Links flyout error (Error message: `None of /services/{serviceName}/transactions/view, /mobile-services/ {serviceName}./transaction/view match current path /traces/explorer/waterfall`) in Trace Explorer.'}]
+2025-05-01 18:23:43,027 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:23:44,043 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:23:48,678 - INFO - LLM Full Response: [{'summary_text': 'First failure: [kibana-on-merge - 8.19](https://buildkite.com/elastic/kibanas/builds/67599#01968731-844a-4e77-9fad-6bccde3ec062) A test failed on a tracked branch.'}]
+2025-05-01 18:23:48,678 - ERROR - Unexpected LLM response structure: [{'summary_text': 'First failure: [kibana-on-merge - 8.19](https://buildkite.com/elastic/kibanas/builds/67599#01968731-844a-4e77-9fad-6bccde3ec062) A test failed on a tracked branch.'}]
+2025-05-01 18:24:15,877 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [[FIPS] Skips new alerting artifacts spaces-only test (#218983) Backport version: 9.6.6 --> Questions? Please refer to the [Backport tool documentation] Backport tool: http://www.elastic.com/backport.'}]
+2025-05-01 18:24:15,877 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [[FIPS] Skips new alerting artifacts spaces-only test (#218983) Backport version: 9.6.6 --> Questions? Please refer to the [Backport tool documentation] Backport tool: http://www.elastic.com/backport.'}]
+2025-05-01 18:24:16,549 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:24:20,875 - INFO - LLM Full Response: [{'summary_text': 'This is the first PR related to https://github.com/elastic/kibana/issues/212570. Tests and migrations have been changed accordingly and the `incremental_id` field is removed from cases import/export. The motivation behind releasing these changes first is so that serverless deployments will know about the new field and SO.'}]
+2025-05-01 18:24:20,876 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This is the first PR related to https://github.com/elastic/kibana/issues/212570. Tests and migrations have been changed accordingly and the `incremental_id` field is removed from cases import/export. The motivation behind releasing these changes first is so that serverless deployments will know about the new field and SO.'}]
+2025-05-01 18:24:21,287 - INFO - LLM Full Response: [{'summary_text': 'This PR does not need to be reviewed by external teams. This PR merges into a feature branch that Kibana presentation team is working on to convert the embeddable framework to only expose serialized state. Your team will be pinged for review once the work is complete and the final PR opens.'}]
+2025-05-01 18:24:21,288 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR does not need to be reviewed by external teams. This PR merges into a feature branch that Kibana presentation team is working on to convert the embeddable framework to only expose serialized state. Your team will be pinged for review once the work is complete and the final PR opens.'}]
+2025-05-01 18:24:22,380 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:24:25,726 - INFO - LLM Full Response: [{'summary_text': 'Fix painless lab test flakiness with lab test fakes. Use this information to improve your lab test results. Use these tips to help you get the most out of your lab tests. Use the Daily Discussion to help people understand the latest developments in the lab test field.'}]
+2025-05-01 18:24:25,727 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Fix painless lab test flakiness with lab test fakes. Use this information to improve your lab test results. Use these tips to help you get the most out of your lab tests. Use the Daily Discussion to help people understand the latest developments in the lab test field.'}]
+2025-05-01 18:24:32,922 - INFO - LLM Full Response: [{'summary_text': "Fix issue with card resizing, we don't need custom styles.https://github.com/user-attachments/assets/840fc757-aa00-4fdc-b527-6192ec628192.svg:svg://://svg.co.uk/svg/card-resize.svc:svc://svc/card\xa0resize\xa0vc:vc://vc/resize-vc.vf:vcs/card resize.vcs:vcm/vcm:vms/vms:vm:vcss/vcss:vfs/vfs:"}]
+2025-05-01 18:24:32,923 - ERROR - Unexpected LLM response structure: [{'summary_text': "Fix issue with card resizing, we don't need custom styles.https://github.com/user-attachments/assets/840fc757-aa00-4fdc-b527-6192ec628192.svg:svg://://svg.co.uk/svg/card-resize.svc:svc://svc/card\xa0resize\xa0vc:vc://vc/resize-vc.vf:vcs/card resize.vcs:vcm/vcm:vms/vms:vm:vcss/vcss:vfs/vfs:"}]
+2025-05-01 18:24:42,935 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `9.1.0`: [Update rbush to v4 (main) (manual) (#219613) Backport version: 9.6.0. Questions? Please refer to the [Backport tool documentation]'}]
+2025-05-01 18:24:42,945 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This will backport the following commits from `main` to `9.1.0`: [Update rbush to v4 (main) (manual) (#219613) Backport version: 9.6.0. Questions? Please refer to the [Backport tool documentation]'}]
+2025-05-01 18:24:49,737 - INFO - LLM Full Response: [{'summary_text': 'Some of style customizations in Kibana should ultimately live in the EUI repo (EuiCollapsibleNavBeta) Once added, we could remove the custom styles that were merged in [here] The exception are the "panel opener" components. These are a customization that lives in KIBana and is built "on top" of EuiCollapseNavBeta.'}]
+2025-05-01 18:24:49,737 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Some of style customizations in Kibana should ultimately live in the EUI repo (EuiCollapsibleNavBeta) Once added, we could remove the custom styles that were merged in [here] The exception are the "panel opener" components. These are a customization that lives in KIBana and is built "on top" of EuiCollapseNavBeta.'}]
+2025-05-01 18:24:54,486 - INFO - LLM Full Response: [{'summary_text': "This will backport the following commits from `main` to `9.0.0' Backport version: 9.6.6 - [[Investigations][Timeline] - Run Object.keys less frequently (#219629) Backport tool documentation is available on GitHub."}]
+2025-05-01 18:24:54,487 - ERROR - Unexpected LLM response structure: [{'summary_text': "This will backport the following commits from `main` to `9.0.0' Backport version: 9.6.6 - [[Investigations][Timeline] - Run Object.keys less frequently (#219629) Backport tool documentation is available on GitHub."}]
+2025-05-01 18:25:00,738 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: - [[Investigations][Timeline] - Run Object.keys less frequently (#219629) - Backport version: 9.6.6 - Questions? Please refer to the [Backport tool documentation.'}]
+2025-05-01 18:25:00,739 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: - [[Investigations][Timeline] - Run Object.keys less frequently (#219629) - Backport version: 9.6.6 - Questions? Please refer to the [Backport tool documentation.'}]
+2025-05-01 18:25:06,617 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.18`: [[Investigations][Timeline] - Run Object.keys less frequently (#219629)] Backport version: 9.6.6 -- Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 18:25:06,618 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This will backport the following commits from `main` to `8.18`: [[Investigations][Timeline] - Run Object.keys less frequently (#219629)] Backport version: 9.6.6 -- Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 18:25:07,568 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 18:25:07,580 - INFO - Repository ranking report generated successfully.
+2025-05-01 18:25:11,617 - INFO - LLM Full Response: [{'summary_text': 'This PR uses the lock manager service to ensure no concurrent installation of the SLO resources. The PR was created to help users with their SLO installation. The release was released on October 1, 2013. It is available for download from the following sites: http://www.slo.org/pr/slo-lock-manager.html and http://slo.org.uk/.'}]
+2025-05-01 18:25:11,620 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR uses the lock manager service to ensure no concurrent installation of the SLO resources. The PR was created to help users with their SLO installation. The release was released on October 1, 2013. It is available for download from the following sites: http://www.slo.org/pr/slo-lock-manager.html and http://slo.org.uk/.'}]
+2025-05-01 18:25:16,103 - INFO - LLM Full Response: [{'summary_text': 'Camelcase-keys is already on the latest version that is not an ESM module, so we should only upgrade the other dependencies until Kibana supports ESM natively. Manual version of https://github.com/elastic/kibana/pull/205556.'}]
+2025-05-01 18:25:16,104 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Camelcase-keys is already on the latest version that is not an ESM module, so we should only upgrade the other dependencies until Kibana supports ESM natively. Manual version of https://github.com/elastic/kibana/pull/205556.'}]
+2025-05-01 18:25:20,257 - INFO - LLM Full Response: [{'summary_text': 'Anmaly threshold input is missing an accessible label on create rule of machine learning type panel. This PR resolves [[Security:Rules:Detection Rules:Create Rule] Anmalyreshold input isMissing a label on the create rule. type panel]. This resolves the problem.'}]
+2025-05-01 18:25:20,258 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Anmaly threshold input is missing an accessible label on create rule of machine learning type panel. This PR resolves [[Security:Rules:Detection Rules:Create Rule] Anmalyreshold input isMissing a label on the create rule. type panel]. This resolves the problem.'}]
+2025-05-01 18:25:25,358 - INFO - LLM Full Response: [{'summary_text': "We need to add dynamic search for entity related insights. As first stage we only look for entity.id. Since we expect cases where entities won't contain id, we will need to refer to the `entity.related` field. Note that the search for documents in the alerts/misconfigs/vulns indices will require those fields to be properly mapped."}]
+2025-05-01 18:25:25,359 - ERROR - Unexpected LLM response structure: [{'summary_text': "We need to add dynamic search for entity related insights. As first stage we only look for entity.id. Since we expect cases where entities won't contain id, we will need to refer to the `entity.related` field. Note that the search for documents in the alerts/misconfigs/vulns indices will require those fields to be properly mapped."}]
+2025-05-01 18:25:31,015 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `9.1.0`: [[Watcher] Fix accessibility issues (#219082) Backport version: 9.6.0. # Backport tool documentation: http://www.elastic.com/backport.'}]
+2025-05-01 18:25:31,017 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This will backport the following commits from `main` to `9.1.0`: [[Watcher] Fix accessibility issues (#219082) Backport version: 9.6.0. # Backport tool documentation: http://www.elastic.com/backport.'}]
+2025-05-01 18:25:35,598 - INFO - LLM Full Response: [{'summary_text': 'This PR resolves [[Platform:StackManagement:Kibana:Files] Statistics panel on the files page announced incorrectly](https://github.com/elastic/kibana/issues/217699) issue. ## Summary of the PR: This PR resolves an issue with the Statistics panel.'}]
+2025-05-01 18:25:35,599 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR resolves [[Platform:StackManagement:Kibana:Files] Statistics panel on the files page announced incorrectly](https://github.com/elastic/kibana/issues/217699) issue. ## Summary of the PR: This PR resolves an issue with the Statistics panel.'}]
+2025-05-01 18:25:36,879 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:25:39,343 - INFO - LLM Full Response: [{'summary_text': 'Reviewers should verify this PR satisfies this list as well. If it involves visual changes include a screenshot or gif. Identify risks like hard to test bugs, performance regression, potential of data loss. Invite stakeholders and evaluate how to proceed before merging. If a plugin configuration key changed, check if it needs to be allowlisted.'}]
+2025-05-01 18:25:39,344 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Reviewers should verify this PR satisfies this list as well. If it involves visual changes include a screenshot or gif. Identify risks like hard to test bugs, performance regression, potential of data loss. Invite stakeholders and evaluate how to proceed before merging. If a plugin configuration key changed, check if it needs to be allowlisted.'}]
+2025-05-01 18:25:40,124 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:25:44,377 - INFO - LLM Full Response: [{'summary_text': 'Kibana: Closes [#219217](https://github.com/elastic/kibana/issues/2192 17) Closes #219216. Closes#219317. Closure #219417. Closing #219517. closing #219617.'}]
+2025-05-01 18:25:44,378 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Kibana: Closes [#219217](https://github.com/elastic/kibana/issues/2192 17) Closes #219216. Closes#219317. Closure #219417. Closing #219517. closing #219617.'}]
+2025-05-01 18:25:48,306 - INFO - LLM Full Response: [{'summary_text': ' remove some extra space for gap overview panel;. Remove FF for gaps for gaps;. Take some space from gap overview for gap panel; and. Add some space for gaps and gaps on the panel for gaps. The final step is to remove all the extra space from the panel and panel.'}]
+2025-05-01 18:25:48,307 - ERROR - Unexpected LLM response structure: [{'summary_text': ' remove some extra space for gap overview panel;. Remove FF for gaps for gaps;. Take some space from gap overview for gap panel; and. Add some space for gaps and gaps on the panel for gaps. The final step is to remove all the extra space from the panel and panel.'}]
+2025-05-01 18:25:52,694 - INFO - LLM Full Response: [{'summary_text': 'Aims to improve the state of the project. Aims to make the project more efficient and effective. Aim is to reduce the amount of work that needs to be done. Aim: To reduce the number of tasks that need to be completed in a given time period.'}]
+2025-05-01 18:25:52,695 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Aims to improve the state of the project. Aims to make the project more efficient and effective. Aim is to reduce the amount of work that needs to be done. Aim: To reduce the number of tasks that need to be completed in a given time period.'}]
+2025-05-01 18:25:56,424 - INFO - LLM Full Response: [{'summary_text': "Fix painless lab test flakiness. Fix painless laboratory tests. Fix lab tests that are too painful to use. Fix tests that don't work. Fix test results that aren't too painful. Fix the lab test that doesn't work, fix the lab tests."}]
+2025-05-01 18:25:56,425 - ERROR - Unexpected LLM response structure: [{'summary_text': "Fix painless lab test flakiness. Fix painless laboratory tests. Fix lab tests that are too painful to use. Fix tests that don't work. Fix test results that aren't too painful. Fix the lab test that doesn't work, fix the lab tests."}]
+2025-05-01 18:26:00,256 - INFO - LLM Full Response: [{'summary_text': 'This PR adds release notes for the Kibana 9.0.1 release. The release notes can be found at: http://www.elastic.dev/elastic/kibana/pull/219734/release-notes. For more information, visit the official release notes page.'}]
+2025-05-01 18:26:00,257 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR adds release notes for the Kibana 9.0.1 release. The release notes can be found at: http://www.elastic.dev/elastic/kibana/pull/219734/release-notes. For more information, visit the official release notes page.'}]
+2025-05-01 18:26:00,759 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:01,713 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:02,155 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:02,545 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:02,934 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:03,574 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:04,133 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:05,529 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:05,994 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:07,897 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:09,993 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:11,450 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:12,030 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:16,958 - INFO - LLM Full Response: [{'summary_text': 'The user is unable to drag fields from the left side field section and drop them into the query builder. Kibana v9.1.0 must be available. A policy should be created. An agent should be added and Data should be available i.e. some alerts should be triggered.'}]
+2025-05-01 18:26:16,959 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The user is unable to drag fields from the left side field section and drop them into the query builder. Kibana v9.1.0 must be available. A policy should be created. An agent should be added and Data should be available i.e. some alerts should be triggered.'}]
+2025-05-01 18:26:17,983 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:18,462 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:19,492 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:25,677 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [[FIPS] Skip basic license cases list view test for FIPS pipeline (#215182)] Backport version: 9.6.0. # Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 18:26:25,678 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [[FIPS] Skip basic license cases list view test for FIPS pipeline (#215182)] Backport version: 9.6.0. # Backport tool documentation: http://www.elastic.com/sorenlouv/backport.'}]
+2025-05-01 18:26:31,895 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [[FIPS] Update fips test overrides (#215745)](https://github.com/elastic/kibana/pull/2157 45) Backport version: 9.6.6 --> Questions? Please refer to the [Backport tool documentation]'}]
+2025-05-01 18:26:31,900 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This will backport the following commits from `main` to `8.19`: [[FIPS] Update fips test overrides (#215745)](https://github.com/elastic/kibana/pull/2157 45) Backport version: 9.6.6 --> Questions? Please refer to the [Backport tool documentation]'}]
+2025-05-01 18:26:32,443 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:37,076 - INFO - LLM Full Response: [{'summary_text': 'First failure: [kibana-on-merge - main] at Context.eval (webpack://@kbn/apm-ftr-e2e/./cypress/e 2e/service_ inventory/ service_ inventory.cy.ts:184:50) A test failed on a tracked branch.'}]
+2025-05-01 18:26:37,077 - ERROR - Unexpected LLM response structure: [{'summary_text': 'First failure: [kibana-on-merge - main] at Context.eval (webpack://@kbn/apm-ftr-e2e/./cypress/e 2e/service_ inventory/ service_ inventory.cy.ts:184:50) A test failed on a tracked branch.'}]
+2025-05-01 18:26:44,454 - INFO - LLM Full Response: [{'summary_text': 'First failure: [kibana-on-merge - main] at eval (webpack://@kbn/apm-ftr-e2e/./cypress/support/commands.ts:135:43) Second failure:    at Context.eval ( webpack://://www.kbn.com/kite/Kibana/Main/eval/main.cpy) Third failure: at context.eval.'}]
+2025-05-01 18:26:44,455 - ERROR - Unexpected LLM response structure: [{'summary_text': 'First failure: [kibana-on-merge - main] at eval (webpack://@kbn/apm-ftr-e2e/./cypress/support/commands.ts:135:43) Second failure:    at Context.eval ( webpack://://www.kbn.com/kite/Kibana/Main/eval/main.cpy) Third failure: at context.eval.'}]
+2025-05-01 18:26:45,338 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:45,808 - ERROR - Error analyzing issue with LLM: 500 Server Error: Internal Server Error for url: https://api-inference.huggingface.co/models/facebook/bart-large-cnn
+2025-05-01 18:26:51,663 - INFO - LLM Full Response: [{'summary_text': 'This will backport the following commits from `main` to `9.1.0`: [[Synthetics] Fix params sharing !! (#219675)](https://github.com/elastic/kibana/pull/2196 75) Backport version: 9.6.6 <!-- Backport tool documentation -->'}]
+2025-05-01 18:26:51,664 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This will backport the following commits from `main` to `9.1.0`: [[Synthetics] Fix params sharing !! (#219675)](https://github.com/elastic/kibana/pull/2196 75) Backport version: 9.6.6 <!-- Backport tool documentation -->'}]
+2025-05-01 18:58:39,856 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 18:58:39,877 - INFO - Repository ranking report generated successfully.
+2025-05-01 18:58:43,508 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 18:58:43,520 - INFO - Repository ranking report generated successfully.
+2025-05-01 19:09:38,223 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 19:09:38,262 - INFO - Repository ranking report generated successfully.
+2025-05-01 19:10:30,071 - INFO - Fetched 100 issues from page 1 of elastic/kibana
+2025-05-01 19:10:31,101 - INFO - Fetched 100 issues from page 2 of elastic/kibana
+2025-05-01 19:10:32,354 - INFO - Fetched 100 issues from page 3 of elastic/kibana
+2025-05-01 19:10:33,585 - INFO - Fetched 100 issues from page 4 of elastic/kibana
+2025-05-01 19:10:38,422 - INFO - Fetched 100 issues from page 5 of elastic/kibana
+2025-05-01 19:10:40,525 - INFO - Fetched 100 issues from page 6 of elastic/kibana
+2025-05-01 19:10:46,738 - INFO - Fetched 100 issues from page 7 of elastic/kibana
+2025-05-01 19:14:06,292 - INFO - Fetched 100 issues from page 1 of elastic/kibana
+2025-05-01 19:14:07,559 - INFO - Fetched 100 issues from page 2 of elastic/kibana
+2025-05-01 19:14:08,772 - INFO - Fetched 100 issues from page 3 of elastic/kibana
+2025-05-01 19:14:09,963 - INFO - Fetched 100 issues from page 4 of elastic/kibana
+2025-05-01 19:14:11,188 - INFO - Fetched 100 issues from page 5 of elastic/kibana
+2025-05-01 19:14:12,468 - INFO - Fetched 100 issues from page 6 of elastic/kibana
+2025-05-01 19:14:13,520 - INFO - Fetched 100 issues from page 7 of elastic/kibana
+2025-05-01 19:14:14,544 - INFO - Fetched 100 issues from page 8 of elastic/kibana
+2025-05-01 19:14:37,903 - INFO - Fetched 100 issues from page 1 of elastic/kibana
+2025-05-01 19:19:32,826 - INFO - Fetched 100 issues from page 1 of elastic/kibana
+2025-05-01 19:19:35,220 - INFO - Fetched 100 issues from page 2 of elastic/kibana
+2025-05-01 19:19:39,695 - INFO - Fetched 100 issues from page 3 of elastic/kibana
+2025-05-01 19:19:41,150 - INFO - Fetched 100 issues from page 4 of elastic/kibana
+2025-05-01 19:19:43,252 - INFO - Fetched 100 issues from page 5 of elastic/kibana
+2025-05-01 19:19:45,361 - INFO - Fetched 100 issues from page 6 of elastic/kibana
+2025-05-01 19:19:46,886 - INFO - Fetched 100 issues from page 7 of elastic/kibana
+2025-05-01 19:19:48,155 - INFO - Fetched 100 issues from page 8 of elastic/kibana
+2025-05-01 19:19:49,805 - INFO - Fetched 100 issues from page 9 of elastic/kibana
+2025-05-01 19:19:51,565 - INFO - Fetched 100 issues from page 10 of elastic/kibana
+2025-05-01 19:19:53,006 - INFO - Fetched 100 issues from page 11 of elastic/kibana
+2025-05-01 19:19:54,275 - INFO - Fetched 100 issues from page 12 of elastic/kibana
+2025-05-01 19:19:55,348 - INFO - Fetched 100 issues from page 13 of elastic/kibana
+2025-05-01 19:19:56,796 - INFO - Fetched 100 issues from page 14 of elastic/kibana
+2025-05-01 19:19:58,465 - INFO - Fetched 100 issues from page 15 of elastic/kibana
+2025-05-01 19:20:01,832 - INFO - Fetched 100 issues from page 16 of elastic/kibana
+2025-05-01 19:20:04,405 - INFO - Fetched 100 issues from page 17 of elastic/kibana
+2025-05-01 19:20:06,628 - INFO - Fetched 100 issues from page 18 of elastic/kibana
+2025-05-01 19:20:09,023 - INFO - Fetched 100 issues from page 19 of elastic/kibana
+2025-05-01 19:20:11,605 - INFO - Fetched 100 issues from page 20 of elastic/kibana
+2025-05-01 19:20:13,819 - INFO - Fetched 100 issues from page 21 of elastic/kibana
+2025-05-01 19:20:15,587 - INFO - Fetched 100 issues from page 22 of elastic/kibana
+2025-05-01 19:20:21,438 - INFO - Fetched 100 issues from page 23 of elastic/kibana
+2025-05-01 19:20:23,616 - INFO - Fetched 100 issues from page 24 of elastic/kibana
+2025-05-01 19:20:25,606 - INFO - Fetched 100 issues from page 25 of elastic/kibana
+2025-05-01 19:20:27,719 - INFO - Fetched 100 issues from page 26 of elastic/kibana
+2025-05-01 19:20:29,263 - INFO - Fetched 100 issues from page 27 of elastic/kibana
+2025-05-01 19:20:31,295 - INFO - Fetched 100 issues from page 28 of elastic/kibana
+2025-05-01 19:20:32,762 - INFO - Fetched 100 issues from page 29 of elastic/kibana
+2025-05-01 19:20:34,240 - INFO - Fetched 100 issues from page 30 of elastic/kibana
+2025-05-01 19:20:35,847 - INFO - Fetched 100 issues from page 31 of elastic/kibana
+2025-05-01 19:20:37,041 - INFO - Fetched 100 issues from page 32 of elastic/kibana
+2025-05-01 19:20:38,419 - INFO - Fetched 100 issues from page 33 of elastic/kibana
+2025-05-01 19:20:39,620 - INFO - Fetched 100 issues from page 34 of elastic/kibana
+2025-05-01 19:20:41,502 - INFO - Fetched 100 issues from page 35 of elastic/kibana
+2025-05-01 19:20:42,914 - INFO - Fetched 100 issues from page 36 of elastic/kibana
+2025-05-01 19:20:44,405 - INFO - Fetched 100 issues from page 37 of elastic/kibana
+2025-05-01 19:20:45,644 - INFO - Fetched 100 issues from page 38 of elastic/kibana
+2025-05-01 19:20:46,872 - INFO - Fetched 100 issues from page 39 of elastic/kibana
+2025-05-01 19:20:47,982 - INFO - Fetched 100 issues from page 40 of elastic/kibana
+2025-05-01 19:20:49,383 - INFO - Fetched 100 issues from page 41 of elastic/kibana
+2025-05-01 19:20:51,461 - INFO - Fetched 100 issues from page 42 of elastic/kibana
+2025-05-01 19:20:52,844 - INFO - Fetched 100 issues from page 43 of elastic/kibana
+2025-05-01 19:20:54,237 - INFO - Fetched 100 issues from page 44 of elastic/kibana
+2025-05-01 19:20:55,870 - INFO - Fetched 100 issues from page 45 of elastic/kibana
+2025-05-01 19:20:57,844 - INFO - Fetched 100 issues from page 46 of elastic/kibana
+2025-05-01 19:21:08,728 - INFO - Fetched 100 issues from page 47 of elastic/kibana
+2025-05-01 19:21:10,031 - INFO - Fetched 100 issues from page 48 of elastic/kibana
+2025-05-01 19:21:11,426 - INFO - Fetched 100 issues from page 49 of elastic/kibana
+2025-05-01 19:21:12,864 - INFO - Fetched 100 issues from page 50 of elastic/kibana
+2025-05-01 19:21:14,209 - INFO - Fetched 100 issues from page 51 of elastic/kibana
+2025-05-01 19:21:15,495 - INFO - Fetched 100 issues from page 52 of elastic/kibana
+2025-05-01 19:21:16,771 - INFO - Fetched 100 issues from page 53 of elastic/kibana
+2025-05-01 19:21:18,009 - INFO - Fetched 100 issues from page 54 of elastic/kibana
+2025-05-01 19:21:19,412 - INFO - Fetched 100 issues from page 55 of elastic/kibana
+2025-05-01 19:21:20,605 - INFO - Fetched 100 issues from page 56 of elastic/kibana
+2025-05-01 19:21:21,970 - INFO - Fetched 100 issues from page 57 of elastic/kibana
+2025-05-01 19:21:24,059 - INFO - Fetched 100 issues from page 58 of elastic/kibana
+2025-05-01 19:21:25,346 - INFO - Fetched 100 issues from page 59 of elastic/kibana
+2025-05-01 19:21:27,499 - INFO - Fetched 100 issues from page 60 of elastic/kibana
+2025-05-01 19:21:28,785 - INFO - Fetched 100 issues from page 61 of elastic/kibana
+2025-05-01 19:21:30,114 - INFO - Fetched 100 issues from page 62 of elastic/kibana
+2025-05-01 19:21:31,553 - INFO - Fetched 100 issues from page 63 of elastic/kibana
+2025-05-01 19:21:32,830 - INFO - Fetched 100 issues from page 64 of elastic/kibana
+2025-05-01 19:21:34,235 - INFO - Fetched 100 issues from page 65 of elastic/kibana
+2025-05-01 19:21:35,578 - INFO - Fetched 100 issues from page 66 of elastic/kibana
+2025-05-01 19:21:36,934 - INFO - Fetched 100 issues from page 67 of elastic/kibana
+2025-05-01 19:21:38,404 - INFO - Fetched 100 issues from page 68 of elastic/kibana
+2025-05-01 19:21:39,578 - INFO - Fetched 100 issues from page 69 of elastic/kibana
+2025-05-01 19:21:41,145 - INFO - Fetched 100 issues from page 70 of elastic/kibana
+2025-05-01 19:21:42,390 - INFO - Fetched 100 issues from page 71 of elastic/kibana
+2025-05-01 19:21:43,756 - INFO - Fetched 100 issues from page 72 of elastic/kibana
+2025-05-01 19:21:45,231 - INFO - Fetched 100 issues from page 73 of elastic/kibana
+2025-05-01 19:21:47,118 - INFO - Fetched 100 issues from page 74 of elastic/kibana
+2025-05-01 19:21:48,374 - INFO - Fetched 100 issues from page 75 of elastic/kibana
+2025-05-01 19:21:49,681 - INFO - Fetched 100 issues from page 76 of elastic/kibana
+2025-05-01 19:21:50,956 - INFO - Fetched 100 issues from page 77 of elastic/kibana
+2025-05-01 19:21:52,300 - INFO - Fetched 100 issues from page 78 of elastic/kibana
+2025-05-01 19:21:53,797 - INFO - Fetched 100 issues from page 79 of elastic/kibana
+2025-05-01 19:21:55,083 - INFO - Fetched 100 issues from page 80 of elastic/kibana
+2025-05-01 19:21:56,729 - INFO - Fetched 100 issues from page 81 of elastic/kibana
+2025-05-01 19:21:57,993 - INFO - Fetched 100 issues from page 82 of elastic/kibana
+2025-05-01 19:21:59,725 - INFO - Fetched 100 issues from page 83 of elastic/kibana
+2025-05-01 19:22:04,025 - INFO - Fetched 100 issues from page 84 of elastic/kibana
+2025-05-01 19:26:43,926 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 19:26:44,737 - INFO - Repository ranking report generated successfully.
+2025-05-01 19:38:51,830 - INFO - Fetched 100 issues from page 1 of elastic/kibana
+2025-05-01 19:38:53,630 - INFO - Fetched 100 issues from page 2 of elastic/kibana
+2025-05-01 19:38:55,525 - INFO - Fetched 100 issues from page 3 of elastic/kibana
+2025-05-01 19:38:56,800 - INFO - Fetched 100 issues from page 4 of elastic/kibana
+2025-05-01 19:38:58,597 - INFO - Fetched 100 issues from page 5 of elastic/kibana
+2025-05-01 19:38:59,760 - INFO - Fetched 100 issues from page 6 of elastic/kibana
+2025-05-01 19:39:00,897 - INFO - Fetched 100 issues from page 7 of elastic/kibana
+2025-05-01 19:39:02,033 - INFO - Fetched 100 issues from page 8 of elastic/kibana
+2025-05-01 19:39:03,371 - INFO - Fetched 100 issues from page 9 of elastic/kibana
+2025-05-01 19:39:04,874 - INFO - Fetched 100 issues from page 10 of elastic/kibana
+2025-05-01 19:39:06,055 - INFO - Fetched 100 issues from page 11 of elastic/kibana
+2025-05-01 19:39:07,436 - INFO - Fetched 100 issues from page 12 of elastic/kibana
+2025-05-01 19:39:08,532 - INFO - Fetched 100 issues from page 13 of elastic/kibana
+2025-05-01 19:39:09,635 - INFO - Fetched 100 issues from page 14 of elastic/kibana
+2025-05-01 19:39:10,843 - INFO - Fetched 100 issues from page 15 of elastic/kibana
+2025-05-01 19:39:12,356 - INFO - Fetched 100 issues from page 16 of elastic/kibana
+2025-05-01 19:39:13,667 - INFO - Fetched 100 issues from page 17 of elastic/kibana
+2025-05-01 19:39:14,836 - INFO - Fetched 100 issues from page 18 of elastic/kibana
+2025-05-01 19:39:17,167 - INFO - Fetched 100 issues from page 19 of elastic/kibana
+2025-05-01 19:39:18,351 - INFO - Fetched 100 issues from page 20 of elastic/kibana
+2025-05-01 19:39:19,520 - INFO - Fetched 100 issues from page 21 of elastic/kibana
+2025-05-01 19:39:20,805 - INFO - Fetched 100 issues from page 22 of elastic/kibana
+2025-05-01 19:39:22,147 - INFO - Fetched 100 issues from page 23 of elastic/kibana
+2025-05-01 19:39:23,340 - INFO - Fetched 100 issues from page 24 of elastic/kibana
+2025-05-01 19:39:24,688 - INFO - Fetched 100 issues from page 25 of elastic/kibana
+2025-05-01 19:39:25,928 - INFO - Fetched 100 issues from page 26 of elastic/kibana
+2025-05-01 19:39:27,380 - INFO - Fetched 100 issues from page 27 of elastic/kibana
+2025-05-01 19:39:28,844 - INFO - Fetched 100 issues from page 28 of elastic/kibana
+2025-05-01 19:39:30,092 - INFO - Fetched 100 issues from page 29 of elastic/kibana
+2025-05-01 19:39:31,432 - INFO - Fetched 100 issues from page 30 of elastic/kibana
+2025-05-01 19:39:32,912 - INFO - Fetched 100 issues from page 31 of elastic/kibana
+2025-05-01 19:39:34,052 - INFO - Fetched 100 issues from page 32 of elastic/kibana
+2025-05-01 19:39:35,630 - INFO - Fetched 100 issues from page 33 of elastic/kibana
+2025-05-01 19:39:36,868 - INFO - Fetched 100 issues from page 34 of elastic/kibana
+2025-05-01 19:39:37,981 - INFO - Fetched 100 issues from page 35 of elastic/kibana
+2025-05-01 19:39:39,119 - INFO - Fetched 100 issues from page 36 of elastic/kibana
+2025-05-01 19:39:40,435 - INFO - Fetched 100 issues from page 37 of elastic/kibana
+2025-05-01 19:39:41,626 - INFO - Fetched 100 issues from page 38 of elastic/kibana
+2025-05-01 19:39:42,905 - INFO - Fetched 100 issues from page 39 of elastic/kibana
+2025-05-01 19:39:44,294 - INFO - Fetched 100 issues from page 40 of elastic/kibana
+2025-05-01 19:39:45,685 - INFO - Fetched 100 issues from page 41 of elastic/kibana
+2025-05-01 19:39:47,125 - INFO - Fetched 100 issues from page 42 of elastic/kibana
+2025-05-01 19:39:48,465 - INFO - Fetched 100 issues from page 43 of elastic/kibana
+2025-05-01 19:39:49,733 - INFO - Fetched 100 issues from page 44 of elastic/kibana
+2025-05-01 19:39:50,922 - INFO - Fetched 100 issues from page 45 of elastic/kibana
+2025-05-01 19:39:52,180 - INFO - Fetched 100 issues from page 46 of elastic/kibana
+2025-05-01 19:39:53,761 - INFO - Fetched 100 issues from page 47 of elastic/kibana
+2025-05-01 19:39:55,381 - INFO - Fetched 100 issues from page 48 of elastic/kibana
+2025-05-01 19:39:59,699 - INFO - Fetched 100 issues from page 49 of elastic/kibana
+2025-05-01 19:40:05,790 - INFO - Fetched 100 issues from page 50 of elastic/kibana
+2025-05-01 19:40:07,425 - INFO - Fetched 100 issues from page 51 of elastic/kibana
+2025-05-01 19:40:08,893 - INFO - Fetched 100 issues from page 52 of elastic/kibana
+2025-05-01 19:40:10,562 - INFO - Fetched 100 issues from page 53 of elastic/kibana
+2025-05-01 19:40:12,407 - INFO - Fetched 100 issues from page 54 of elastic/kibana
+2025-05-01 19:40:13,795 - INFO - Fetched 100 issues from page 55 of elastic/kibana
+2025-05-01 19:40:15,412 - INFO - Fetched 100 issues from page 56 of elastic/kibana
+2025-05-01 19:40:17,005 - INFO - Fetched 100 issues from page 57 of elastic/kibana
+2025-05-01 19:40:18,316 - INFO - Fetched 100 issues from page 58 of elastic/kibana
+2025-05-01 19:40:20,050 - INFO - Fetched 100 issues from page 59 of elastic/kibana
+2025-05-01 19:40:21,420 - INFO - Fetched 100 issues from page 60 of elastic/kibana
+2025-05-01 19:40:22,870 - INFO - Fetched 100 issues from page 61 of elastic/kibana
+2025-05-01 19:40:24,314 - INFO - Fetched 100 issues from page 62 of elastic/kibana
+2025-05-01 19:40:25,969 - INFO - Fetched 100 issues from page 63 of elastic/kibana
+2025-05-01 19:40:28,507 - INFO - Fetched 100 issues from page 64 of elastic/kibana
+2025-05-01 19:40:31,151 - INFO - Fetched 100 issues from page 65 of elastic/kibana
+2025-05-01 19:40:34,622 - INFO - Fetched 100 issues from page 66 of elastic/kibana
+2025-05-01 19:40:36,228 - INFO - Fetched 100 issues from page 67 of elastic/kibana
+2025-05-01 19:40:37,962 - INFO - Fetched 100 issues from page 68 of elastic/kibana
+2025-05-01 19:40:39,504 - INFO - Fetched 100 issues from page 69 of elastic/kibana
+2025-05-01 19:40:41,357 - INFO - Fetched 100 issues from page 70 of elastic/kibana
+2025-05-01 19:40:43,246 - INFO - Fetched 100 issues from page 71 of elastic/kibana
+2025-05-01 19:40:45,767 - INFO - Fetched 100 issues from page 72 of elastic/kibana
+2025-05-01 19:40:47,823 - INFO - Fetched 100 issues from page 73 of elastic/kibana
+2025-05-01 19:40:49,800 - INFO - Fetched 100 issues from page 74 of elastic/kibana
+2025-05-01 19:40:51,694 - INFO - Fetched 100 issues from page 75 of elastic/kibana
+2025-05-01 19:40:53,692 - INFO - Fetched 100 issues from page 76 of elastic/kibana
+2025-05-01 19:40:55,188 - INFO - Fetched 100 issues from page 77 of elastic/kibana
+2025-05-01 19:40:56,552 - INFO - Fetched 100 issues from page 78 of elastic/kibana
+2025-05-01 19:40:57,856 - INFO - Fetched 100 issues from page 79 of elastic/kibana
+2025-05-01 19:40:59,146 - INFO - Fetched 100 issues from page 80 of elastic/kibana
+2025-05-01 19:41:00,760 - INFO - Fetched 100 issues from page 81 of elastic/kibana
+2025-05-01 19:41:02,015 - INFO - Fetched 100 issues from page 82 of elastic/kibana
+2025-05-01 19:41:03,365 - INFO - Fetched 100 issues from page 83 of elastic/kibana
+2025-05-01 19:41:04,734 - INFO - Fetched 100 issues from page 84 of elastic/kibana
+2025-05-01 19:41:06,102 - INFO - Fetched 100 issues from page 85 of elastic/kibana
+2025-05-01 19:41:07,394 - INFO - Fetched 100 issues from page 86 of elastic/kibana
+2025-05-01 19:41:08,620 - INFO - Fetched 100 issues from page 87 of elastic/kibana
+2025-05-01 19:41:10,147 - INFO - Fetched 100 issues from page 88 of elastic/kibana
+2025-05-01 19:41:11,403 - INFO - Fetched 100 issues from page 89 of elastic/kibana
+2025-05-01 19:41:12,712 - INFO - Fetched 100 issues from page 90 of elastic/kibana
+2025-05-01 19:41:14,151 - INFO - Fetched 100 issues from page 91 of elastic/kibana
+2025-05-01 19:41:15,573 - INFO - Fetched 100 issues from page 92 of elastic/kibana
+2025-05-01 19:41:16,856 - INFO - Fetched 100 issues from page 93 of elastic/kibana
+2025-05-01 19:41:18,035 - INFO - Fetched 100 issues from page 94 of elastic/kibana
+2025-05-01 19:41:19,332 - INFO - Fetched 100 issues from page 95 of elastic/kibana
+2025-05-01 19:41:20,436 - INFO - Fetched 100 issues from page 96 of elastic/kibana
+2025-05-01 19:41:21,973 - INFO - Fetched 100 issues from page 97 of elastic/kibana
+2025-05-01 19:41:23,414 - INFO - Fetched 100 issues from page 98 of elastic/kibana
+2025-05-01 19:41:24,772 - INFO - Fetched 100 issues from page 99 of elastic/kibana
+2025-05-01 19:41:24,773 - INFO - Total issues fetched: 9900
+2025-05-01 19:41:24,774 - INFO - Saving 9900 issues for repository elastic/kibana
+2025-05-01 19:41:26,320 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:27,259 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:27,667 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:28,585 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:29,504 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:29,949 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:30,391 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:31,390 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:32,483 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:33,030 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:34,087 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:34,535 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:35,429 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:36,343 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:36,758 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:37,799 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:38,299 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:41:42,595 - INFO - LLM Full Response: [{'summary_text': 'Kibana: Adding Notifications to Kibana'}]
+2025-05-01 19:41:42,596 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Kibana: Adding Notifications to Kibana'}]
+2025-05-01 19:41:47,368 - INFO - LLM Full Response: [{'summary_text': 'The following documentation is intended for use by developers working with theelastic package.'}]
+2025-05-01 19:41:47,369 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following documentation is intended for use by developers working with theelastic package.'}]
+2025-05-01 19:41:48,253 - INFO - LLM Full Response: [{'summary_text': 'The following documentation is intended for use by developers working with theelastic package.'}]
+2025-05-01 19:41:48,254 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following documentation is intended for use by developers working with theelastic package.'}]
+2025-05-01 19:41:52,011 - INFO - LLM Full Response: [{'summary_text': 'This PR is part of a larger icon redesign effort related to the Visual Refresh effort.'}]
+2025-05-01 19:41:52,014 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR is part of a larger icon redesign effort related to the Visual Refresh effort.'}]
+2025-05-01 19:42:00,636 - INFO - LLM Full Response: [{'summary_text': "We're backporting the following commits from mainelastic/response-ops-team/issues/320nnPartial revert PR 209025 (#219793)nnWork-around for https://elastic.com/response-ops-team/issues/320"}]
+2025-05-01 19:42:00,637 - ERROR - Unexpected LLM response structure: [{'summary_text': "We're backporting the following commits from mainelastic/response-ops-team/issues/320nnPartial revert PR 209025 (#219793)nnWork-around for https://elastic.com/response-ops-team/issues/320"}]
+2025-05-01 19:42:10,499 - INFO - LLM Full Response: [{'summary_text': "We're backporting the following commits from mainelastic to 8.19:"}]
+2025-05-01 19:42:10,499 - ERROR - Unexpected LLM response structure: [{'summary_text': "We're backporting the following commits from mainelastic to 8.19:"}]
+2025-05-01 19:42:19,456 - INFO - LLM Full Response: [{'summary_text': 'This release partially reverts the following commits from mainelastic to 8.18:'}]
+2025-05-01 19:42:19,457 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This release partially reverts the following commits from mainelastic to 8.18:'}]
+2025-05-01 19:42:22,793 - INFO - LLM Full Response: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from the git repository.'}]
+2025-05-01 19:42:22,793 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from the git repository.'}]
+2025-05-01 19:42:27,275 - INFO - LLM Full Response: [{'summary_text': 'A new version of the Kibanaelastic Lock Manager has been released.'}]
+2025-05-01 19:42:27,276 - ERROR - Unexpected LLM response structure: [{'summary_text': 'A new version of the Kibanaelastic Lock Manager has been released.'}]
+2025-05-01 19:42:36,712 - INFO - LLM Full Response: [{'summary_text': 'Backport version: 9.6.6'}]
+2025-05-01 19:42:36,712 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Backport version: 9.6.6'}]
+2025-05-01 19:42:40,583 - INFO - LLM Full Response: [{'summary_text': 'Some changes to the AI4DSOC alert flyout code:'}]
+2025-05-01 19:42:40,583 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Some changes to the AI4DSOC alert flyout code:'}]
+2025-05-01 19:42:42,856 - INFO - LLM Full Response: [{'summary_text': 'How would you describe the use of observables in security investigations?'}]
+2025-05-01 19:42:42,857 - ERROR - Unexpected LLM response structure: [{'summary_text': 'How would you describe the use of observables in security investigations?'}]
+2025-05-01 19:42:47,214 - INFO - LLM Full Response: [{'summary_text': 'In this course, you will learn how to add Elastic Security Cases to your web application.'}]
+2025-05-01 19:42:47,215 - ERROR - Unexpected LLM response structure: [{'summary_text': 'In this course, you will learn how to add Elastic Security Cases to your web application.'}]
+2025-05-01 19:42:55,886 - INFO - LLM Full Response: [{'summary_text': 'A test failed on a tracked branch  Error: retry.try reached 120000 ms TimeoutError: Waiting for element to be located'}]
+2025-05-01 19:42:55,887 - ERROR - Unexpected LLM response structure: [{'summary_text': 'A test failed on a tracked branch  Error: retry.try reached 120000 ms TimeoutError: Waiting for element to be located'}]
+2025-05-01 19:43:00,510 - INFO - LLM Full Response: [{'summary_text': 'Key features:'}]
+2025-05-01 19:43:00,511 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Key features:'}]
+2025-05-01 19:43:03,888 - INFO - LLM Full Response: [{'summary_text': "Kibana 8.18 Adding security cases' path throws if the field contains a space or a dash, like:"}]
+2025-05-01 19:43:03,889 - ERROR - Unexpected LLM response structure: [{'summary_text': "Kibana 8.18 Adding security cases' path throws if the field contains a space or a dash, like:"}]
+2025-05-01 19:43:07,673 - INFO - LLM Full Response: [{'summary_text': 'Details of the following:'}]
+2025-05-01 19:43:07,676 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Details of the following:'}]
+2025-05-01 19:43:11,868 - INFO - LLM Full Response: [{'summary_text': 'This release extends the current alerts API test to check for retrieved alerts and their content.'}]
+2025-05-01 19:43:11,870 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This release extends the current alerts API test to check for retrieved alerts and their content.'}]
+2025-05-01 19:43:16,845 - INFO - LLM Full Response: [{'summary_text': 'Backport version: 9.6.6'}]
+2025-05-01 19:43:16,845 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Backport version: 9.6.6'}]
+2025-05-01 19:43:21,400 - INFO - LLM Full Response: [{'summary_text': 'Backport version: 9.6.6'}]
+2025-05-01 19:43:21,404 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Backport version: 9.6.6'}]
+2025-05-01 19:43:24,134 - INFO - LLM Full Response: [{'summary_text': "Kibana'selastic framework is now fully embeddable."}]
+2025-05-01 19:43:24,135 - ERROR - Unexpected LLM response structure: [{'summary_text': "Kibana'selastic framework is now fully embeddable."}]
+2025-05-01 19:43:28,940 - INFO - LLM Full Response: [{'summary_text': 'The latest version of theelastic webpack has been released.'}]
+2025-05-01 19:43:28,940 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The latest version of theelastic webpack has been released.'}]
+2025-05-01 19:43:29,496 - INFO - LLM Full Response: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from the git repository.'}]
+2025-05-01 19:43:29,497 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from the git repository.'}]
+2025-05-01 19:43:33,271 - INFO - LLM Full Response: [{'summary_text': 'When a Maintenance Window (MW) expires, actions for the maintenance alerts should not be triggered while the MW is active.'}]
+2025-05-01 19:43:33,277 - ERROR - Unexpected LLM response structure: [{'summary_text': 'When a Maintenance Window (MW) expires, actions for the maintenance alerts should not be triggered while the MW is active.'}]
+2025-05-01 19:43:36,114 - INFO - LLM Full Response: [{'summary_text': 'How would you like to see what services are running on the host?'}]
+2025-05-01 19:43:36,114 - ERROR - Unexpected LLM response structure: [{'summary_text': 'How would you like to see what services are running on the host?'}]
+2025-05-01 19:43:40,469 - INFO - LLM Full Response: [{'summary_text': 'The following is a guide to writing a press release:'}]
+2025-05-01 19:43:40,470 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following is a guide to writing a press release:'}]
+2025-05-01 19:43:49,362 - INFO - LLM Full Response: [{'summary_text': '# Backport This will backport the following commits from main to 8.16: - [chore(NA): replaces native-hdr-histogram with hdr-histogram-js (#216715) - [chore(NA): replaces native-hd'}]
+2025-05-01 19:43:49,362 - ERROR - Unexpected LLM response structure: [{'summary_text': '# Backport This will backport the following commits from main to 8.16: - [chore(NA): replaces native-hdr-histogram with hdr-histogram-js (#216715) - [chore(NA): replaces native-hd'}]
+2025-05-01 19:43:55,350 - INFO - LLM Full Response: [{'summary_text': 'elastic-response-ops-team-issues-320'}]
+2025-05-01 19:43:55,351 - ERROR - Unexpected LLM response structure: [{'summary_text': 'elastic-response-ops-team-issues-320'}]
+2025-05-01 19:43:58,519 - INFO - LLM Full Response: [{'summary_text': 'How can I resolve this issue?'}]
+2025-05-01 19:43:58,521 - ERROR - Unexpected LLM response structure: [{'summary_text': 'How can I resolve this issue?'}]
+2025-05-01 19:44:03,646 - INFO - LLM Full Response: [{'summary_text': 'This is the latest release of the Kibanaelastic security tool.'}]
+2025-05-01 19:44:03,647 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This is the latest release of the Kibanaelastic security tool.'}]
+2025-05-01 19:44:05,675 - INFO - LLM Full Response: [{'summary_text': '.'}]
+2025-05-01 19:44:05,676 - ERROR - Unexpected LLM response structure: [{'summary_text': '.'}]
+2025-05-01 19:44:09,200 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been backed up to version 96.6 of the Elastic Beanstalk.'}]
+2025-05-01 19:44:09,201 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been backed up to version 96.6 of the Elastic Beanstalk.'}]
+2025-05-01 19:44:12,721 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been backed up to version 96.6 of the Elastic Beanstalk.'}]
+2025-05-01 19:44:12,722 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been backed up to version 96.6 of the Elastic Beanstalk.'}]
+2025-05-01 19:44:16,982 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been backed up to version 96.6 of the Elastic Beanstalk.'}]
+2025-05-01 19:44:16,983 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been backed up to version 96.6 of the Elastic Beanstalk.'}]
+2025-05-01 19:44:21,294 - INFO - LLM Full Response: [{'summary_text': 'Details of this release are as follows:'}]
+2025-05-01 19:44:21,294 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Details of this release are as follows:'}]
+2025-05-01 19:44:31,438 - INFO - LLM Full Response: [{'summary_text': 'Updates the internal reporting health API from https://elastic.com/kibana/pull/216857 to return whether the notification email service is available.'}]
+2025-05-01 19:44:31,439 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Updates the internal reporting health API from https://elastic.com/kibana/pull/216857 to return whether the notification email service is available.'}]
+2025-05-01 19:44:31,940 - INFO - LLM Full Response: [{'summary_text': 'The following documentation is intended for use by developers working with theelastic package.'}]
+2025-05-01 19:44:31,951 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following documentation is intended for use by developers working with theelastic package.'}]
+2025-05-01 19:44:35,101 - INFO - LLM Full Response: [{'summary_text': 'A bug has been found in the Google Analytics dashboard that prevents users from changing the data they see on the dashboard.'}]
+2025-05-01 19:44:35,102 - ERROR - Unexpected LLM response structure: [{'summary_text': 'A bug has been found in the Google Analytics dashboard that prevents users from changing the data they see on the dashboard.'}]
+2025-05-01 19:44:35,564 - INFO - LLM Full Response: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from the git repository.'}]
+2025-05-01 19:44:35,566 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR updates the function definitions and inline docs based on the latest metadata from the git repository.'}]
+2025-05-01 19:44:38,371 - INFO - LLM Full Response: [{'summary_text': 'We want to make it easier to find out when alerts have been updated.'}]
+2025-05-01 19:44:38,371 - ERROR - Unexpected LLM response structure: [{'summary_text': 'We want to make it easier to find out when alerts have been updated.'}]
+2025-05-01 19:44:44,729 - INFO - LLM Full Response: [{'summary_text': 'We’d like to explore the possibility of opening a new flyout with error/exception details when users click a “related error” link from the waterfall view.'}]
+2025-05-01 19:44:44,729 - ERROR - Unexpected LLM response structure: [{'summary_text': 'We’d like to explore the possibility of opening a new flyout with error/exception details when users click a “related error” link from the waterfall view.'}]
+2025-05-01 19:44:49,821 - INFO - LLM Full Response: [{'summary_text': 'This issue has been reported on theelastic forums.'}]
+2025-05-01 19:44:49,834 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This issue has been reported on theelastic forums.'}]
+2025-05-01 19:44:53,846 - INFO - LLM Full Response: [{'summary_text': 'This PR is intended for internal use only.'}]
+2025-05-01 19:44:53,847 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR is intended for internal use only.'}]
+2025-05-01 19:44:58,163 - INFO - LLM Full Response: [{'summary_text': 'We’d like to make untenKnownApmEventFields available for use in Discover.'}]
+2025-05-01 19:44:58,165 - ERROR - Unexpected LLM response structure: [{'summary_text': 'We’d like to make untenKnownApmEventFields available for use in Discover.'}]
+2025-05-01 19:45:01,050 - INFO - LLM Full Response: [{'summary_text': 'This release fixes two issues with Kibana.'}]
+2025-05-01 19:45:01,051 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This release fixes two issues with Kibana.'}]
+2025-05-01 19:45:10,291 - INFO - LLM Full Response: [{'summary_text': "I'm looking for your feedback on the use of decimal ordinal suffixes in kibana."}]
+2025-05-01 19:45:10,292 - ERROR - Unexpected LLM response structure: [{'summary_text': "I'm looking for your feedback on the use of decimal ordinal suffixes in kibana."}]
+2025-05-01 19:45:20,794 - INFO - LLM Full Response: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:45:20,795 - ERROR - Unexpected LLM response structure: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:45:25,828 - INFO - LLM Full Response: [{'summary_text': 'A bug has been discovered in the Discover dashboard that causes the Discover session badge to not appear when adding, modifying, or deleting a drilldown.'}]
+2025-05-01 19:45:25,829 - ERROR - Unexpected LLM response structure: [{'summary_text': 'A bug has been discovered in the Discover dashboard that causes the Discover session badge to not appear when adding, modifying, or deleting a drilldown.'}]
+2025-05-01 19:45:33,108 - INFO - LLM Full Response: [{'summary_text': 'This is the latest release of the Elastic Beanstalk package.'}]
+2025-05-01 19:45:33,109 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This is the latest release of the Elastic Beanstalk package.'}]
+2025-05-01 19:45:38,241 - INFO - LLM Full Response: [{'summary_text': 'A new schedule API for generating reports has been added to Kibana.'}]
+2025-05-01 19:45:38,243 - ERROR - Unexpected LLM response structure: [{'summary_text': 'A new schedule API for generating reports has been added to Kibana.'}]
+2025-05-01 19:45:42,068 - INFO - LLM Full Response: [{'summary_text': '.'}]
+2025-05-01 19:45:42,069 - ERROR - Unexpected LLM response structure: [{'summary_text': '.'}]
+2025-05-01 19:45:47,041 - INFO - LLM Full Response: [{'summary_text': 'An example of an automatic migration task evaluation API.'}]
+2025-05-01 19:45:47,041 - ERROR - Unexpected LLM response structure: [{'summary_text': 'An example of an automatic migration task evaluation API.'}]
+2025-05-01 19:45:50,906 - INFO - LLM Full Response: [{'summary_text': 'Elastic Beanstalk 8.18.1 release notes'}]
+2025-05-01 19:45:50,908 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Elastic Beanstalk 8.18.1 release notes'}]
+2025-05-01 19:45:58,679 - INFO - LLM Full Response: [{'summary_text': 'Infra-kibana has released a new release of itselastic package storage.'}]
+2025-05-01 19:45:58,682 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Infra-kibana has released a new release of itselastic package storage.'}]
+2025-05-01 19:46:00,604 - INFO - LLM Full Response: [{'summary_text': 'Infra-kibana has released a new release of itselastic package storage.'}]
+2025-05-01 19:46:00,605 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Infra-kibana has released a new release of itselastic package storage.'}]
+2025-05-01 19:46:02,046 - INFO - LLM Full Response: [{'summary_text': 'Infra-kibana has released a new release of itselastic package storage.'}]
+2025-05-01 19:46:02,046 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Infra-kibana has released a new release of itselastic package storage.'}]
+2025-05-01 19:46:05,704 - INFO - LLM Full Response: [{'summary_text': 'Tests are failing on both stateful and serverless because LLMs are mocked.'}]
+2025-05-01 19:46:05,704 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Tests are failing on both stateful and serverless because LLMs are mocked.'}]
+2025-05-01 19:46:14,262 - INFO - LLM Full Response: [{'summary_text': 'Fix Span Links flyout error (Error message: None of /services/serviceName/transactions/view, /mobile-services/serviceName/transactions/view match current path /traces/explorer/waterfall) in Trace Explorer'}]
+2025-05-01 19:46:14,263 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Fix Span Links flyout error (Error message: None of /services/serviceName/transactions/view, /mobile-services/serviceName/transactions/view match current path /traces/explorer/waterfall) in Trace Explorer'}]
+2025-05-01 19:46:18,968 - INFO - LLM Full Response: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:46:18,969 - ERROR - Unexpected LLM response structure: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:46:24,732 - INFO - LLM Full Response: [{'summary_text': 'Changes to the ImportDataModal component to make it more user-friendly.'}]
+2025-05-01 19:46:24,765 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Changes to the ImportDataModal component to make it more user-friendly.'}]
+2025-05-01 19:46:31,906 - INFO - LLM Full Response: [{'summary_text': 'A test failed on a tracked branch  Error: expected 3 to equal 2 at227assert (expect.js:100:11) atelasticcution (node:internal/process/task_integration:95:5) at processTicksAndRejections (node:internal/process/task_integration'}]
+2025-05-01 19:46:31,906 - ERROR - Unexpected LLM response structure: [{'summary_text': 'A test failed on a tracked branch  Error: expected 3 to equal 2 at227assert (expect.js:100:11) atelasticcution (node:internal/process/task_integration:95:5) at processTicksAndRejections (node:internal/process/task_integration'}]
+2025-05-01 19:46:39,374 - INFO - LLM Full Response: [{'summary_text': 'Backport version: 96.6'}]
+2025-05-01 19:46:39,375 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Backport version: 96.6'}]
+2025-05-01 19:46:45,508 - INFO - LLM Full Response: [{'summary_text': 'Backport is a tool that allows you to backport your code to another machine.'}]
+2025-05-01 19:46:45,509 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Backport is a tool that allows you to backport your code to another machine.'}]
+2025-05-01 19:46:51,926 - INFO - LLM Full Response: [{'summary_text': 'This release ofelastic introduces a new field to the cases object and introduces the new "id incrementer" saved object.'}]
+2025-05-01 19:46:51,926 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This release ofelastic introduces a new field to the cases object and introduces the new "id incrementer" saved object.'}]
+2025-05-01 19:46:52,794 - INFO - LLM Full Response: [{'summary_text': 'This PR is intended for internal use only.'}]
+2025-05-01 19:46:52,796 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR is intended for internal use only.'}]
+2025-05-01 19:47:01,834 - INFO - LLM Full Response: [{'summary_text': 'Adds the ability to switch between relative and absolute time ranges.'}]
+2025-05-01 19:47:01,842 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Adds the ability to switch between relative and absolute time ranges.'}]
+2025-05-01 19:47:03,777 - INFO - LLM Full Response: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:47:03,781 - ERROR - Unexpected LLM response structure: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:47:06,789 - INFO - LLM Full Response: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:47:06,790 - ERROR - Unexpected LLM response structure: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:47:10,478 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been backed up to version 96.61971963.'}]
+2025-05-01 19:47:10,503 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been backed up to version 96.61971963.'}]
+2025-05-01 19:47:14,394 - INFO - LLM Full Response: [{'summary_text': 'Is there a way to remove some of the custom styles in Kibana?'}]
+2025-05-01 19:47:14,395 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Is there a way to remove some of the custom styles in Kibana?'}]
+2025-05-01 19:47:18,963 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been pulled from the git repository.'}]
+2025-05-01 19:47:18,964 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been pulled from the git repository.'}]
+2025-05-01 19:47:22,895 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been published to the Git repository:'}]
+2025-05-01 19:47:22,896 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been published to the Git repository:'}]
+2025-05-01 19:47:28,756 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been published to the Git repository:'}]
+2025-05-01 19:47:28,758 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been published to the Git repository:'}]
+2025-05-01 19:47:31,165 - INFO - LLM Full Response: [{'summary_text': 'This PR uses the lock manager service to allow concurrent installation of the SLO resources.'}]
+2025-05-01 19:47:31,166 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR uses the lock manager service to allow concurrent installation of the SLO resources.'}]
+2025-05-01 19:47:34,250 - INFO - LLM Full Response: [{'summary_text': 'Kibana does not support ESM yet.'}]
+2025-05-01 19:47:34,251 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Kibana does not support ESM yet.'}]
+2025-05-01 19:47:40,218 - INFO - LLM Full Response: [{'summary_text': 'This PR resolvesSecurity:Rules:Detection Rules: Anmaly threshold is missing an accessible label on create rule of machine learning type panel.'}]
+2025-05-01 19:47:40,219 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR resolvesSecurity:Rules:Detection Rules: Anmaly threshold is missing an accessible label on create rule of machine learning type panel.'}]
+2025-05-01 19:47:44,977 - INFO - LLM Full Response: [{'summary_text': 'We need to add dynamic search for entity related insights.'}]
+2025-05-01 19:47:44,977 - ERROR - Unexpected LLM response structure: [{'summary_text': 'We need to add dynamic search for entity related insights.'}]
+2025-05-01 19:47:49,879 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been released to the Git repository:'}]
+2025-05-01 19:47:49,881 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been released to the Git repository:'}]
+2025-05-01 19:47:54,464 - INFO - LLM Full Response: [{'summary_text': 'This PR resolves an issue that caused the following:'}]
+2025-05-01 19:47:54,465 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This PR resolves an issue that caused the following:'}]
+2025-05-01 19:48:02,329 - INFO - LLM Full Response: [{'summary_text': "In this post I'm going to show you how to fix an issue where the help text does not show the validation done at the package policy level."}]
+2025-05-01 19:48:02,330 - ERROR - Unexpected LLM response structure: [{'summary_text': "In this post I'm going to show you how to fix an issue where the help text does not show the validation done at the package policy level."}]
+2025-05-01 19:48:02,814 - INFO - LLM Full Response: [{'summary_text': 'The following documentation is intended for use by developers working with theelastic package.'}]
+2025-05-01 19:48:02,817 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following documentation is intended for use by developers working with theelastic package.'}]
+2025-05-01 19:48:06,729 - INFO - LLM Full Response: [{'summary_text': 'Kibana has been upgraded to version 102.0.0.'}]
+2025-05-01 19:48:06,730 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Kibana has been upgraded to version 102.0.0.'}]
+2025-05-01 19:48:08,783 - INFO - LLM Full Response: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:48:08,784 - ERROR - Unexpected LLM response structure: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:48:12,620 - INFO - LLM Full Response: [{'summary_text': 'BBC Sport takes a look at some of the key statistics behind the Rugby World Cup.'}]
+2025-05-01 19:48:12,621 - ERROR - Unexpected LLM response structure: [{'summary_text': 'BBC Sport takes a look at some of the key statistics behind the Rugby World Cup.'}]
+2025-05-01 19:48:16,492 - INFO - LLM Full Response: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:48:16,493 - ERROR - Unexpected LLM response structure: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:48:19,510 - INFO - LLM Full Response: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:48:19,512 - ERROR - Unexpected LLM response structure: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:48:22,086 - INFO - LLM Full Response: [{'summary_text': 'Kibana 9.0.1 is now available onelastic.'}]
+2025-05-01 19:48:22,087 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Kibana 9.0.1 is now available onelastic.'}]
+2025-05-01 19:48:25,916 - INFO - LLM Full Response: [{'summary_text': 'How do I get an alert to send me an email when I’m not receiving it?'}]
+2025-05-01 19:48:25,917 - ERROR - Unexpected LLM response structure: [{'summary_text': 'How do I get an alert to send me an email when I’m not receiving it?'}]
+2025-05-01 19:48:28,655 - INFO - LLM Full Response: [{'summary_text': "I'm having an issue with my chat app."}]
+2025-05-01 19:48:28,655 - ERROR - Unexpected LLM response structure: [{'summary_text': "I'm having an issue with my chat app."}]
+2025-05-01 19:48:31,704 - INFO - LLM Full Response: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:48:31,705 - ERROR - Unexpected LLM response structure: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:48:34,821 - INFO - LLM Full Response: [{'summary_text': 'Is there a way to prevent task types from being excluded from running?'}]
+2025-05-01 19:48:34,822 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Is there a way to prevent task types from being excluded from running?'}]
+2025-05-01 19:48:39,270 - INFO - LLM Full Response: [{'summary_text': "The UK's National Institute of Standards and Technology (NIST) has published a new set of backport requirements for the UK's National Health Service (NHS)."}]
+2025-05-01 19:48:39,270 - ERROR - Unexpected LLM response structure: [{'summary_text': "The UK's National Institute of Standards and Technology (NIST) has published a new set of backport requirements for the UK's National Health Service (NHS)."}]
+2025-05-01 19:48:43,152 - INFO - LLM Full Response: [{'summary_text': 'Team:AI Infra'}]
+2025-05-01 19:48:43,153 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Team:AI Infra'}]
+2025-05-01 19:48:46,249 - INFO - LLM Full Response: [{'summary_text': 'Team:AI Infra'}]
+2025-05-01 19:48:46,250 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Team:AI Infra'}]
+2025-05-01 19:48:50,334 - INFO - LLM Full Response: [{'summary_text': 'Team:AI Infra'}]
+2025-05-01 19:48:50,335 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Team:AI Infra'}]
+2025-05-01 19:48:57,872 - INFO - LLM Full Response: [{'summary_text': 'The following changes have been made to the e-types package.'}]
+2025-05-01 19:48:57,872 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following changes have been made to the e-types package.'}]
+2025-05-01 19:49:02,494 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been released for Elastic Machine 8.'}]
+2025-05-01 19:49:02,495 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been released for Elastic Machine 8.'}]
+2025-05-01 19:49:06,925 - INFO - LLM Full Response: [{'summary_text': 'Details of this release are as follows:'}]
+2025-05-01 19:49:06,926 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Details of this release are as follows:'}]
+2025-05-01 19:49:12,803 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been made to the latest release of the FIPS-agent tool.'}]
+2025-05-01 19:49:12,804 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been made to the latest release of the FIPS-agent tool.'}]
+2025-05-01 19:49:17,149 - INFO - LLM Full Response: [{'summary_text': "Kibana's global execution summary endpoint has been backported to version 96.6 of the tool."}]
+2025-05-01 19:49:17,150 - ERROR - Unexpected LLM response structure: [{'summary_text': "Kibana's global execution summary endpoint has been backported to version 96.6 of the tool."}]
+2025-05-01 19:49:23,685 - INFO - LLM Full Response: [{'summary_text': 'Kibana users are unable to drop fields from the left side of the query builder and drag values from the timeline table into the query builder.'}]
+2025-05-01 19:49:23,686 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Kibana users are unable to drop fields from the left side of the query builder and drag values from the timeline table into the query builder.'}]
+2025-05-01 19:49:24,266 - INFO - LLM Full Response: [{'summary_text': "Kibana's global execution summary endpoint has been backported to version 96.6 of the tool."}]
+2025-05-01 19:49:24,266 - ERROR - Unexpected LLM response structure: [{'summary_text': "Kibana's global execution summary endpoint has been backported to version 96.6 of the tool."}]
+2025-05-01 19:49:28,973 - INFO - LLM Full Response: [{'summary_text': 'Backport version: 9.6.6'}]
+2025-05-01 19:49:28,974 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Backport version: 9.6.6'}]
+2025-05-01 19:49:36,143 - INFO - LLM Full Response: [{'summary_text': 'The following changes have been made toelastic to make it easier to report the number of frozen indices during rule execution.'}]
+2025-05-01 19:49:36,144 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following changes have been made toelastic to make it easier to report the number of frozen indices during rule execution.'}]
+2025-05-01 19:49:40,080 - INFO - LLM Full Response: [{'summary_text': 'Backport version: 9.6.6'}]
+2025-05-01 19:49:40,080 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Backport version: 9.6.6'}]
+2025-05-01 19:49:48,529 - INFO - LLM Full Response: [{'summary_text': 'Backport version: 9.6.6'}]
+2025-05-01 19:49:48,530 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Backport version: 9.6.6'}]
+2025-05-01 19:49:52,886 - INFO - LLM Full Response: [{'summary_text': 'Kibana 9.6.1 - Backport version: 96.6'}]
+2025-05-01 19:49:52,887 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Kibana 9.6.1 - Backport version: 96.6'}]
+2025-05-01 19:50:15,161 - INFO - LLM Full Response: [{'summary_text': 'APM Cypress.x-pack/observability/ APM Cypress.x-pack/observability/ APM Cypress.x-pack/observability/ APM Cypress.x-pack/observability/ APM Cypress.x-pack/observability/ APM'}]
+2025-05-01 19:50:15,162 - ERROR - Unexpected LLM response structure: [{'summary_text': 'APM Cypress.x-pack/observability/ APM Cypress.x-pack/observability/ APM Cypress.x-pack/observability/ APM Cypress.x-pack/observability/ APM Cypress.x-pack/observability/ APM'}]
+2025-05-01 19:50:28,872 - INFO - LLM Full Response: [{'summary_text': "A test failed on a tracked branch ENVIRONMENTError: expected 'http://internal/apm/services?environment=all&kuery=&start=2021-10-10T00%3A00%3AZ&end=2021-10-10T00%3AZ' at Context."}]
+2025-05-01 19:50:28,872 - ERROR - Unexpected LLM response structure: [{'summary_text': "A test failed on a tracked branch ENVIRONMENTError: expected 'http://internal/apm/services?environment=all&kuery=&start=2021-10-10T00%3A00%3AZ&end=2021-10-10T00%3AZ' at Context."}]
+2025-05-01 19:50:32,754 - INFO - LLM Full Response: [{'summary_text': 'Details below:'}]
+2025-05-01 19:50:32,755 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Details below:'}]
+2025-05-01 19:50:36,271 - INFO - LLM Full Response: [{'summary_text': 'Key features:'}]
+2025-05-01 19:50:36,272 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Key features:'}]
+2025-05-01 19:51:34,421 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been added to theelastic-ux-management repository.'}]
+2025-05-01 19:51:34,422 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been added to theelastic-ux-management repository.'}]
+2025-05-01 19:51:39,059 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been added to theelastic-ux-management repository.'}]
+2025-05-01 19:51:39,060 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been added to theelastic-ux-management repository.'}]
+2025-05-01 19:51:40,632 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:41,114 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:41,635 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:43,573 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:44,525 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:45,057 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:45,517 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:46,484 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:47,450 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:47,946 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:48,883 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:49,310 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:49,747 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:50,320 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:50,935 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:51,864 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:52,730 - ERROR - Error analyzing issue with LLM: 503 Server Error: Service Temporarily Unavailable for url: https://api-inference.huggingface.co/models/google/pegasus-xsum
+2025-05-01 19:51:57,903 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been published to the Git repository:'}]
+2025-05-01 19:51:57,909 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been published to the Git repository:'}]
+2025-05-01 19:52:02,619 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been published to the Git repository:'}]
+2025-05-01 19:52:02,620 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been published to the Git repository:'}]
+2025-05-01 19:52:06,829 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been published to the Git repository:'}]
+2025-05-01 19:52:06,831 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been published to the Git repository:'}]
+2025-05-01 19:52:10,701 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been released toelastic.com.'}]
+2025-05-01 19:52:10,701 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been released toelastic.com.'}]
+2025-05-01 19:52:20,283 - INFO - LLM Full Response: [{'summary_text': 'This guide will show you how to remove the Security classic navigation and clean all the related code.'}]
+2025-05-01 19:52:20,284 - ERROR - Unexpected LLM response structure: [{'summary_text': 'This guide will show you how to remove the Security classic navigation and clean all the related code.'}]
+2025-05-01 19:52:23,845 - INFO - LLM Full Response: [{'summary_text': 'We want to make it easier to share between tests and functional tests.'}]
+2025-05-01 19:52:23,850 - ERROR - Unexpected LLM response structure: [{'summary_text': 'We want to make it easier to share between tests and functional tests.'}]
+2025-05-01 19:52:24,338 - INFO - LLM Full Response: [{'summary_text': 'The following documentation is intended for use by developers working with theelastic package.'}]
+2025-05-01 19:52:24,340 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following documentation is intended for use by developers working with theelastic package.'}]
+2025-05-01 19:52:28,227 - INFO - LLM Full Response: [{'summary_text': 'Backport is a tool for creating and managing anomaly detection jobs.'}]
+2025-05-01 19:52:28,356 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Backport is a tool for creating and managing anomaly detection jobs.'}]
+2025-05-01 19:52:34,701 - INFO - LLM Full Response: [{'summary_text': '!--ONMERGE!--ONMERGE!--ONMERGE!--ONMERGE!--ONMERGE!--ONMERGE!--ONMERGE!--ONMERGE!--ON'}]
+2025-05-01 19:52:34,702 - ERROR - Unexpected LLM response structure: [{'summary_text': '!--ONMERGE!--ONMERGE!--ONMERGE!--ONMERGE!--ONMERGE!--ONMERGE!--ONMERGE!--ONMERGE!--ON'}]
+2025-05-01 19:52:38,423 - INFO - LLM Full Response: [{'summary_text': 'New saved object mapping for Monitoring Entity Source Configurations to support Privileged User Monitoring.'}]
+2025-05-01 19:52:38,424 - ERROR - Unexpected LLM response structure: [{'summary_text': 'New saved object mapping for Monitoring Entity Source Configurations to support Privileged User Monitoring.'}]
+2025-05-01 19:52:46,461 - INFO - LLM Full Response: [{'summary_text': 'Kibana does not open a new tab when CMD-clicks on menu items in solution-view left-hand navigation.'}]
+2025-05-01 19:52:46,461 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Kibana does not open a new tab when CMD-clicks on menu items in solution-view left-hand navigation.'}]
+2025-05-01 19:52:50,573 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been released:'}]
+2025-05-01 19:52:50,574 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been released:'}]
+2025-05-01 19:52:55,659 - INFO - LLM Full Response: [{'summary_text': 'Backport is a tool that allows you to create and manage anomaly detection jobs.'}]
+2025-05-01 19:52:55,660 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Backport is a tool that allows you to create and manage anomaly detection jobs.'}]
+2025-05-01 19:53:01,587 - INFO - LLM Full Response: [{'summary_text': 'Backport is a tool that allows you to create and manage anomaly detection jobs.'}]
+2025-05-01 19:53:01,588 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Backport is a tool that allows you to create and manage anomaly detection jobs.'}]
+2025-05-01 19:53:04,019 - INFO - LLM Full Response: [{'summary_text': 'Fix params sharing, added a unit test for the change !!'}]
+2025-05-01 19:53:04,021 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Fix params sharing, added a unit test for the change !!'}]
+2025-05-01 19:53:08,357 - INFO - LLM Full Response: [{'summary_text': 'The following documentation is intended for use by developers working with theelastic package.'}]
+2025-05-01 19:53:08,359 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following documentation is intended for use by developers working with theelastic package.'}]
+2025-05-01 19:53:12,994 - INFO - LLM Full Response: [{'summary_text': '# BackLabelport will backport the following commits from main to 9.0:'}]
+2025-05-01 19:53:12,998 - ERROR - Unexpected LLM response structure: [{'summary_text': '# BackLabelport will backport the following commits from main to 9.0:'}]
+2025-05-01 19:53:19,614 - INFO - LLM Full Response: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:53:19,616 - ERROR - Unexpected LLM response structure: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:53:26,411 - INFO - LLM Full Response: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:53:26,412 - ERROR - Unexpected LLM response structure: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:53:32,080 - INFO - LLM Full Response: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:53:32,080 - ERROR - Unexpected LLM response structure: [{'summary_text': 'All images are copyrighted.'}]
+2025-05-01 19:53:36,206 - INFO - LLM Full Response: [{'summary_text': 'In serverless, when the user loads the index mapping page and refresh the page, the styles get lost for the fields.'}]
+2025-05-01 19:53:36,207 - ERROR - Unexpected LLM response structure: [{'summary_text': 'In serverless, when the user loads the index mapping page and refresh the page, the styles get lost for the fields.'}]
+2025-05-01 19:53:37,902 - INFO - LLM Full Response: [{'summary_text': 'How to fix:'}]
+2025-05-01 19:53:37,902 - ERROR - Unexpected LLM response structure: [{'summary_text': 'How to fix:'}]
+2025-05-01 19:53:41,972 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been added to the octokit git repository.'}]
+2025-05-01 19:53:41,973 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been added to the octokit git repository.'}]
+2025-05-01 19:53:45,944 - INFO - LLM Full Response: [{'summary_text': 'Backport version: 9.6.6'}]
+2025-05-01 19:53:45,944 - ERROR - Unexpected LLM response structure: [{'summary_text': 'Backport version: 9.6.6'}]
+2025-05-01 19:53:51,203 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been backported from main to 8.19:'}]
+2025-05-01 19:53:51,205 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been backported from main to 8.19:'}]
+2025-05-01 19:53:59,183 - INFO - LLM Full Response: [{'summary_text': 'The following commits have been backported from main to 8.18, and from main to 8.18, and from main to 8.18, and from main to 8.18, and from '}]
+2025-05-01 19:53:59,186 - ERROR - Unexpected LLM response structure: [{'summary_text': 'The following commits have been backported from main to 8.18, and from main to 8.18, and from main to 8.18, and from main to 8.18, and from '}]
+2025-05-01 19:54:57,623 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 19:54:57,636 - INFO - Repository ranking report generated successfully.
+2025-05-01 20:09:51,020 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:09:51,029 - INFO - Repository ranking report generated successfully.
+2025-05-01 20:11:39,949 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:11:39,963 - INFO - Repository ranking report generated successfully.
+2025-05-01 20:12:19,346 - INFO - Repository rankings generated: [('elastic/kibana', 0)]
+2025-05-01 20:12:19,354 - INFO - Repository ranking report generated successfully.
