@@ -580,7 +580,7 @@ Popular LLM choices include:
 - **OpenAI GPT-4 (gpt-4-turbo)**
 - **Hugging Face Inference API (BART, T5 models)**
 
-### =============================choosing LLM API=============================
+### ===================choosing LLM API===================
 
 If you're looking for a free-tier LLM API, you need to compare Hugging Face Inference API and OpenAI API. Below are the options:
 
@@ -641,7 +641,7 @@ If you're looking for a free-tier LLM API, you need to compare Hugging Face Infe
    LLM_MODEL=gpt-3.5-turbo
    ```
 
-### =============================choosing LLM API=============================
+### ===================choosing LLM API===================
 
 ---
 
@@ -871,7 +871,7 @@ The final objective of this challenge is to generate a repository issue ranking,
 Some challenging points I would say are:
 
 - Fetching issues from the GitHub repository sometimes has problems. Github API sometimes does not respond.
-- The same issue occurs with accessing the model using the Huggingface API; it also takes time, and sometimes does not respond from the Huggingface API services.
+- The same issue occurs with accessing the model using the Huggingface API; it also takes time, and sometimes does not respond from the Huggingface API services. It can be seen in my app-Copy.log in this repository
 - I'm using the Kibana repository with 20,439 stars and 9,900 open issues, so it takes time to finish fetching issues and for the LLM model to analyze the fetched issues and create a summary. Therefore, in the GitHub Repository Issue Management Report (http://localhost:8000/repository-report), it shows that scoring sometimes gives zero values. This needs to be improved by using other models.     
 
 http://localhost:8000/repository-report
