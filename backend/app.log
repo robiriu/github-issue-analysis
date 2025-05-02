@@ -46,3 +46,5 @@
 2025-05-02 09:43:06,245 - INFO - ✅ Fetched 100 issues from page 45 of elastic/kibana
 2025-05-02 09:43:07,641 - INFO - ✅ Fetched 100 issues from page 46 of elastic/kibana
 2025-05-02 09:43:08,894 - INFO - ✅ Fetched 100 issues from page 47 of elastic/kibana
+2025-05-02 11:43:48,384 - INFO - ✅ Repository rankings generated dynamically: [('elastic/kibana', 0)]
+2025-05-02 11:43:48,485 - INFO - ✅ Repository ranking report generated dynamically.
