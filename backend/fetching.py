@@ -1,12 +1,23 @@
+#!/usr/bin/env python3
 import logging
 from app.db.database import SessionLocal
-from app.services import fetch_github_issues, save_issues_to_db
+from app.services import fetch_github_issues, generate_repository_report
 
-db = SessionLocal()
-issues = fetch_github_issues()
+def main():
+    logging.basicConfig(
+        level=logging.INFO,
+        format="%(asctime)s - %(levelname)s - %(message)s"
+    )
 
-if issues:
-    save_issues_to_db(db, issues, "elastic/kibana")
-    logging.info(f"✅ Successfully stored {len(issues)} issues in PostgreSQL.")
-else:
-    logging.error(f"❌ No issues were fetched, storage skipped.")
+    logging.info("Starting GitHub issues fetch...")
+    fetch_github_issues()
+    logging.info("Finished fetching issues.")
+
+    # Generate and print repository report using the latest data
+    db = SessionLocal()
+    logging.info("Generating repository report...")
+    report = generate_repository_report(db)
+    print(report)
+
+if __name__ == "__main__":
+    main()
